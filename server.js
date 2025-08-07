@@ -8,7 +8,7 @@ const SURAH_DIR = path.join(__dirname, 'surah-data');
 
 app.use(express.json());
 
-// 🕌 Get all surah summaries
+// 🕌 List all Surahs (summary)
 app.get('/quran/surahs', (req, res) => {
   try {
     const files = fs.readdirSync(SURAH_DIR);
@@ -26,36 +26,57 @@ app.get('/quran/surahs', (req, res) => {
   }
 });
 
-// 📖 Get full surah with verses
+// 📖 Get full Surah by ID
 app.get('/quran/surah/:id', (req, res) => {
   const surahId = parseInt(req.params.id);
-  const file = fs.readdirSync(SURAH_DIR).find(f => f.includes(`${surahId}`));
-  if (!file) return res.status(404).json({ error: 'Surah not found.' });
+  let foundSurah = null;
 
-  const data = JSON.parse(fs.readFileSync(path.join(SURAH_DIR, file)));
-  res.json(data);
+  fs.readdirSync(SURAH_DIR).forEach(file => {
+    const filePath = path.join(SURAH_DIR, file);
+    const data = JSON.parse(fs.readFileSync(filePath));
+    if (data.id === surahId) {
+      foundSurah = data;
+    }
+  });
+
+  if (!foundSurah) {
+    return res.status(404).json({ error: 'Surah not found.' });
+  }
+
+  res.json(foundSurah);
 });
 
-// 📘 Get specific verse from a surah
+// 📘 Get specific verse from a Surah
 app.get('/quran/surah/:id/verse/:verse_number', (req, res) => {
   const surahId = parseInt(req.params.id);
   const verseNum = parseInt(req.params.verse_number);
+  let foundSurah = null;
 
-  const file = fs.readdirSync(SURAH_DIR).find(f => f.includes(`${surahId}`));
-  if (!file) return res.status(404).json({ error: 'Surah not found.' });
+  fs.readdirSync(SURAH_DIR).forEach(file => {
+    const filePath = path.join(SURAH_DIR, file);
+    const data = JSON.parse(fs.readFileSync(filePath));
+    if (data.id === surahId) {
+      foundSurah = data;
+    }
+  });
 
-  const data = JSON.parse(fs.readFileSync(path.join(SURAH_DIR, file)));
-  const verse = data.verses.find(v => v.verse_number === verseNum);
-  if (!verse) return res.status(404).json({ error: 'Verse not found.' });
+  if (!foundSurah) {
+    return res.status(404).json({ error: 'Surah not found.' });
+  }
+
+  const verse = foundSurah.verses.find(v => v.verse_number === verseNum);
+  if (!verse) {
+    return res.status(404).json({ error: 'Verse not found.' });
+  }
 
   res.json(verse);
 });
 
-// ✅ Root endpoint
+// Root
 app.get('/', (req, res) => {
   res.send('Quran JSON API is running ✅');
 });
 
 app.listen(PORT, () => {
-  console.log(`✅ Server started on port ${PORT}`);
+  console.log(`✅ Server running on port ${PORT}`);
 });
