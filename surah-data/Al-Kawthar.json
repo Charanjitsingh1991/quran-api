@@ -1,0 +1,25 @@
+{
+  "id": 108,
+  "name_simple": "Al-Kawthar",
+  "name_arabic": "الكوثر",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ\n",
+      "english": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+      "hindi": "(ऐ रसूल) हमनें तुमको को कौसर अता किया"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ\n",
+      "english": "So pray to your Lord and sacrifice [to Him alone].",
+      "hindi": "तो तुम अपने परवरदिगार की नमाज़ पढ़ा करो"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ\n",
+      "english": "Indeed, your enemy is the one cut off.",
+      "hindi": "और क़ुर्बानी दिया करो बेशक तुम्हारा दुश्मन बे औलाद रहेगा"
+    }
+  ]
+}

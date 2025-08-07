@@ -1,0 +1,31 @@
+{
+  "id": 106,
+  "name_simple": "Quraysh",
+  "name_arabic": "قريش",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ لِإِیلَـٰفِ قُرَیۡشٍ\n",
+      "english": "For the accustomed security of the Quraysh -",
+      "hindi": "चूँकि क़ुरैश को जाड़े और गर्मी के सफ़र से मानूस कर दिया है"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ\n",
+      "english": "Their accustomed security [in] the caravan of winter and summer -",
+      "hindi": "तो उनको मानूस कर देने की वजह से"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ\n",
+      "english": "Let them worship the Lord of this House,",
+      "hindi": "इस घर (काबा) के मालिक की इबादत करनी चाहिए"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ\n",
+      "english": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+      "hindi": "जिसने उनको भूख में खाना दिया और उनको खौफ़ से अमन अता किया"
+    }
+  ]
+}

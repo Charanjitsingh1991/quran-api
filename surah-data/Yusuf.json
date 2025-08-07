@@ -1,0 +1,673 @@
+{
+  "id": 12,
+  "name_simple": "Yusuf",
+  "name_arabic": "يوسف",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ\n",
+      "english": "Alif, Lam, Ra. These are the verses of the clear Book.",
+      "hindi": "अलिफ़ लाम रा ये वाज़ेए व रौशन किताब की आयतें है"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "إِنَّاۤ أَنزَلۡنَـٰهُ قُرۡءَ ٰ⁠ نًا عَرَبِیࣰّا لَّعَلَّكُمۡ تَعۡقِلُونَ\n",
+      "english": "Indeed, We have sent it down as an Arabic Qur'an that you might understand.",
+      "hindi": "हमने इस किताब (क़ुरान) को अरबी में नाज़िल किया है ताकि तुम समझो"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "نَحۡنُ نَقُصُّ عَلَیۡكَ أَحۡسَنَ ٱلۡقَصَصِ بِمَاۤ أَوۡحَیۡنَاۤ إِلَیۡكَ هَـٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ لَمِنَ ٱلۡغَـٰفِلِینَ\n",
+      "english": "We relate to you, [O Muhammad], the best of stories in what We have revealed to you of this Qur'an although you were, before it, among the unaware.",
+      "hindi": "(ऐ रसूल) हम तुम पर ये क़ुरान नाज़िल करके तुम से एक निहायत उम्दा क़िस्सा बयान करते हैं अगरचे तुम इसके पहले (उससे) बिल्कुल बेख़बर थे"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "إِذۡ قَالَ یُوسُفُ لِأَبِیهِ یَـٰۤأَبَتِ إِنِّی رَأَیۡتُ أَحَدَ عَشَرَ كَوۡكَبࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَیۡتُهُمۡ لِی سَـٰجِدِینَ\n",
+      "english": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\"",
+      "hindi": "(वह वक्त याद करो) जब यूसूफ ने अपने बाप से कहा ऐ अब्बा मैने ग्यारह सितारों और सूरज चाँद को (ख्वाब में) देखा है मैने देखा है कि ये सब मुझे सजदा कर रहे हैं"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "قَالَ یَـٰبُنَیَّ لَا تَقۡصُصۡ رُءۡیَاكَ عَلَىٰۤ إِخۡوَتِكَ فَیَكِیدُوا۟ لَكَ كَیۡدًاۖ إِنَّ ٱلشَّیۡطَـٰنَ لِلۡإِنسَـٰنِ عَدُوࣱّ مُّبِینࣱ\n",
+      "english": "He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.",
+      "hindi": "याक़ूब ने कहा ऐ बेटा (देखो ख़बरदार) कहीं अपना ख्वाब अपने भाईयों से न दोहराना (वरना) वह लोग तुम्हारे लिए मक्कारी की तदबीर करने लगेगें इसमें तो शक़ ही नहीं कि शैतान आदमी का खुला हुआ दुश्मन है"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "وَكَذَ ٰ⁠لِكَ یَجۡتَبِیكَ رَبُّكَ وَیُعَلِّمُكَ مِن تَأۡوِیلِ ٱلۡأَحَادِیثِ وَیُتِمُّ نِعۡمَتَهُۥ عَلَیۡكَ وَعَلَىٰۤ ءَالِ یَعۡقُوبَ كَمَاۤ أَتَمَّهَا عَلَىٰۤ أَبَوَیۡكَ مِن قَبۡلُ إِبۡرَ ٰ⁠هِیمَ وَإِسۡحَـٰقَۚ إِنَّ رَبَّكَ عَلِیمٌ حَكِیمࣱ\n",
+      "english": "And thus will your Lord choose you and teach you the interpretation of narratives and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.\"",
+      "hindi": "और (जो तुमने देखा है) ऐसा ही होगा कि तुम्हारा परवरदिगार तुमको बरगुज़ीदा (इज्ज़तदार) करेगा और तुम्हें ख्वाबो की ताबीर सिखाएगा और जिस तरह इससे पहले तुम्हारे दादा परदादा इबराहीम और इसहाक़ पर अपनी नेअमत पूरी कर चुका है और इसी तरह तुम पर और याक़ूब की औलाद पर अपनी नेअमत पूरी करेगा बेशक तुम्हारा परवरदिगार बड़ा वाक़िफकार हकीम है"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "۞ لَّقَدۡ كَانَ فِی یُوسُفَ وَإِخۡوَتِهِۦۤ ءَایَـٰتࣱ لِّلسَّاۤىِٕلِینَ\n",
+      "english": "Certainly were there in Joseph and his brothers signs for those who ask,",
+      "hindi": "(ऐ रसूल) यूसुफ और उनके भाइयों के किस्से में पूछने वाले (यहूद) के लिए (तुम्हारी नुबूवत) की यक़ीनन बहुत सी निशानियाँ हैं"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "إِذۡ قَالُوا۟ لَیُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰۤ أَبِینَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِی ضَلَـٰلࣲ مُّبِینٍ\n",
+      "english": "When they said, \"Joseph and his brother are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.",
+      "hindi": "कि जब (यूसूफ के भाइयों ने) कहा कि बावजूद कि हमारी बड़ी जमाअत है फिर भी यूसुफ़ और उसका हकीक़ी भाई (इब्ने यामीन) हमारे वालिद के नज़दीक बहुत ज्यादा प्यारे हैं इसमें कुछ शक़ नहीं कि हमारे वालिद यक़ीनन सरीही (खुली हुई) ग़लती में पड़े हैं"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "ٱقۡتُلُوا۟ یُوسُفَ أَوِ ٱطۡرَحُوهُ أَرۡضࣰا یَخۡلُ لَكُمۡ وَجۡهُ أَبِیكُمۡ وَتَكُونُوا۟ مِنۢ بَعۡدِهِۦ قَوۡمࣰا صَـٰلِحِینَ\n",
+      "english": "Kill Joseph or cast him out to [another] land; the countenance of your father will [then] be only for you, and you will be after that a righteous people.\"",
+      "hindi": "(ख़ैर तो अब मुनासिब ये है कि या तो) युसूफ को मार डालो या (कम से कम) उसको किसी जगह (चल कर) फेंक आओ तो अलबत्ता तुम्हारे वालिद की तवज्जो सिर्फ तुम्हारी तरफ हो जाएगा और उसके बाद तुम सबके सब (बाप की तवजज्जो से) भले आदमी हो जाओगें"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "قَالَ قَاۤىِٕلࣱ مِّنۡهُمۡ لَا تَقۡتُلُوا۟ یُوسُفَ وَأَلۡقُوهُ فِی غَیَـٰبَتِ ٱلۡجُبِّ یَلۡتَقِطۡهُ بَعۡضُ ٱلسَّیَّارَةِ إِن كُنتُمۡ فَـٰعِلِینَ\n",
+      "english": "Said a speaker among them, \"Do not kill Joseph but throw him into the bottom of the well; some travelers will pick him up - if you would do [something].\"",
+      "hindi": "उनमें से एक कहने वाला बोल उठा कि यूसुफ को जान से तो न मारो हाँ अगर तुमको ऐसा ही करना है तो उसको किसी अन्धे कुएँ में (ले जाकर) डाल दो कोई राहगीर उसे निकालकर ले जाएगा (और तुम्हारा मतलब हासिल हो जाएगा)"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "قَالُوا۟ یَـٰۤأَبَانَا مَا لَكَ لَا تَأۡمَ۬نَّا عَلَىٰ یُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ\n",
+      "english": "They said, \"O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?",
+      "hindi": "सब ने (याक़ूब से) कहा अब्बा जान आख़िर उसकी क्या वजह है कि आप यूसुफ के बारे में हमारा ऐतबार नहीं करते"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "أَرۡسِلۡهُ مَعَنَا غَدࣰا یَرۡتَعۡ وَیَلۡعَبۡ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ\n",
+      "english": "Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians.",
+      "hindi": "हालॉकि हम लोग तो उसके ख़ैर ख्वाह (भला चाहने वाले) हैं आप उसको कुल हमारे साथ भेज दीजिए कि ज़रा (जंगल) से फल वगैरह् खाए और खेले कूदे"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "قَالَ إِنِّی لَیَحۡزُنُنِیۤ أَن تَذۡهَبُوا۟ بِهِۦ وَأَخَافُ أَن یَأۡكُلَهُ ٱلذِّئۡبُ وَأَنتُمۡ عَنۡهُ غَـٰفِلُونَ\n",
+      "english": "[Jacob] said, \"Indeed, it saddens me that you should take him, and I fear that a wolf would eat him while you are of him unaware.\"",
+      "hindi": "और हम लोग तो उसके निगेहबान हैं ही याक़ूब ने कहा तुम्हारा उसको ले जाना मुझे सख्त सदमा पहुँचाना है और मै तो इससे डरता हूँ कि तुम सब के सब उससे बेख़बर हो जाओ और (मुबादा) उसे भेड़िया फाड़ खाए"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "قَالُوا۟ لَىِٕنۡ أَكَلَهُ ٱلذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ إِنَّاۤ إِذࣰا لَّخَـٰسِرُونَ\n",
+      "english": "They said, \"If a wolf should eat him while we are a [strong] clan, indeed, we would then be losers.\"",
+      "hindi": "वह लोग कहने लगे जब हमारी बड़ी जमाअत है (इस पर भी) अगर उसको भेड़िया खा जाए तो हम लोग यक़ीनन बड़े घाटा उठाने वाले (निकलते) ठहरेगें"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجۡمَعُوۤا۟ أَن یَجۡعَلُوهُ فِی غَیَـٰبَتِ ٱلۡجُبِّۚ وَأَوۡحَیۡنَاۤ إِلَیۡهِ لَتُنَبِّئَنَّهُم بِأَمۡرِهِمۡ هَـٰذَا وَهُمۡ لَا یَشۡعُرُونَ\n",
+      "english": "So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, \"You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].\"",
+      "hindi": "ग़रज़ यूसुफ को जब ये लोग ले गए और इस पर इत्तेफ़ाक़ कर लिया कि उसको अन्धे कुएँ में डाल दें और (आख़िर ये लोग गुज़रे तो) हमने युसुफ़ के पास 'वही' भेजी कि तुम घबराओ नहीं हम अनक़रीब तुम्हें मरतबे (उँचे मकाम) पर पहुँचाएगे (तब तुम) उनके उस फेल (बद) से तम्बीह (आग़ाह) करोगे"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "وَجَاۤءُوۤ أَبَاهُمۡ عِشَاۤءࣰ یَبۡكُونَ\n",
+      "english": "And they came to their father at night, weeping.",
+      "hindi": "जब उन्हें कुछ ध्यान भी न होगा और ये लोग रात को अपने बाप के पास (बनवट) से रोते पीटते हुए आए"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "قَالُوا۟ یَـٰۤأَبَانَاۤ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا یُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَاۤ أَنتَ بِمُؤۡمِنࣲ لَّنَا وَلَوۡ كُنَّا صَـٰدِقِینَ\n",
+      "english": "They said, \"O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful.\"",
+      "hindi": "और कहने लगे ऐ अब्बा हम लोग तो जाकर दौड़ने लगे और यूसुफ को अपने असबाब के पास छोड़ दिया इतने में भेड़िया आकर उसे खा गया हम लोग अगर सच्चे भी हो मगर आपको तो हमारी बात का यक़ीन आने का नहीं"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "وَجَاۤءُو عَلَىٰ قَمِیصِهِۦ بِدَمࣲ كَذِبࣲۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرࣰاۖ فَصَبۡرࣱ جَمِیلࣱۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ\n",
+      "english": "And they brought upon his shirt false blood. [Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. And Allah is the one sought for help against that which you describe.\"",
+      "hindi": "और ये लोग यूसुफ के कुरते पर झूठ मूठ (भेड़) का खून भी (लगा के) लाए थे, याक़ूब ने कहा (भेड़िया ने ही खाया (बल्कि) तुम्हारे दिल ने तुम्हारे बचाओ के लिए एक बात गढ़ी वरना कुर्ता फटा हुआ ज़रुर होता फिर सब्र व शुक्र है और जो कुछ तुम बयान करते हो उस पर ख़ुदा ही से मदद माँगी जाती है"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَجَاۤءَتۡ سَیَّارَةࣱ فَأَرۡسَلُوا۟ وَارِدَهُمۡ فَأَدۡلَىٰ دَلۡوَهُۥۖ قَالَ یَـٰبُشۡرَىٰ هَـٰذَا غُلَـٰمࣱۚ وَأَسَرُّوهُ بِضَـٰعَةࣰۚ وَٱللَّهُ عَلِیمُۢ بِمَا یَعۡمَلُونَ\n",
+      "english": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, \"Good news! Here is a boy.\" And they concealed him, [taking him] as merchandise; and Allah was knowing of what they did.",
+      "hindi": "और (ख़ुदा की शान देखो) एक काफ़ला (वहाँ) आकर उतरा उन लोगों ने अपने सक्के (पानी भरने वाले) को (पानी भरने) भेजा ग़रज़ उसने अपना डोल डाला ही था (कि यूसुफ उसमें बैठे और उसने ख़ीचा तो निकल आए) वह पुकारा आहा ये तो लड़का है और काफला वालो ने यूसुफ को क़ीमती सरमाया समझकर छिपा रखा हालॉकि जो कुछ ये लोग करते थे ख़ुदा उससे ख़ूब वाकिफ था"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسࣲ دَرَ ٰ⁠هِمَ مَعۡدُودَةࣲ وَكَانُوا۟ فِیهِ مِنَ ٱلزَّ ٰ⁠هِدِینَ\n",
+      "english": "And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.",
+      "hindi": "जब यूसुफ के भाइयों को ख़बर लगी तो आ पहुँचे और उनको अपना ग़ुलाम बताया और उन लोगों ने यूसुफ को गिनती के खोटे चन्द दरहम (बहुत थोड़े दाम पर बेच डाला) और वह लोग तो यूसुफ से बेज़ार हो ही रहे थे"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "وَقَالَ ٱلَّذِی ٱشۡتَرَىٰهُ مِن مِّصۡرَ لِٱمۡرَأَتِهِۦۤ أَكۡرِمِی مَثۡوَىٰهُ عَسَىٰۤ أَن یَنفَعَنَاۤ أَوۡ نَتَّخِذَهُۥ وَلَدࣰاۚ وَكَذَ ٰ⁠لِكَ مَكَّنَّا لِیُوسُفَ فِی ٱلۡأَرۡضِ وَلِنُعَلِّمَهُۥ مِن تَأۡوِیلِ ٱلۡأَحَادِیثِۚ وَٱللَّهُ غَالِبٌ عَلَىٰۤ أَمۡرِهِۦ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ\n",
+      "english": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events. And Allah is predominant over His affair, but most of the people do not know.",
+      "hindi": "(यूसुफ को लेकर मिस्र पहुँचे और वहाँ उसे बड़े नफे में बेच डाला) और मिस्र के लोगों से (अज़ीजे मिस्र) जिसने (उनको ख़रीदा था अपनी बीवी (ज़ुलेख़ा) से कहने लगा इसको इज्ज़त व आबरु से रखो अजब नहीं ये हमें कुछ नफा पहुँचाए या (शायद) इसको अपना बेटा ही बना लें और यू हमने यूसुफ को मुल्क (मिस्र) में (जगह देकर) क़ाबिज़ बनाया और ग़रज़ ये थी कि हमने उसे ख्वाब की बातों की ताबीर सिखायी और ख़ुदा तो अपने काम पर (हर तरह के) ग़ालिब व क़ादिर है मगर बहुतेरे लोग (उसको) नहीं जानते"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "وَلَمَّا بَلَغَ أَشُدَّهُۥۤ ءَاتَیۡنَـٰهُ حُكۡمࣰا وَعِلۡمࣰاۚ وَكَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ\n",
+      "english": "And when Joseph reached maturity, We gave him judgment and knowledge. And thus We reward the doers of good.",
+      "hindi": "और जब यूसुफ अपनी जवानी को पहुँचे तो हमने उनको हुक्म (नुबूवत) और इल्म अता किया और नेकी कारों को हम यूँ ही बदला दिया करते हैं"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "وَرَ ٰ⁠وَدَتۡهُ ٱلَّتِی هُوَ فِی بَیۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَ ٰ⁠بَ وَقَالَتۡ هَیۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّیۤ أَحۡسَنَ مَثۡوَایَۖ إِنَّهُۥ لَا یُفۡلِحُ ٱلظَّـٰلِمُونَ\n",
+      "english": "And she, in whose house he was, sought to seduce him. She closed the doors and said, \"Come, you.\" He said, \"[I seek] the refuge of Allah. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\"",
+      "hindi": "और जिस औरत ज़ुलेखा के घर में यूसुफ रहते थे उसने अपने (नाजायज़) मतलब हासिल करने के लिए ख़ुद उनसे आरज़ू की और सब दरवाज़े बन्द कर दिए और (बे ताना) कहने लगी लो आओ यूसुफ ने कहा माज़अल्लाह वह (तुम्हारे मियाँ) मेरा मालिक हैं उन्होंने मुझे अच्छी तरह रखा है मै ऐसा ज़ुल्म क्यों कर सकता हूँ बेशक ऐसा ज़ुल्म करने वाले फलाह नहीं पाते"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "وَلَقَدۡ هَمَّتۡ بِهِۦۖ وَهَمَّ بِهَا لَوۡلَاۤ أَن رَّءَا بُرۡهَـٰنَ رَبِّهِۦۚ كَذَ ٰ⁠لِكَ لِنَصۡرِفَ عَنۡهُ ٱلسُّوۤءَ وَٱلۡفَحۡشَاۤءَۚ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُخۡلَصِینَ\n",
+      "english": "And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants.",
+      "hindi": "ज़ुलेखा ने तो उनके साथ (बुरा) इरादा कर ही लिया था और अगर ये भी अपने परवरदिगार की दलीन न देख चुके होते तो क़स्द कर बैठते (हमने उसको यूँ बचाया) ताकि हम उससे बुराई और बदकारी को दूर रखे बेशक वह हमारे ख़ालिस बन्दों में से था"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِیصَهُۥ مِن دُبُرࣲ وَأَلۡفَیَا سَیِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَاۤءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوۤءًا إِلَّاۤ أَن یُسۡجَنَ أَوۡ عَذَابٌ أَلِیمࣱ\n",
+      "english": "And they both raced to the door, and she tore his shirt from the back, and they found her husband at the door. She said, \"What is the recompense of one who intended evil for your wife but that he be imprisoned or a painful punishment?\"",
+      "hindi": "और दोनों दरवाजे क़ी तरफ झपट पड़े और ज़ुलेख़ा (ने पीछे से उनका कुर्ता पकड़ कर खीचा और) फाड़ डाला और दोनों ने ज़ुलेखा के ख़ाविन्द को दरवाज़े के पास खड़ा पाया ज़ुलेख़ा झट (अपने शौहर से) कहने लगी कि जो तुम्हारी बीबी के साथ बदकारी का इरादा करे उसकी सज़ा इसके सिवा और कुछ नहीं कि या तो कैद कर दिया जाए"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "قَالَ هِیَ رَ ٰ⁠وَدَتۡنِی عَن نَّفۡسِیۚ وَشَهِدَ شَاهِدࣱ مِّنۡ أَهۡلِهَاۤ إِن كَانَ قَمِیصُهُۥ قُدَّ مِن قُبُلࣲ فَصَدَقَتۡ وَهُوَ مِنَ ٱلۡكَـٰذِبِینَ\n",
+      "english": "[Joseph] said, \"It was she who sought to seduce me.\" And a witness from her family testified. \"If his shirt is torn from the front, then she has told the truth, and he is of the liars.",
+      "hindi": "या दर्दनाक अज़ाब में मुब्तिला कर दिया जाए यूसुफ ने कहा उसने ख़ुद (मुझसे मेरी आरज़ू की थी और ज़ुलेख़ा) के कुन्बे वालों में से एक गवाही देने वाले (दूध पीते बच्चे) ने गवाही दी कि अगर उनका कुर्ता आगे से फटा हुआ हो तो ये सच्ची और वह झूठे"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "وَإِن كَانَ قَمِیصُهُۥ قُدَّ مِن دُبُرࣲ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّـٰدِقِینَ\n",
+      "english": "But if his shirt is torn from the back, then she has lied, and he is of the truthful.\"",
+      "hindi": "और अगर उनका कुर्ता पींछे से फटा हुआ हो तो ये झूठी और वह सच्चे"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "فَلَمَّا رَءَا قَمِیصَهُۥ قُدَّ مِن دُبُرࣲ قَالَ إِنَّهُۥ مِن كَیۡدِكُنَّۖ إِنَّ كَیۡدَكُنَّ عَظِیمࣱ\n",
+      "english": "So when her husband saw his shirt torn from the back, he said, \"Indeed, it is of the women's plan. Indeed, your plan is great.",
+      "hindi": "फिर जब अज़ीजे मिस्र ने उनका कुर्ता पीछे से फटा हुआ देखा तो (अपनी औरत से) कहने लगा ये तुम ही लोगों के चलत्तर है उसमें शक़ नहीं कि तुम लोगों के चलत्तर बड़े (ग़ज़ब के) होते हैं"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "یُوسُفُ أَعۡرِضۡ عَنۡ هَـٰذَاۚ وَٱسۡتَغۡفِرِی لِذَنۢبِكِۖ إِنَّكِ كُنتِ مِنَ ٱلۡخَاطِـِٔینَ\n",
+      "english": "Joseph, ignore this. And, [my wife], ask forgiveness for your sin. Indeed, you were of the sinful.\"",
+      "hindi": "(और यूसुफ से कहा) ऐ यूसुफ इसको जाने दो और (औरत से कहा) कि तू अपने गुनाह की माफी माँग क्योंकि बेशक तू ही सरतापा ख़तावार है"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "۞ وَقَالَ نِسۡوَةࣱ فِی ٱلۡمَدِینَةِ ٱمۡرَأَتُ ٱلۡعَزِیزِ تُرَ ٰ⁠وِدُ فَتَىٰهَا عَن نَّفۡسِهِۦۖ قَدۡ شَغَفَهَا حُبًّاۖ إِنَّا لَنَرَىٰهَا فِی ضَلَـٰلࣲ مُّبِینࣲ\n",
+      "english": "And women in the city said, \"The wife of al-'Azeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error.\"",
+      "hindi": "और शहर (मिस्र) में औरतें चर्चा करने लगी कि अज़ीज़ (मिस्र) की बीबी अपने ग़ुलाम से (नाजायज़) मतलब हासिल करने की आरज़ू मन्द है बेशक गुलाम ने उसे उलफत में लुभाया है हम लोग तो यक़ीनन उसे सरीही ग़लती में मुब्तिला देखते हैं"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "فَلَمَّا سَمِعَتۡ بِمَكۡرِهِنَّ أَرۡسَلَتۡ إِلَیۡهِنَّ وَأَعۡتَدَتۡ لَهُنَّ مُتَّكَـࣰٔا وَءَاتَتۡ كُلَّ وَ ٰ⁠حِدَةࣲ مِّنۡهُنَّ سِكِّینࣰا وَقَالَتِ ٱخۡرُجۡ عَلَیۡهِنَّۖ فَلَمَّا رَأَیۡنَهُۥۤ أَكۡبَرۡنَهُۥ وَقَطَّعۡنَ أَیۡدِیَهُنَّ وَقُلۡنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنۡ هَـٰذَاۤ إِلَّا مَلَكࣱ كَرِیمࣱ\n",
+      "english": "So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], \"Come out before them.\" And when they saw him, they greatly admired him and cut their hands and said, \"Perfect is Allah! This is not a man; this is none but a noble angel.\"",
+      "hindi": "तो जब ज़ुलेख़ा ने उनके ताने सुने तो उस ने उन औरतों को बुला भेजा और उनके लिए एक मजलिस आरास्ता की और उसमें से हर एक के हाथ में एक छुरी और एक (नारंगी) दी (और कह दिया कि जब तुम्हारे सामने आए तो काट के एक फ़ाक उसको दे देना) और यूसुफ़ से कहा कि अब इनके सामने से निकल तो जाओ तो जब उन औरतों ने उसे देखा तो उसके बड़ा हसीन पाया तो सब के सब ने (बे खुदी में) अपने अपने हाथ काट डाले और कहने लगी हाय अल्लाह ये आदमी नहीं है ये तो हो न हो बस एक मुअज़िज़ (इज्ज़त वाला) फ़रिश्ता है"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "قَالَتۡ فَذَ ٰ⁠لِكُنَّ ٱلَّذِی لُمۡتُنَّنِی فِیهِۖ وَلَقَدۡ رَ ٰ⁠وَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَىِٕن لَّمۡ یَفۡعَلۡ مَاۤ ءَامُرُهُۥ لَیُسۡجَنَنَّ وَلَیَكُونࣰا مِّنَ ٱلصَّـٰغِرِینَ\n",
+      "english": "She said, \"That is the one about whom you blamed me. And I certainly sought to seduce him, but he firmly refused; and if he will not do what I order him, he will surely be imprisoned and will be of those debased.\"",
+      "hindi": "(तब ज़ुलेख़ा उन औरतों से) बोली कि बस ये वही तो है जिसकी बदौलत तुम सब मुझे मलामत (बुरा भला) करती थीं और हाँ बेशक मैं उससे अपना मतलब हासिल करने की खुद उससे आरज़ू मन्द थी मगर ये बचा रहा और जिस काम का मैं हुक्म देती हूँ अगर ये न करेगा तो ज़रुर क़ैद भी किया जाएगा और ज़लील भी होगा (ये सब बातें यूसुफ ने मेरी बारगाह में) अर्ज़ की"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "قَالَ رَبِّ ٱلسِّجۡنُ أَحَبُّ إِلَیَّ مِمَّا یَدۡعُونَنِیۤ إِلَیۡهِۖ وَإِلَّا تَصۡرِفۡ عَنِّی كَیۡدَهُنَّ أَصۡبُ إِلَیۡهِنَّ وَأَكُن مِّنَ ٱلۡجَـٰهِلِینَ\n",
+      "english": "He said, \"My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.\"",
+      "hindi": "ऐ मेरे पालने वाले जिस बात की ये औरते मुझ से ख्वाहिश रखती हैं उसकी निस्वत (बदले में) मुझे क़ैद ख़ानों ज्यादा पसन्द है और अगर तू इन औरतों के फ़रेब मुझसे दफा न फरमाएगा तो (शायद) मै उनकी तरफ माएल (झुक) हो जाँऊ ले तो जाओ और जाहिलों से शुमार किया जाऊँ"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "فَٱسۡتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنۡهُ كَیۡدَهُنَّۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n",
+      "english": "So his Lord responded to him and averted from him their plan. Indeed, He is the Hearing, the Knowing.",
+      "hindi": "तो उनके परवरदिगार ने उनकी सुन ली और उन औरतों के मकर को दफा कर दिया इसमें शक़ नहीं कि वह बड़ा सुनने वाला वाक़िफकार है"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "ثُمَّ بَدَا لَهُم مِّنۢ بَعۡدِ مَا رَأَوُا۟ ٱلۡـَٔایَـٰتِ لَیَسۡجُنُنَّهُۥ حَتَّىٰ حِینࣲ\n",
+      "english": "Then it appeared to them after they had seen the signs that al-'Azeez should surely imprison him for a time.",
+      "hindi": "फिर (अज़ीज़ मिस्र और उसके लोगों ने) बावजूद के (यूसुफ की पाक दामिनी की) निशानियाँ देख ली थी उसके बाद भी उनको यही मुनासिब मालूम हुआ"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "وَدَخَلَ مَعَهُ ٱلسِّجۡنَ فَتَیَانِۖ قَالَ أَحَدُهُمَاۤ إِنِّیۤ أَرَىٰنِیۤ أَعۡصِرُ خَمۡرࣰاۖ وَقَالَ ٱلۡـَٔاخَرُ إِنِّیۤ أَرَىٰنِیۤ أَحۡمِلُ فَوۡقَ رَأۡسِی خُبۡزࣰا تَأۡكُلُ ٱلطَّیۡرُ مِنۡهُۖ نَبِّئۡنَا بِتَأۡوِیلِهِۦۤۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِینَ\n",
+      "english": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\"",
+      "hindi": "कि कुछ मियाद के लिए उनको क़ैद ही करे दें और यूसुफ के साथ और भी दो जवान आदमी (क़ैद ख़ाने) में दाख़िल हुए (चन्द दिन के बाद) उनमें से एक ने कहा कि मैने ख्वाब में देखा है कि मै (शराब बनाने के वास्ते अंगूर) निचोड़ रहा हूँ और दूसरे ने कहा (मै ने भी ख्वाब में) अपने को देखा कि मै अपने सर पर रोटिया उठाए हुए हूँ और चिड़ियाँ उसे खा रही हैं (यूसुफ) हमको उसकी ताबीर (मतलब) बताओ क्योंकि हम तुमको यक़ीनन नेकी कारों से समझते हैं"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "قَالَ لَا یَأۡتِیكُمَا طَعَامࣱ تُرۡزَقَانِهِۦۤ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِیلِهِۦ قَبۡلَ أَن یَأۡتِیَكُمَاۚ ذَ ٰ⁠لِكُمَا مِمَّا عَلَّمَنِی رَبِّیۤۚ إِنِّی تَرَكۡتُ مِلَّةَ قَوۡمࣲ لَّا یُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡـَٔاخِرَةِ هُمۡ كَـٰفِرُونَ\n",
+      "english": "He said, \"You will not receive food that is provided to you except that I will inform you of its interpretation before it comes to you. That is from what my Lord has taught me. Indeed, I have left the religion of a people who do not believe in Allah, and they, in the Hereafter, are disbelievers.",
+      "hindi": "यूसुफ ने कहा जो खाना तुम्हें (क़ैद ख़ाने से) दिया जाता है वह आने भी न पाएगा कि मै उसके तुम्हारे पास आने के क़ब्ल ही तुम्हे उसकी ताबीर बताऊँगा ये ताबीरे ख्वाब भी उन बातों के साथ है जो मेरे परवरदिगार ने मुझे तालीम फरमाई है मैं उन लोगों का मज़हब छोड़ बैठा हूँ जो ख़ुदा पर ईमान नहीं लाते और वह लोग आख़िरत के भी मुन्किर है"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "وَٱتَّبَعۡتُ مِلَّةَ ءَابَاۤءِیۤ إِبۡرَ ٰ⁠هِیمَ وَإِسۡحَـٰقَ وَیَعۡقُوبَۚ مَا كَانَ لَنَاۤ أَن نُّشۡرِكَ بِٱللَّهِ مِن شَیۡءࣲۚ ذَ ٰ⁠لِكَ مِن فَضۡلِ ٱللَّهِ عَلَیۡنَا وَعَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَشۡكُرُونَ\n",
+      "english": "And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allah. That is from the favor of Allah upon us and upon the people, but most of the people are not grateful.",
+      "hindi": "और मैं तो अपने बाप दादा इबराहीम व इसहाक़ व याक़ूब के मज़हब पर चलने वाला हूँ मुनासिब नहीं कि हम ख़ुदा के साथ किसी चीज़ को (उसका) शरीक बनाएँ ये भी ख़ुदा की एक बड़ी मेहरबानी है हम पर भी और तमाम लोगों पर मगर बहुतेरे लोग उसका शुक्रिया (भी) अदा नहीं करते"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "یَـٰصَـٰحِبَیِ ٱلسِّجۡنِ ءَأَرۡبَابࣱ مُّتَفَرِّقُونَ خَیۡرٌ أَمِ ٱللَّهُ ٱلۡوَ ٰ⁠حِدُ ٱلۡقَهَّارُ\n",
+      "english": "O [my] two companions of prison, are separate lords better or Allah, the One, the Prevailing?",
+      "hindi": "ऐ मेरे कैद ख़ाने के दोनो रफीक़ों (साथियों) (ज़रा ग़ौर तो करो कि) भला जुदा जुदा माबूद अच्छे या ख़ुदाए यकता ज़बरदस्त (अफसोस)"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "مَا تَعۡبُدُونَ مِن دُونِهِۦۤ إِلَّاۤ أَسۡمَاۤءࣰ سَمَّیۡتُمُوهَاۤ أَنتُمۡ وَءَابَاۤؤُكُم مَّاۤ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَـٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوۤا۟ إِلَّاۤ إِیَّاهُۚ ذَ ٰ⁠لِكَ ٱلدِّینُ ٱلۡقَیِّمُ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ\n",
+      "english": "You worship not besides Him except [mere] names you have named them, you and your fathers, for which Allah has sent down no authority. Legislation is not but for Allah. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.",
+      "hindi": "तुम लोग तो ख़ुदा को छोड़कर बस उन चन्द नामों ही को परसतिश करते हो जिन को तुमने और तुम्हारे बाप दादाओं ने गढ़ लिया है ख़ुदा ने उनके लिए कोई दलील नहीं नाज़िल की हुकूमत तो बस ख़ुदा ही के वास्ते ख़ास है उसने तो हुक्म दिया है कि उसके सिवा किसी की इबादत न करो यही साीधा दीन है मगर (अफसोस) बहुतेरे लोग नहीं जानते हैं"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "یَـٰصَـٰحِبَیِ ٱلسِّجۡنِ أَمَّاۤ أَحَدُكُمَا فَیَسۡقِی رَبَّهُۥ خَمۡرࣰاۖ وَأَمَّا ٱلۡـَٔاخَرُ فَیُصۡلَبُ فَتَأۡكُلُ ٱلطَّیۡرُ مِن رَّأۡسِهِۦۚ قُضِیَ ٱلۡأَمۡرُ ٱلَّذِی فِیهِ تَسۡتَفۡتِیَانِ\n",
+      "english": "O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire.\"",
+      "hindi": "ऐ मेरे क़ैद ख़ाने के दोनो रफीक़ो (अच्छा अब ताबीर सुनो तुममें से एक (जिसने अंगूर देखा रिहा होकर) अपने मालिक को शराब पिलाने का काम करेगा और (दूसरा) जिसने रोटियाँ सर पर (देखी हैं) तो सूली दिया जाएगा और चिड़िया उसके सर से (नोच नोच) कर खाएगी जिस अम्र को तुम दोनों दरयाफ्त करते थे (वह ये है और) फैसला हो चुका है"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "وَقَالَ لِلَّذِی ظَنَّ أَنَّهُۥ نَاجࣲ مِّنۡهُمَا ٱذۡكُرۡنِی عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّیۡطَـٰنُ ذِكۡرَ رَبِّهِۦ فَلَبِثَ فِی ٱلسِّجۡنِ بِضۡعَ سِنِینَ\n",
+      "english": "And he said to the one whom he knew would go free, \"Mention me before your master.\" But Satan made him forget the mention [to] his master, and Joseph remained in prison several years.",
+      "hindi": "और उन दोनों में से जिसकी निस्बत यूसुफ ने समझा था वह रिहा हो जाएगा उससे कहा कि अपने मालिक के पास मेरा भी तज़किरा करना (कि मैं बेजुर्म क़ैद हूँ) तो शैतान ने उसे अपने आक़ा से ज़िक्र करना भुला दिया तो यूसुफ क़ैद ख़ाने में कई बरस रहे"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "وَقَالَ ٱلۡمَلِكُ إِنِّیۤ أَرَىٰ سَبۡعَ بَقَرَ ٰ⁠تࣲ سِمَانࣲ یَأۡكُلُهُنَّ سَبۡعٌ عِجَافࣱ وَسَبۡعَ سُنۢبُلَـٰتٍ خُضۡرࣲ وَأُخَرَ یَابِسَـٰتࣲۖ یَـٰۤأَیُّهَا ٱلۡمَلَأُ أَفۡتُونِی فِی رُءۡیَـٰیَ إِن كُنتُمۡ لِلرُّءۡیَا تَعۡبُرُونَ\n",
+      "english": "And [subsequently] the king said, \"Indeed, I have seen [in a dream] seven fat cows being eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry. O eminent ones, explain to me my vision, if you should interpret visions.\"",
+      "hindi": "और (इसी असना (बीच) में) बादशाह ने (भी ख्वाब देखा और) कहा मैने देखा है कि सात मोटी ताज़ी गाए हैं उनको सात दुबली पतली गाय खाए जाती हैं और सात ताज़ी सब्ज़ बालियॉ (देखीं) और फिर (सात) सूखी बालियॉ ऐ (मेरे दरबार के) सरदारों अगर तुम लोगों को ख्वाब की ताबीर देनी आती हो तो मेरे (इस) ख्वाब के बारे में हुक्म लगाओ"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "قَالُوۤا۟ أَضۡغَـٰثُ أَحۡلَـٰمࣲۖ وَمَا نَحۡنُ بِتَأۡوِیلِ ٱلۡأَحۡلَـٰمِ بِعَـٰلِمِینَ\n",
+      "english": "They said, \"[It is but] a mixture of false dreams, and we are not learned in the interpretation of dreams.\"",
+      "hindi": "उन लोगों ने अर्ज़ की कि ये तो (कुछ) ख्वाब परेशॉ (सा) है और हम लोग ऐसे ख्वाब (परेशॉ) की ताबीर तो नहीं जानते हैं"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "وَقَالَ ٱلَّذِی نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِیلِهِۦ فَأَرۡسِلُونِ\n",
+      "english": "But the one who was freed and remembered after a time said, \"I will inform you of its interpretation, so send me forth.\"",
+      "hindi": "और जिसने उन दोनों में से रिहाई पाई थी (साकी) और उसको एक ज़माने के बाद (यूसुफ का क़िस्सा) याद आया बोल उठा कि मुझे (क़ैद ख़ाने तक) जाने दीजिए तो मैं उसकी ताबीर बताए देता हूँ"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "یُوسُفُ أَیُّهَا ٱلصِّدِّیقُ أَفۡتِنَا فِی سَبۡعِ بَقَرَ ٰ⁠تࣲ سِمَانࣲ یَأۡكُلُهُنَّ سَبۡعٌ عِجَافࣱ وَسَبۡعِ سُنۢبُلَـٰتٍ خُضۡرࣲ وَأُخَرَ یَابِسَـٰتࣲ لَّعَلِّیۤ أَرۡجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمۡ یَعۡلَمُونَ\n",
+      "english": "[He said], \"Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people; perhaps they will know [about you].\"",
+      "hindi": "(ग़रज़ वह गया और यूसुफ से कहने लगा) ऐ यूसुफ ऐ बड़े सच्चे (यूसुफ) ज़रा हमें ये तो बताइए कि सात मोटी ताज़ी गायों को सात पतली गाय खाए जाती है और सात बालियॉ हैं हरी कचवा और फिर (सात) सूखी मुरझाई (इसकी ताबीर क्या है) तो मैं लोगों के पास पलट कर जाऊँ (और बयान करुँ)"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِینَ دَأَبࣰا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِی سُنۢبُلِهِۦۤ إِلَّا قَلِیلࣰا مِّمَّا تَأۡكُلُونَ\n",
+      "english": "[Joseph] said, \"You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.",
+      "hindi": "ताकि उनको भी (तुम्हारी क़दर) मालूम हो जाए यूसुफ ने कहा (इसकी ताबीर ये है) कि तुम लोग लगातार सात बरस काश्तकारी करते रहोगे तो जो (फसल) तुम काटो उस (के दाने) को बालियों में रहने देना (छुड़ाना नहीं) मगर थोड़ा (बहुत) जो तुम खुद खाओ"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ سَبۡعࣱ شِدَادࣱ یَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِیلࣰا مِّمَّا تُحۡصِنُونَ\n",
+      "english": "Then will come after that seven difficult [years] which will consume what you saved for them, except a little from which you will store.",
+      "hindi": "उसके बाद बड़े सख्त (खुश्क साली (सूखे) के) सात बरस आएंगें कि जो कुछ तुम लोगों ने उन सातों साल के वास्ते पहले जमा कर रखा होगा सब खा जाएंगें मगर बहुत थोड़ा सा जो तुम (बीज के वास्ते) बचा रखोगे"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ عَامࣱ فِیهِ یُغَاثُ ٱلنَّاسُ وَفِیهِ یَعۡصِرُونَ\n",
+      "english": "Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes].\"",
+      "hindi": "(बस) फिर उसके बाद एक साल आएगा जिसमें लोगों के लिए खूब मेंह बरसेगी (और अंगूर भी खूब फलेगा) और लोग उस साल (उन्हें) शराब के लिए निचोड़ेगें"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِی بِهِۦۖ فَلَمَّا جَاۤءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّـٰتِی قَطَّعۡنَ أَیۡدِیَهُنَّۚ إِنَّ رَبِّی بِكَیۡدِهِنَّ عَلِیمࣱ\n",
+      "english": "And the king said, \"Bring him to me.\" But when the messenger came to him, [Joseph] said, \"Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan.\"",
+      "hindi": "(ये ताबीर सुनते ही) बादशाह ने हुक्म दिया कि यूसुफ को मेरे हुज़ूर में तो ले आओ फिर जब (शाही) चौबदार (ये हुक्म लेकर) यूसुफ के पास आया तो युसूफ ने कहा कि तुम अपनी सरकार के पास पलट जाओ और उनसे पूछो कि (आप को) कुछ उन औरतों का हाल भी मालूम है जिन्होने (मुझे देख कर) अपने अपने हाथ काट डाले थे कि या मैं उनका तालिब था"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "قَالَ مَا خَطۡبُكُنَّ إِذۡ رَ ٰ⁠وَدتُّنَّ یُوسُفَ عَن نَّفۡسِهِۦۚ قُلۡنَ حَـٰشَ لِلَّهِ مَا عَلِمۡنَا عَلَیۡهِ مِن سُوۤءࣲۚ قَالَتِ ٱمۡرَأَتُ ٱلۡعَزِیزِ ٱلۡـَٔـٰنَ حَصۡحَصَ ٱلۡحَقُّ أَنَا۠ رَ ٰ⁠وَدتُّهُۥ عَن نَّفۡسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِینَ\n",
+      "english": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allah! We know about him no evil.\" The wife of al-'Azeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful.",
+      "hindi": "या वह (मेरी) इसमें तो शक़ ही नहीं कि मेरा परवरदिगार ही उनके मक्र से खूब वाक़िफ है चुनान्चे बादशाह ने (उन औरतों को तलब किया) और पूछा कि जिस वक्त तुम लोगों ने यूसुफ से अपना मतलब हासिल करने की खुद उन से तमन्ना की थी तो हमें क्या मामला पेश आया था वह सब की सब अर्ज क़रने लगी हाशा अल्लाह हमने यूसुफ में तो किसी तरह की बुराई नहीं देखी (तब) अज़ीज़ मिस्र की बीबी (ज़ुलेख़ा) बोल उठी अब तू ठीक ठीक हाल सब पर ज़ाहिर हो ही गया (असल बात ये है कि) मैने खुद उससे अपना मतलब हासिल करने की तमन्ना की थी और बेशक वह यक़ीनन सच्चा है"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "ذَ ٰ⁠لِكَ لِیَعۡلَمَ أَنِّی لَمۡ أَخُنۡهُ بِٱلۡغَیۡبِ وَأَنَّ ٱللَّهَ لَا یَهۡدِی كَیۡدَ ٱلۡخَاۤىِٕنِینَ\n",
+      "english": "That is so al-'Azeez will know that I did not betray him in [his] absence and that Allah does not guide the plan of betrayers.",
+      "hindi": "ये वाक़िया चौबदार ने यूसुफ से बयान किया (यूसुफ ने कहा) ये क़िस्से मैने इसलिए छेड़ा) ताकि तुम्हारे बादशाह को मालूम हो जाए कि मैने अज़ीज़ की ग़ैबत में उसकी (अमानत में ख़यानत नहीं की) और ख़ुदा ख़यानत करने वालों की मक्कारी हरगिज़ चलने नहीं देता"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "۞ وَمَاۤ أُبَرِّئُ نَفۡسِیۤۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوۤءِ إِلَّا مَا رَحِمَ رَبِّیۤۚ إِنَّ رَبِّی غَفُورࣱ رَّحِیمࣱ\n",
+      "english": "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy. Indeed, my Lord is Forgiving and Merciful.\"",
+      "hindi": "और (यूं तो) मै भी अपने नफ्स को गुनाहो से बे लौस नहीं कहता हूँ क्योंकि (मैं भी बशर हूँ और नफ्स बराबर बुराई की तरफ उभारता ही है मगर जिस पर मेरा परवरदिगार रहम फरमाए (और गुनाह से बचाए)"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِی بِهِۦۤ أَسۡتَخۡلِصۡهُ لِنَفۡسِیۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلۡیَوۡمَ لَدَیۡنَا مَكِینٌ أَمِینࣱ\n",
+      "english": "And the king said, \"Bring him to me; I will appoint him exclusively for myself.\" And when he spoke to him, he said, \"Indeed, you are today established [in position] and trusted.\"",
+      "hindi": "इसमें शक़ नहीं कि मेरा परवरदिगार बड़ा बख्शने वाला मेहरबान है और बादशाह ने हुक्म दिया कि यूसुफ को मेरे पास ले आओ तो मैं उनको अपने ज़ाती काम के लिए ख़ास कर लूंगा फिर उसने यूसुफ से बातें की तो यूसुफ की आला क़ाबलियत साबित हुई (और) उसने हुक्म दिया कि तुम आज (से) हमारे सरकार में यक़ीन बावक़ार (और) मुअतबर हो"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "قَالَ ٱجۡعَلۡنِی عَلَىٰ خَزَاۤىِٕنِ ٱلۡأَرۡضِۖ إِنِّی حَفِیظٌ عَلِیمࣱ\n",
+      "english": "[Joseph] said, \"Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian.\"",
+      "hindi": "यूसुफ ने कहा (जब अपने मेरी क़दर की है तो) मुझे मुल्की ख़ज़ानों पर मुक़र्रर कीजिए क्योंकि मैं (उसका) अमानतदार ख़ज़ान्ची (और) उसके हिसाब व किताब से भी वाक़िफ हूँ"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "وَكَذَ ٰ⁠لِكَ مَكَّنَّا لِیُوسُفَ فِی ٱلۡأَرۡضِ یَتَبَوَّأُ مِنۡهَا حَیۡثُ یَشَاۤءُۚ نُصِیبُ بِرَحۡمَتِنَا مَن نَّشَاۤءُۖ وَلَا نُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ\n",
+      "english": "And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.",
+      "hindi": "(ग़रज़ यूसुफ शाही ख़ज़ानो के अफसर मुक़र्रर हुए) और हमने यूसुफ को युं मुल्क (मिस्र) पर क़ाबिज़ बना दिया कि उसमें जहाँ चाहें रहें हम जिस पर चाहते हैं अपना फज़ल करते हैं और हमने नेको कारो के अज्र को अकारत नहीं करते"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "وَلَأَجۡرُ ٱلۡـَٔاخِرَةِ خَیۡرࣱ لِّلَّذِینَ ءَامَنُوا۟ وَكَانُوا۟ یَتَّقُونَ\n",
+      "english": "And the reward of the Hereafter is better for those who believed and were fearing Allah.",
+      "hindi": "और जो लोग ईमान लाए और परहेज़गारी करते रहे उनके लिए आख़िरत का अज्र उसी से कही बेहतर है"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "وَجَاۤءَ إِخۡوَةُ یُوسُفَ فَدَخَلُوا۟ عَلَیۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ\n",
+      "english": "And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.",
+      "hindi": "और चूंकि कनआन में भी कहत (सूखा) था इस वजह से) यूसुफ के (सौतेले भाई ग़ल्ला ख़रीदने को मिस्र में) आए और यूसुफ के पास गए तो उनको फौरन ही पहचान लिया और वह लोग उनको न पहचान सके"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِی بِأَخࣲ لَّكُم مِّنۡ أَبِیكُمۡۚ أَلَا تَرَوۡنَ أَنِّیۤ أُوفِی ٱلۡكَیۡلَ وَأَنَا۠ خَیۡرُ ٱلۡمُنزِلِینَ\n",
+      "english": "And when he had furnished them with their supplies, he said, \"Bring me a brother of yours from your father. Do not you see that I give full measure and that I am the best of accommodators?",
+      "hindi": "और जब यूसुफ ने उनके (ग़ल्ले का) सामान दुरूस्त कर दिया और वह जाने लगे तो यूसुफ़ ने (उनसे कहा) कि (अबकी आना तो) अपने सौतेले भाई को (जिसे घर छोड़ आए हो) मेरे पास लेते आना क्या तुम नहीं देखते कि मै यक़ीनन नाप भी पूरी देता हूं और बहुत अच्छा मेहमान नवाज़ भी हूँ"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "فَإِن لَّمۡ تَأۡتُونِی بِهِۦ فَلَا كَیۡلَ لَكُمۡ عِندِی وَلَا تَقۡرَبُونِ\n",
+      "english": "But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me.\"",
+      "hindi": "पस अगर तुम उसको मेरे पास न लाओगे तो तुम्हारे लिए न मेरे पास कुछ न कुछ (ग़ल्ला वग़ैरह) होगा"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "قَالُوا۟ سَنُرَ ٰ⁠وِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ\n",
+      "english": "They said, \"We will attempt to dissuade his father from [keeping] him, and indeed, we will do [it].\"",
+      "hindi": "न तुम लोग मेरे क़रीब ही चढ़ने पाओगे वह लोग कहने लगे हम उसके वालिद से उसके बारे में जाते ही दरख्वास्त करेंगे"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "وَقَالَ لِفِتۡیَـٰنِهِ ٱجۡعَلُوا۟ بِضَـٰعَتَهُمۡ فِی رِحَالِهِمۡ لَعَلَّهُمۡ یَعۡرِفُونَهَاۤ إِذَا ٱنقَلَبُوۤا۟ إِلَىٰۤ أَهۡلِهِمۡ لَعَلَّهُمۡ یَرۡجِعُونَ\n",
+      "english": "And [Joseph] said to his servants, \"Put their merchandise into their saddlebags so they might recognize it when they have gone back to their people that perhaps they will [again] return.\"",
+      "hindi": "और हम ज़रुर इस काम को पूरा करेंगें और यूसुफ ने अपने मुलाज़िमों (नौकरों) को हुक्म दिया कि उनकी (जमा) पूंजी उनके बोरो में (चूपके से) रख दो ताकि जब ये लोग अपने एहलो (अयाल) के पास लौट कर जाएं तो अपनी पूंजी को पहचान ले"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "فَلَمَّا رَجَعُوۤا۟ إِلَىٰۤ أَبِیهِمۡ قَالُوا۟ یَـٰۤأَبَانَا مُنِعَ مِنَّا ٱلۡكَیۡلُ فَأَرۡسِلۡ مَعَنَاۤ أَخَانَا نَكۡتَلۡ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ\n",
+      "english": "So when they returned to their father, they said, \"O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians.\"",
+      "hindi": "(और इस लालच में) यायद फिर पलट के आएं ग़रज़ जब ये लोग अपने वालिद के पास पलट के आए तो सब ने मिलकर अर्ज़ की ऐ अब्बा हमें (आइन्दा) गल्ले मिलने की मुमानिअत (मना) कर दी गई है तो आप हमारे साथ हमारे भाई (बिन यामीन) को भेज दीजिए"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "قَالَ هَلۡ ءَامَنُكُمۡ عَلَیۡهِ إِلَّا كَمَاۤ أَمِنتُكُمۡ عَلَىٰۤ أَخِیهِ مِن قَبۡلُ فَٱللَّهُ خَیۡرٌ حَـٰفِظࣰاۖ وَهُوَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ\n",
+      "english": "He said, \"Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allah is the best guardian, and He is the most merciful of the merciful.\"",
+      "hindi": "ताकि हम (फिर) गल्ला लाए और हम उसकी पूरी हिफाज़त करेगें याक़ूब ने कहा मै उसके बारे में तुम्हारा ऐतबार नहीं करता मगर वैसा ही जैसा कि उससे पहले उसके मांजाए (भाई) के बारे में किया था तो ख़ुद उसका सबसे बेहतर हिफाज़त करने वाला है और वही सब से ज्यादा रहम करने वाला है"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمۡ وَجَدُوا۟ بِضَـٰعَتَهُمۡ رُدَّتۡ إِلَیۡهِمۡۖ قَالُوا۟ یَـٰۤأَبَانَا مَا نَبۡغِیۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتۡ إِلَیۡنَاۖ وَنَمِیرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَیۡلَ بَعِیرࣲۖ ذَ ٰ⁠لِكَ كَیۡلࣱ یَسِیرࣱ\n",
+      "english": "And when they opened their baggage, they found their merchandise returned to them. They said, \"O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement.\"",
+      "hindi": "और जब उन लोगों ने अपने अपने असबाब खोले तो अपनी अपनी पूंजी को देखा कि (वैसे ही) वापस कर दी गई है तो (अपने बाप से) कहने लगे ऐ अब्बा हमें (और) क्या चाहिए (देखिए) यह हमारी जमा पूंजी हमें वापस दे दी गयी है और (ग़ल्ला मुफ्त मिला अब इब्ने यामीन को जाने दीजिए तो) हम अपने एहलो अयाल के वास्ते ग़ल्ला लादें और अपने भाई की पूरी हिफाज़त करेगें और एक बार यतर ग़ल्ला और बढ़वा लाएंगें"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "قَالَ لَنۡ أُرۡسِلَهُۥ مَعَكُمۡ حَتَّىٰ تُؤۡتُونِ مَوۡثِقࣰا مِّنَ ٱللَّهِ لَتَأۡتُنَّنِی بِهِۦۤ إِلَّاۤ أَن یُحَاطَ بِكُمۡۖ فَلَمَّاۤ ءَاتَوۡهُ مَوۡثِقَهُمۡ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِیلࣱ\n",
+      "english": "[Jacob] said, \"Never will I send him with you until you give me a promise by Allah that you will bring him [back] to me, unless you should be surrounded by enemies.\" And when they had given their promise, he said, \"Allah, over what we say, is Witness.\"",
+      "hindi": "ये जो अबकी दफा लाए थे थोड़ा सा ग़ल्ला है याकूब ने कहा जब तक तुम लोग मेरे सामने खुदा से एहद न कर लोगे कि तुम उसको ज़रुर मुझ तक (सही व सालिम) ले आओगे मगर हाँ जब तुम खुद घिर जाओ तो मजबूरी है वरना मै तुम्हारे साथ हरगिज़ उसको न भेजूंगा फिर जब उन लोगों ने उनके सामने एहद कर लिया तो याक़ूब ने कहा कि हम लोग जो कह रहे हैं ख़ुदा उसका ज़ामिन है"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "وَقَالَ یَـٰبَنِیَّ لَا تَدۡخُلُوا۟ مِنۢ بَابࣲ وَ ٰ⁠حِدࣲ وَٱدۡخُلُوا۟ مِنۡ أَبۡوَ ٰ⁠بࣲ مُّتَفَرِّقَةࣲۖ وَمَاۤ أُغۡنِی عَنكُم مِّنَ ٱللَّهِ مِن شَیۡءٍۖ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ عَلَیۡهِ تَوَكَّلۡتُۖ وَعَلَیۡهِ فَلۡیَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ\n",
+      "english": "And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allah at all. The decision is only for Allah; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\"",
+      "hindi": "और याक़ूब ने (नसीहतन चलते वक्त बेटो से) कहा ऐ फरज़न्दों (देखो ख़बरदार) सब के सब एक ही दरवाजे से न दाख़िल होना (कि कहीं नज़र न लग जाए) और मुताफरिक़ (अलग अलग) दरवाज़ों से दाख़िल होना और मै तुमसे (उस बात को जो) ख़ुदा की तरफ से (आए) कुछ टाल भी नहीं सकता हुक्म तो (और असली) ख़ुदा ही के वास्ते है मैने उसी पर भरोसा किया है और भरोसा करने वालों को उसी पर भरोसा करना चाहिए"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "وَلَمَّا دَخَلُوا۟ مِنۡ حَیۡثُ أَمَرَهُمۡ أَبُوهُم مَّا كَانَ یُغۡنِی عَنۡهُم مِّنَ ٱللَّهِ مِن شَیۡءٍ إِلَّا حَاجَةࣰ فِی نَفۡسِ یَعۡقُوبَ قَضَىٰهَاۚ وَإِنَّهُۥ لَذُو عِلۡمࣲ لِّمَا عَلَّمۡنَـٰهُ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ\n",
+      "english": "And when they entered from where their father had ordered them, it did not avail them against Allah at all except [it was] a need within the soul of Jacob, which he satisfied. And indeed, he was a possessor of knowledge because of what We had taught him, but most of the people do not know.",
+      "hindi": "और जब ये सब भाई जिस तरह उनके वालिद ने हुक्म दिया था उसी तरह (मिस्र में) दाख़िल हुए मगर जो हुक्म ख़ुदा की तरफ से आने को था उसे याक़ूब कुछ भी टाल नहीं सकते थे मगर (हाँ) याक़ूब के दिल में एक तमन्ना थी जिसे उन्होंने भी युं पूरा कर लिया क्योंकि इसमे तो शक़ नहीं कि उसे चूंकि हमने तालीम दी थी साहिबे इल्म ज़रुर था मगर बहुतेरे लोग (उससे भी) वाक़िफ नहीं"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "وَلَمَّا دَخَلُوا۟ عَلَىٰ یُوسُفَ ءَاوَىٰۤ إِلَیۡهِ أَخَاهُۖ قَالَ إِنِّیۤ أَنَا۠ أَخُوكَ فَلَا تَبۡتَىِٕسۡ بِمَا كَانُوا۟ یَعۡمَلُونَ\n",
+      "english": "And when they entered upon Joseph, he took his brother to himself; he said, \"Indeed, I am your brother, so do not despair over what they used to do [to me].\"",
+      "hindi": "और जब ये लोग यूसुफ के पास पहुँचे तो यूसुफ ने अपने हक़ीक़ी (सगे) भाई को अपने पास (बग़ल में) जगह दी और (चुपके से) उस (इब्ने यामीन) से कह दिया कि मै तुम्हारा भाई (यूसुफ) हूँ तो जो कुछ (बदसुलूकियाँ) ये लोग तुम्हारे साथ करते रहे हैं उसका रंज न करो"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَایَةَ فِی رَحۡلِ أَخِیهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَیَّتُهَا ٱلۡعِیرُ إِنَّكُمۡ لَسَـٰرِقُونَ\n",
+      "english": "So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, \"O caravan, indeed you are thieves.\"",
+      "hindi": "फिर जब यूसुफ ने उन का साज़ो सामान सफर ग़ल्ला (वग़ैरह) दुरुस्त करा दिया तो अपने भाई के असबाब में पानी पीने का कटोरा (यूसुफ के इशारे) से रखवा दिया फिर एक मुनादी ललकार के बोला कि ऐ क़ाफ़िले वालों (हो न हो) यक़ीनन तुम्ही लोग ज़रुर चोर हो"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "قَالُوا۟ وَأَقۡبَلُوا۟ عَلَیۡهِم مَّاذَا تَفۡقِدُونَ\n",
+      "english": "They said while approaching them, \"What is it you are missing?\"",
+      "hindi": "ये सुन कर ये लोग पुकारने वालों की तरफ भिड़ पड़े और कहने लगे (आख़िर) तुम्हारी क्या चीज़ गुम हो गई है"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "قَالُوا۟ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ وَلِمَن جَاۤءَ بِهِۦ حِمۡلُ بَعِیرࣲ وَأَنَا۠ بِهِۦ زَعِیمࣱ\n",
+      "english": "They said, \"We are missing the measure of the king. And for he who produces it is [the reward of] a camel's load, and I am responsible for it.\"",
+      "hindi": "उन लोगों ने जवाब दिया कि हमें बादशाह का प्याला नहीं मिलता है और मै उसका ज़ामिन हूँ कि जो शख़्श उसको ला हाज़िर करेगा उसको एक ऊँट के बोझ बराबर (ग़ल्ला इनाम) मिलेगा"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِی ٱلۡأَرۡضِ وَمَا كُنَّا سَـٰرِقِینَ\n",
+      "english": "They said, \"By Allah, you have certainly known that we did not come to cause corruption in the land, and we have not been thieves.\"",
+      "hindi": "तब ये लोग कहने लगे ख़ुदा की क़सम तुम तो जानते हो कि (तुम्हारे) मुल्क में हम फसाद करने की ग़रज़ से नहीं आए थे और हम लोग तो कुछ चोर तो हैं नहीं"
+    },
+    {
+      "verse_number": 74,
+      "arabic": "قَالُوا۟ فَمَا جَزَ ٰ⁠ۤؤُهُۥۤ إِن كُنتُمۡ كَـٰذِبِینَ\n",
+      "english": "The accusers said, \"Then what would be its recompense if you should be liars?\"",
+      "hindi": "तब वह मुलाज़िमीन बोले कि अगर तुम झूठे निकले तो फिर चोर की क्या सज़ा होगी"
+    },
+    {
+      "verse_number": 75,
+      "arabic": "قَالُوا۟ جَزَ ٰ⁠ۤؤُهُۥ مَن وُجِدَ فِی رَحۡلِهِۦ فَهُوَ جَزَ ٰ⁠ۤؤُهُۥۚ كَذَ ٰ⁠لِكَ نَجۡزِی ٱلظَّـٰلِمِینَ\n",
+      "english": "[The brothers] said, \"Its recompense is that he in whose bag it is found - he [himself] will be its recompense. Thus do we recompense the wrongdoers.\"",
+      "hindi": "(वे धड़क) बोल उठे कि उसकी सज़ा ये है कि जिसके बोरे में वह (माल) निकले तो वही उसका बदला है (तो वह माल के बदले में ग़ुलाम बना लिया जाए)"
+    },
+    {
+      "verse_number": 76,
+      "arabic": "فَبَدَأَ بِأَوۡعِیَتِهِمۡ قَبۡلَ وِعَاۤءِ أَخِیهِ ثُمَّ ٱسۡتَخۡرَجَهَا مِن وِعَاۤءِ أَخِیهِۚ كَذَ ٰ⁠لِكَ كِدۡنَا لِیُوسُفَۖ مَا كَانَ لِیَأۡخُذَ أَخَاهُ فِی دِینِ ٱلۡمَلِكِ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ نَرۡفَعُ دَرَجَـٰتࣲ مَّن نَّشَاۤءُۗ وَفَوۡقَ كُلِّ ذِی عِلۡمٍ عَلِیمࣱ\n",
+      "english": "So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion of the king except that Allah willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.",
+      "hindi": "हम लोग तो (अपने यहाँ) ज़ालिमों (चोरों) को इसी तरह सज़ा दिया करते हैं ग़रज़ यूसुफ ने अपने भाई का थैला खोलने ने से क़ब्ल दूसरे भाइयों के थैलों से (तलाशी) शुरू की उसके बाद (आख़िर में) उस प्याले को यूसुफ ने अपने भाई के थैले से बरामद किया यूसुफ को भाई के रोकने की हमने यू तदबीर बताइ वरना (बादशाह मिस्र) के क़ानून के मुवाफिक़ अपने भाई को रोक नहीं सकते थे मगर हाँ जब ख़ुदा चाहे हम जिसे चाहते हैं उसके दर्जे बुलन्द कर देते हैं और (दुनिया में) हर साहबे इल्म से बढ़कर एक और आलिम है"
+    },
+    {
+      "verse_number": 77,
+      "arabic": "۞ قَالُوۤا۟ إِن یَسۡرِقۡ فَقَدۡ سَرَقَ أَخࣱ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا یُوسُفُ فِی نَفۡسِهِۦ وَلَمۡ یُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرࣱّ مَّكَانࣰاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ\n",
+      "english": "They said, \"If he steals - a brother of his has stolen before.\" But Joseph kept it within himself and did not reveal it to them. He said, \"You are worse in position, and Allah is most knowing of what you describe.\"",
+      "hindi": "(ग़रज़) इब्ने यामीन रोक लिए गए तो ये लोग कहने लगे अगर उसने चोरी की तो (कौन ताज्जुब है) इसके पहले इसका भाई (यूसुफ) चोरी कर चुका है तो यूसुफ ने (उसका कुछ जवाब न दिया) उसको अपने दिल में पोशीदा (छुपाये) रखा और उन पर ज़ाहिर न होने दिया मगर ये कह दिया कि तुम लोग बड़े ख़ाना ख़राब (बुरे आदमी) हो"
+    },
+    {
+      "verse_number": 78,
+      "arabic": "قَالُوا۟ یَـٰۤأَیُّهَا ٱلۡعَزِیزُ إِنَّ لَهُۥۤ أَبࣰا شَیۡخࣰا كَبِیرࣰا فَخُذۡ أَحَدَنَا مَكَانَهُۥۤۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِینَ\n",
+      "english": "They said, \"O 'Azeez, indeed he has a father [who is] an old man, so take one of us in place of him. Indeed, we see you as a doer of good.\"",
+      "hindi": "और जो (उसके भाई की चोरी का हाल बयान करते हो ख़ुदा खूब बवाक़िफ है (इस पर) उन लोगों ने कहा ऐ अज़ीज़ उस (इब्ने यामीन) के वालिद बहुत बूढ़े (आदमी) हैं (और इसको बहुत चाहते हैं) तो आप उसके ऐवज़ (बदले) हम में से किसी को ले लीजिए और उसको छोड़ दीजिए"
+    },
+    {
+      "verse_number": 79,
+      "arabic": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَـٰعَنَا عِندَهُۥۤ إِنَّاۤ إِذࣰا لَّظَـٰلِمُونَ\n",
+      "english": "He said, \"[I seek] the refuge of Allah [to prevent] that we take except him with whom we found our possession. Indeed, we would then be unjust.\"",
+      "hindi": "क्योंकि हम आपको बहुत नेको कार बुर्जुग़ समझते हैं यूसुफ ने कहा माज़ अल्लाह (ये क्यों कर हो सकता है कि) हमने जिसकी पास अपनी चीज़ पाई है उसे छोड़कर दूसरे को पकड़ लें (अगर हम ऐसा करें) तो हम ज़रुर बड़े बेइन्साफ ठहरे"
+    },
+    {
+      "verse_number": 80,
+      "arabic": "فَلَمَّا ٱسۡتَیۡـَٔسُوا۟ مِنۡهُ خَلَصُوا۟ نَجِیࣰّاۖ قَالَ كَبِیرُهُمۡ أَلَمۡ تَعۡلَمُوۤا۟ أَنَّ أَبَاكُمۡ قَدۡ أَخَذَ عَلَیۡكُم مَّوۡثِقࣰا مِّنَ ٱللَّهِ وَمِن قَبۡلُ مَا فَرَّطتُمۡ فِی یُوسُفَۖ فَلَنۡ أَبۡرَحَ ٱلۡأَرۡضَ حَتَّىٰ یَأۡذَنَ لِیۤ أَبِیۤ أَوۡ یَحۡكُمَ ٱللَّهُ لِیۖ وَهُوَ خَیۡرُ ٱلۡحَـٰكِمِینَ\n",
+      "english": "So when they had despaired of him, they secluded themselves in private consultation. The eldest of them said, \"Do you not know that your father has taken upon you an oath by Allah and [that] before you failed in [your duty to] Joseph? So I will never leave [this] land until my father permits me or Allah decides for me, and He is the best of judges.",
+      "hindi": "फिर जब यूसुफ की तरफ से मायूस हुए तो बाहम मशवरा करने के लिए अलग खड़े हुए तो जो शख़्श उन सब में बड़ा था (यहूदा) कहने लगा (भाइयों) क्या तुम को मालूम नहीं कि तुम्हार वालिद ने तुम लोगों से ख़ुदा का एहद करा लिया था और उससे तुम लोग यूसुफ के बारे में क्या कुछ ग़लती कर ही चुके हो तो (भाई) जब तक मेरे वालिद मुझे इजाज़त (न) दें या खुद ख़ुदा मुझे कोई हुक्म (न) दे मै उस सर ज़मीन से हरगिज़ न हटूंगा और ख़ुदा तो सब हुक्म देने वालो से कहीं बेहतर है"
+    },
+    {
+      "verse_number": 81,
+      "arabic": "ٱرۡجِعُوۤا۟ إِلَىٰۤ أَبِیكُمۡ فَقُولُوا۟ یَـٰۤأَبَانَاۤ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَاۤ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَیۡبِ حَـٰفِظِینَ\n",
+      "english": "Return to your father and say, \"O our father, indeed your son has stolen, and we did not testify except to what we knew. And we were not witnesses of the unseen,",
+      "hindi": "तुम लोग अपने वालिद के पास पलट के जाओ और उनसे जाकर अर्ज़ करो ऐ अब्बा अपके साहबज़ादे ने चोरी की और हम लोगों ने तो अपनी समझ के मुताबिक़ (उसके ले आने का एहद किया था और हम कुछ (अर्ज़) ग़ैबी (आफत) के निगेहबान थे नहीं"
+    },
+    {
+      "verse_number": 82,
+      "arabic": "وَسۡـَٔلِ ٱلۡقَرۡیَةَ ٱلَّتِی كُنَّا فِیهَا وَٱلۡعِیرَ ٱلَّتِیۤ أَقۡبَلۡنَا فِیهَاۖ وَإِنَّا لَصَـٰدِقُونَ\n",
+      "english": "And ask the city in which we were and the caravan in which we came - and indeed, we are truthful,\"",
+      "hindi": "और आप इस बस्ती (मिस्र) के लोगों से जिसमें हम लोग थे दरयाफ्त कर लीजिए और इस क़ाफले से भी जिसमें आए हैं (पूछ लीजिए) और हम यक़ीनन बिल्कुल सच्चे हैं"
+    },
+    {
+      "verse_number": 83,
+      "arabic": "قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرࣰاۖ فَصَبۡرࣱ جَمِیلٌۖ عَسَى ٱللَّهُ أَن یَأۡتِیَنِی بِهِمۡ جَمِیعًاۚ إِنَّهُۥ هُوَ ٱلۡعَلِیمُ ٱلۡحَكِیمُ\n",
+      "english": "[Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allah will bring them to me all together. Indeed it is He who is the Knowing, the Wise.\"",
+      "hindi": "(ग़रज़ जब उन लोगों ने जाकर बयान किया तो) याक़ूब न कहा (उसने चोरी नहीं की) बल्कि ये बात तुमने अपने दिल से गढ़ ली है तो (ख़ैर) सब्र (और ख़ुदा का) शुक्र ख़ुदा से तो (मुझे) उम्मीद है कि मेरे सब (लड़कों) को मेरे पास पहुँचा दे बेशक वह बड़ा वाकिफ़ कार हकीम है"
+    },
+    {
+      "verse_number": 84,
+      "arabic": "وَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ یَـٰۤأَسَفَىٰ عَلَىٰ یُوسُفَ وَٱبۡیَضَّتۡ عَیۡنَاهُ مِنَ ٱلۡحُزۡنِ فَهُوَ كَظِیمࣱ\n",
+      "english": "And he turned away from them and said, \"Oh, my sorrow over Joseph,\" and his eyes became white from grief, for he was [of that] a suppressor.",
+      "hindi": "और याक़ूब ने उन लोगों की तरफ से मुँह फेर लिया और (रोकर) कहने लगे हाए अफसोस यूसुफ पर और (इस क़दर रोए कि) उनकी ऑंखें सदमे से सफेद हो गई वह तो बड़े रंज के ज़ाबित (झेलने वाले) थे"
+    },
+    {
+      "verse_number": 85,
+      "arabic": "قَالُوا۟ تَٱللَّهِ تَفۡتَؤُا۟ تَذۡكُرُ یُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوۡ تَكُونَ مِنَ ٱلۡهَـٰلِكِینَ\n",
+      "english": "They said, \"By Allah, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\"",
+      "hindi": "(ये देखकर उनके बेटे) कहने लगे कि आप तो हमेशा यूसुफ को याद ही करते रहिएगा यहाँ तक कि बीमार हो जाएगा या जान ही दे दीजिएगा"
+    },
+    {
+      "verse_number": 86,
+      "arabic": "قَالَ إِنَّمَاۤ أَشۡكُوا۟ بَثِّی وَحُزۡنِیۤ إِلَى ٱللَّهِ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ\n",
+      "english": "He said, \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.",
+      "hindi": "याक़ूब ने कहा (मै तुमसे कुछ नहीं कहता) मैं तो अपनी बेक़रारी व रंज की शिकायत ख़ुदा ही से करता हूँ और ख़ुदा की तरफ से जो बातें मै जानता हूँ तुम नहीं जानते हो"
+    },
+    {
+      "verse_number": 87,
+      "arabic": "یَـٰبَنِیَّ ٱذۡهَبُوا۟ فَتَحَسَّسُوا۟ مِن یُوسُفَ وَأَخِیهِ وَلَا تَا۟یۡـَٔسُوا۟ مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا یَا۟یۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡكَـٰفِرُونَ\n",
+      "english": "O my sons, go and find out about Joseph and his brother and despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.\"",
+      "hindi": "ऐ मेरी फरज़न्द (एक बार फिर मिस्र) जाओ और यूसुफ और उसके भाई को (जिस तरह बने) ढूँढ के ले आओ और ख़ुदा की रहमत से ना उम्मीद न हो क्योंकि ख़ुदा की रहमत से काफिर लोगो के सिवा और कोई ना उम्मीद नहीं हुआ करता"
+    },
+    {
+      "verse_number": 88,
+      "arabic": "فَلَمَّا دَخَلُوا۟ عَلَیۡهِ قَالُوا۟ یَـٰۤأَیُّهَا ٱلۡعَزِیزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَـٰعَةࣲ مُّزۡجَىٰةࣲ فَأَوۡفِ لَنَا ٱلۡكَیۡلَ وَتَصَدَّقۡ عَلَیۡنَاۤۖ إِنَّ ٱللَّهَ یَجۡزِی ٱلۡمُتَصَدِّقِینَ\n",
+      "english": "So when they entered upon Joseph, they said, \"O 'Azeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allah rewards the charitable.\"",
+      "hindi": "फिर जब ये लोग यूसुफ के पास गए तो (बहुत गिड़गिड़ाकर) अर्ज़ की कि ऐ अज़ीज़ हमको और हमारे (सारे) कुनबे को कहत की वजह से बड़ी तकलीफ हो रही है और हम कुछ थोड़ी सी पूंजी लेकर आए हैं तो हम को (उसके ऐवज़ पर पूरा ग़ल्ला दिलवा दीजिए और (क़ीमत ही पर नहीं) हम को (अपना) सदक़ा खैरात दीजिए इसमें तो शक़ नहीं कि ख़ुदा सदक़ा ख़ैरात देने वालों को जजाए ख़ैर देता है"
+    },
+    {
+      "verse_number": 89,
+      "arabic": "قَالَ هَلۡ عَلِمۡتُم مَّا فَعَلۡتُم بِیُوسُفَ وَأَخِیهِ إِذۡ أَنتُمۡ جَـٰهِلُونَ\n",
+      "english": "He said, \"Do you know what you did with Joseph and his brother when you were ignorant?\"",
+      "hindi": "(अब तो यूसुफ से न रहा गया) कहा तुम्हें कुछ मालूम है कि जब तुम जाहिल हो रहे थे तो तुम ने यूसुफ और उसके भाई के साथ क्या क्या सुलूक किए"
+    },
+    {
+      "verse_number": 90,
+      "arabic": "قَالُوۤا۟ أَءِنَّكَ لَأَنتَ یُوسُفُۖ قَالَ أَنَا۠ یُوسُفُ وَهَـٰذَاۤ أَخِیۖ قَدۡ مَنَّ ٱللَّهُ عَلَیۡنَاۤۖ إِنَّهُۥ مَن یَتَّقِ وَیَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ\n",
+      "english": "They said, \"Are you indeed Joseph?\" He said \"I am Joseph, and this is my brother. Allah has certainly favored us. Indeed, he who fears Allah and is patient, then indeed, Allah does not allow to be lost the reward of those who do good.\"",
+      "hindi": "(उस पर वह लोग चौके) और कहने लगे (हाए) क्या तुम ही यूसुफ हो, यूसुफ ने कहा हाँ मै ही यूसुफ हूँ और यह मेरा भाई है बेशक ख़ुदा ने मुझ पर अपना फज़ल व (करम) किया है क्या इसमें शक़ नहीं कि जो शख़्श (उससे) डरता है (और मुसीबत में) सब्र करे तो ख़ुदा हरगिज़ (ऐसे नेको कारों का) अज्र बरबाद नहीं करता"
+    },
+    {
+      "verse_number": 91,
+      "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدۡ ءَاثَرَكَ ٱللَّهُ عَلَیۡنَا وَإِن كُنَّا لَخَـٰطِـِٔینَ\n",
+      "english": "They said, \"By Allah, certainly has Allah preferred you over us, and indeed, we have been sinners.\"",
+      "hindi": "वह लोग कहने लगे ख़ुदा की क़सम तुम्हें ख़ुदा ने यक़ीनन हम पर फज़ीलत दी है और बेशक हम ही यक़ीनन (अज़सरतापा) ख़तावार थे"
+    },
+    {
+      "verse_number": 92,
+      "arabic": "قَالَ لَا تَثۡرِیبَ عَلَیۡكُمُ ٱلۡیَوۡمَۖ یَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ\n",
+      "english": "He said, \"No blame will there be upon you today. Allah will forgive you; and He is the most merciful of the merciful.\"",
+      "hindi": "यूसुफ ने कहा अब आज से तुम पर कुछ इल्ज़ाम नहीं ख़ुदा तुम्हारे गुनाह माफ फरमाए वह तो सबसे ज्यादा रहीम है ये मेरा कुर्ता ले जाओ"
+    },
+    {
+      "verse_number": 93,
+      "arabic": "ٱذۡهَبُوا۟ بِقَمِیصِی هَـٰذَا فَأَلۡقُوهُ عَلَىٰ وَجۡهِ أَبِی یَأۡتِ بَصِیرࣰا وَأۡتُونِی بِأَهۡلِكُمۡ أَجۡمَعِینَ\n",
+      "english": "Take this, my shirt, and cast it over the face of my father; he will become seeing. And bring me your family, all together.\"",
+      "hindi": "और उसको अब्बा जान के चेहरे पर डाल देना कि वह फिर बीना हो जाएंगें (देखने लगेंगे) और तुम लोग अपने सब लड़के बालों को लेकर मेरे पास चले आओ"
+    },
+    {
+      "verse_number": 94,
+      "arabic": "وَلَمَّا فَصَلَتِ ٱلۡعِیرُ قَالَ أَبُوهُمۡ إِنِّی لَأَجِدُ رِیحَ یُوسُفَۖ لَوۡلَاۤ أَن تُفَنِّدُونِ\n",
+      "english": "And when the caravan departed [from Egypt], their father said, \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\"",
+      "hindi": "और जो ही ये काफ़िला मिस्र से चला था कि उन लोगों के वालिद (याक़ूब) ने कहा दिया था कि अगर मुझे सठिया या हुआ न कहो तो बात कहूँ कि मुझे यूसुफ की बू मालूम हो रही है"
+    },
+    {
+      "verse_number": 95,
+      "arabic": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِی ضَلَـٰلِكَ ٱلۡقَدِیمِ\n",
+      "english": "They said, \"By Allah, indeed you are in your [same] old error.\"",
+      "hindi": "वह लोग कुनबे वाले (पोते वग़ैराह) कहने लगे आप यक़ीनन अपने पुराने ख़याल (मोहब्बत) में (पड़े हुए) हैं"
+    },
+    {
+      "verse_number": 96,
+      "arabic": "فَلَمَّاۤ أَن جَاۤءَ ٱلۡبَشِیرُ أَلۡقَىٰهُ عَلَىٰ وَجۡهِهِۦ فَٱرۡتَدَّ بَصِیرࣰاۖ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّیۤ أَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ\n",
+      "english": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allah that which you do not know?\"",
+      "hindi": "फिर (यूसुफ की) खुशखबरी देने वाला आया और उनके कुर्ते को उनके चेहरे पर डाल दिया तो याक़ूब फौरन फिर दोबारा ऑंख वाले हो गए (तब याक़ूब ने बेटों से) कहा क्यों मै तुमसे न कहता था जो बातें खुदा की तरफ से मै जानता हूँ तुम नहीं जानते"
+    },
+    {
+      "verse_number": 97,
+      "arabic": "قَالُوا۟ یَـٰۤأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَاۤ إِنَّا كُنَّا خَـٰطِـِٔینَ\n",
+      "english": "They said, \"O our father, ask for us forgiveness of our sins; indeed, we have been sinners.\"",
+      "hindi": "उन लोगों ने अर्ज़ की ऐ अब्बा हमारे गुनाहों की मग़फिरत की (ख़ुदा की बारगाह में) हमारे वास्ते दुआ मॉगिए हम बेशक अज़सरतापा गुनेहगार हैं"
+    },
+    {
+      "verse_number": 98,
+      "arabic": "قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ\n",
+      "english": "He said, \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\"",
+      "hindi": "याक़ूब ने कहा मै बहुत जल्द अपने परवरदिगार से तुम्हारी मग़फिरत की दुआ करुगाँ बेशक वह बड़ा बख्शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 99,
+      "arabic": "فَلَمَّا دَخَلُوا۟ عَلَىٰ یُوسُفَ ءَاوَىٰۤ إِلَیۡهِ أَبَوَیۡهِ وَقَالَ ٱدۡخُلُوا۟ مِصۡرَ إِن شَاۤءَ ٱللَّهُ ءَامِنِینَ\n",
+      "english": "And when they entered upon Joseph, he took his parents to himself and said, \"Enter Egypt, Allah willing, safe [and secure].\"",
+      "hindi": "(ग़रज़) जब फिर ये लोग (मय याकूब के) चले और यूसुफ शहर के बाहर लेने आए तो जब ये लोग यूसुफ के पास पहुँचे तो यूसुफ ने अपने माँ बाप को अपने पास जगह दी और (उनसे) कहा कि अब इन्शा अल्लाह बड़े इत्मिनान से मिस्र में चलिए"
+    },
+    {
+      "verse_number": 100,
+      "arabic": "وَرَفَعَ أَبَوَیۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّوا۟ لَهُۥ سُجَّدࣰاۖ وَقَالَ یَـٰۤأَبَتِ هَـٰذَا تَأۡوِیلُ رُءۡیَـٰیَ مِن قَبۡلُ قَدۡ جَعَلَهَا رَبِّی حَقࣰّاۖ وَقَدۡ أَحۡسَنَ بِیۤ إِذۡ أَخۡرَجَنِی مِنَ ٱلسِّجۡنِ وَجَاۤءَ بِكُم مِّنَ ٱلۡبَدۡوِ مِنۢ بَعۡدِ أَن نَّزَغَ ٱلشَّیۡطَـٰنُ بَیۡنِی وَبَیۡنَ إِخۡوَتِیۤۚ إِنَّ رَبِّی لَطِیفࣱ لِّمَا یَشَاۤءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِیمُ ٱلۡحَكِیمُ\n",
+      "english": "And he raised his parents upon the throne, and they bowed to him in prostration. And he said, \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
+      "hindi": "(ग़रज़) पहुँचकर यूसुफ ने अपने माँ बाप को तख्त पर बिठाया और सब के सब यूसुफ की ताज़ीम के वास्ते उनके सामने सजदे में गिर पड़े (उस वक्त) यूसुफ ने कहा ऐ अब्बा ये ताबीर है मेरे उस पहले ख्वाब की कि मेरे परवरदिगार ने उसे सच कर दिखाया बेशक उसने मेरे साथ एहसान किया जब उसने मुझे क़ैद ख़ाने से निकाला और बावजूद कि मुझ में और मेरे भाईयों में शैतान ने फसाद डाल दिया था उसके बाद भी आप लोगों को गाँव से (शहर में) ले आया (और मुझसे मिला दिया) बेशक मेरा परवरदिगार जो कुछ करता है उसकी तद्बीर खूब जानता है बेशक वह बड़ा वाकिफकार हकीम है"
+    },
+    {
+      "verse_number": 101,
+      "arabic": "۞ رَبِّ قَدۡ ءَاتَیۡتَنِی مِنَ ٱلۡمُلۡكِ وَعَلَّمۡتَنِی مِن تَأۡوِیلِ ٱلۡأَحَادِیثِۚ فَاطِرَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ أَنتَ وَلِیِّۦ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِۖ تَوَفَّنِی مُسۡلِمࣰا وَأَلۡحِقۡنِی بِٱلصَّـٰلِحِینَ\n",
+      "english": "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and in the Hereafter. Cause me to die a Muslim and join me with the righteous.\"",
+      "hindi": "उसके बाद यूसुफ ने दुआ की ऐ परवरदिगार तूने मुझे मुल्क भी अता फरमाया और मुझे ख्वाब की बातों की ताबीर भी सिखाई ऐ आसमान और ज़मीन के पैदा करने वाले तू ही मेरा मालिक सरपरस्त है दुनिया में भी और आख़िरत में भी तू मुझे (दुनिया से) मुसलमान उठाये और मुझे नेको कारों में शामिल फरमा"
+    },
+    {
+      "verse_number": 102,
+      "arabic": "ذَ ٰ⁠لِكَ مِنۡ أَنۢبَاۤءِ ٱلۡغَیۡبِ نُوحِیهِ إِلَیۡكَۖ وَمَا كُنتَ لَدَیۡهِمۡ إِذۡ أَجۡمَعُوۤا۟ أَمۡرَهُمۡ وَهُمۡ یَمۡكُرُونَ\n",
+      "english": "That is from the news of the unseen which We reveal, [O Muhammad], to you. And you were not with them when they put together their plan while they conspired.",
+      "hindi": "(ऐ रसूल) ये किस्सा ग़ैब की ख़बरों में से है जिसे हम तुम्हारे पास वही के ज़रिए भेजते हैं (और तुम्हें मालूम होता है वरना जिस वक्त यूसुफ के भाई बाहम अपने काम का मशवरा कर रहे थे और (हलाक की) तदबीरे कर रहे थे"
+    },
+    {
+      "verse_number": 103,
+      "arabic": "وَمَاۤ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِینَ\n",
+      "english": "And most of the people, although you strive [for it], are not believers.",
+      "hindi": "तुम उनके पास मौजूद न थे और कितने ही चाहो मगर बहुतेरे लोग ईमान लाने वाले नहीं हैं"
+    },
+    {
+      "verse_number": 104,
+      "arabic": "وَمَا تَسۡـَٔلُهُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ\n",
+      "english": "And you do not ask of them for it any payment. It is not except a reminder to the worlds.",
+      "hindi": "हालॉकि तुम उनसे (तबलीगे रिसालत का) कोई सिला नहीं मॉगते और ये (क़ुरान) तो सारे जहाँन के वास्ते नसीहत (ही नसीहत) है"
+    },
+    {
+      "verse_number": 105,
+      "arabic": "وَكَأَیِّن مِّنۡ ءَایَةࣲ فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ یَمُرُّونَ عَلَیۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ\n",
+      "english": "And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.",
+      "hindi": "और आसमानों और ज़मीन में (ख़ुदा की क़ुदरत की) कितनी निशानियाँ हैं जिन पर ये लोग (दिन रात) ग़ुज़ारा करते हैं और उससे मुँह फेरे रहते हैं"
+    },
+    {
+      "verse_number": 106,
+      "arabic": "وَمَا یُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ\n",
+      "english": "And most of them believe not in Allah except while they associate others with Him.",
+      "hindi": "और अक्सर लोगों की ये हालत है कि वह ख़ुदा पर ईमान तो नहीं लाते मगर शिर्क किए जाते हैं"
+    },
+    {
+      "verse_number": 107,
+      "arabic": "أَفَأَمِنُوۤا۟ أَن تَأۡتِیَهُمۡ غَـٰشِیَةࣱ مِّنۡ عَذَابِ ٱللَّهِ أَوۡ تَأۡتِیَهُمُ ٱلسَّاعَةُ بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ\n",
+      "english": "Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allah or that the Hour will not come upon them suddenly while they do not perceive?",
+      "hindi": "तो क्या ये लोग इस बात से मुतमइन हो बैठें हैं कि उन पर ख़ुदा का अज़ाब आ पड़े जो उन पर छा जाए या उन पर अचानक क़यामत ही आ जाए और उनको कुछ ख़बर भी न हो"
+    },
+    {
+      "verse_number": 108,
+      "arabic": "قُلۡ هَـٰذِهِۦ سَبِیلِیۤ أَدۡعُوۤا۟ إِلَى ٱللَّهِۚ عَلَىٰ بَصِیرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِیۖ وَسُبۡحَـٰنَ ٱللَّهِ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُشۡرِكِینَ\n",
+      "english": "Say, \"This is my way; I invite to Allah with insight, I and those who follow me. And exalted is Allah; and I am not of those who associate others with Him.\"",
+      "hindi": "(ऐ रसूल) उन से कह दो कि मेरा तरीका तो ये है कि मै (लोगों) को ख़ुदा की तरफ बुलाता हूँ मैं और मेरा पैरव (पीछे चलने वाले) (दोनों) मज़बूत दलील पर हैं और ख़ुदा (हर ऐब व नुक़स से) पाक व पाकीज़ा है और मै मुशरेकीन से नहीं हूँ"
+    },
+    {
+      "verse_number": 109,
+      "arabic": "وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالࣰا نُّوحِیۤ إِلَیۡهِم مِّنۡ أَهۡلِ ٱلۡقُرَىٰۤۗ أَفَلَمۡ یَسِیرُوا۟ فِی ٱلۡأَرۡضِ فَیَنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلَّذِینَ مِن قَبۡلِهِمۡۗ وَلَدَارُ ٱلۡـَٔاخِرَةِ خَیۡرࣱ لِّلَّذِینَ ٱتَّقَوۡا۟ۚ أَفَلَا تَعۡقِلُونَ\n",
+      "english": "And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allah; then will you not reason?",
+      "hindi": "और (ऐ रसूल) तुमसे पहले भी हम गाँव ही के रहने वाले कुछ मर्दों को (पैग़म्बर बनाकर) भेजा किए है कि हम उन पर वही नाज़िल करते थे तो क्या ये लोग रुए ज़मीन पर चले फिरे नहीं कि ग़ौर करते कि जो लोग उनसे पहले हो गुज़रे हैं उनका अन्जाम क्या हुआ और जिन लोगों ने परहेज़गारी एख्तेयार की उनके लिए आख़िरत का घर (दुनिया से) यक़ीनन कहीं ज्यादा बेहतर है क्या ये लोग नहीं समझते"
+    },
+    {
+      "verse_number": 110,
+      "arabic": "حَتَّىٰۤ إِذَا ٱسۡتَیۡـَٔسَ ٱلرُّسُلُ وَظَنُّوۤا۟ أَنَّهُمۡ قَدۡ كُذِبُوا۟ جَاۤءَهُمۡ نَصۡرُنَا فَنُجِّیَ مَن نَّشَاۤءُۖ وَلَا یُرَدُّ بَأۡسُنَا عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِینَ\n",
+      "english": "[They continued] until, when the messengers despaired and were certain that they had been denied, there came to them Our victory, and whoever We willed was saved. And Our punishment cannot be repelled from the people who are criminals.",
+      "hindi": "पहले के पैग़म्बरो ने तबलीग़े रिसालत यहाँ वक कि जब (क़ौम के ईमान लाने से) पैग़म्बर मायूस हो गए और उन लोगों ने समझ लिया कि वह झुठलाए गए तो उनके पास हमारी (ख़ास) मदद आ पहुँची तो जिसे हमने चाहा नजात दी और हमारा अज़ाब गुनेहगार लोगों के सर से तो टाला नहीं जाता"
+    },
+    {
+      "verse_number": 111,
+      "arabic": "لَقَدۡ كَانَ فِی قَصَصِهِمۡ عِبۡرَةࣱ لِّأُو۟لِی ٱلۡأَلۡبَـٰبِۗ مَا كَانَ حَدِیثࣰا یُفۡتَرَىٰ وَلَـٰكِن تَصۡدِیقَ ٱلَّذِی بَیۡنَ یَدَیۡهِ وَتَفۡصِیلَ كُلِّ شَیۡءࣲ وَهُدࣰى وَرَحۡمَةࣰ لِّقَوۡمࣲ یُؤۡمِنُونَ\n",
+      "english": "There was certainly in their stories a lesson for those of understanding. Never was the Qur'an a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.",
+      "hindi": "इसमें शक़ नहीं कि उन लोगों के किस्सों में अक़लमन्दों के वास्ते (अच्छी ख़ासी) इबरत (व नसीहत) है ये (क़ुरान) कोई ऐसी बात नहीं है जो (ख्वाहामा ख्वाह) गढ़ ली जाए बल्कि (जो आसमानी किताबें) इसके पहले से मौजूद हैं उनकी तसदीक़ है और हर चीज़ की तफसील और ईमानदारों के वास्ते (अज़सरतापा) हिदायत व रहमत है"
+    }
+  ]
+}

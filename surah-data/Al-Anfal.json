@@ -1,0 +1,457 @@
+{
+  "id": 8,
+  "name_simple": "Al-Anfal",
+  "name_arabic": "الأنفال",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم مُّؤۡمِنِینَ\n",
+      "english": "They ask you, [O Muhammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allah and the Messenger.\" So fear Allah and amend that which is between you and obey Allah and His Messenger, if you should be believers.",
+      "hindi": "(ऐ रसूल) तुम से लोग अनफाल (माले ग़नीमत) के बारे में पूछा करते हैं तुम कह दो कि अनफाल मख़सूस ख़ुदा और रसूल के वास्ते है तो ख़ुदा से डरो (और) अपने बाहमी (आपसी) मामलात की इसलाह करो और अगर तुम सच्चे (ईमानदार) हो तो ख़ुदा की और उसके रसूल की इताअत करो"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ\n",
+      "english": "The believers are only those who, when Allah is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -",
+      "hindi": "सच्चे ईमानदार तो बस वही लोग हैं कि जब (उनके सामने) ख़ुदा का ज़िक्र किया जाता है तो उनके दिल हिल जाते हैं और जब उनके सामने उसकी आयतें पढ़ी जाती हैं तो उनके ईमान को और भी ज्यादा कर देती हैं और वह लोग बस अपने परवरदिगार ही पर भरोसा रखते हैं"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n",
+      "english": "The ones who establish prayer, and from what We have provided them, they spend.",
+      "hindi": "नमाज़ को पाबन्दी से अदा करते हैं और जो हम ने उन्हें दिया हैं उसमें से (राहे ख़ुदा में) ख़र्च करते हैं"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n",
+      "english": "Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.",
+      "hindi": "यही तो सच्चे ईमानदार हैं उन्हीं के लिए उनके परवरदिगार के हॉ (बड़े बड़े) दरजे हैं और बख्शिश और इज्ज़त और आबरू के साथ रोज़ी है (ये माले ग़नीमत का झगड़ा वैसा ही है)"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ\n",
+      "english": "[It is] just as when your Lord brought you out of your home [for the battle of Badr] in truth, while indeed, a party among the believers were unwilling,",
+      "hindi": "जिस तरह तुम्हारे परवरदिगार ने तुम्हें बिल्कुल ठीक (मसलहत से) तुम्हारे घर से (जंग बदर) में निकाला था और मोमिनीन का एक गिरोह (उससे) नाखुश था"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ یَنظُرُونَ\n",
+      "english": "Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on.",
+      "hindi": "कि वह लोग हक़ के ज़ाहिर होने के बाद भी तुमसे (ख्वाह माख्वाह) सच्ची बात में झगड़तें थें और इस तरह (करने लगे) गोया (ज़बरदस्ती) मौत के मुँह में ढकेले जा रहे हैं"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "وَإِذۡ یَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّاۤىِٕفَتَیۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ أَنَّ غَیۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَیُرِیدُ ٱللَّهُ أَن یُحِقَّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَیَقۡطَعَ دَابِرَ ٱلۡكَـٰفِرِینَ\n",
+      "english": "[Remember, O believers], when Allah promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allah intended to establish the truth by His words and to eliminate the disbelievers",
+      "hindi": "और उसे (अपनी ऑंखों से) देख रहे हैं और (ये वक्त था) जब ख़ुदा तुमसे वायदा कर रहा था कि (कुफ्फार मक्का) दो जमाअतों में से एक तुम्हारे लिए ज़रूरी हैं और तुम ये चाहते थे कि कमज़ोर जमाअत तुम्हारे हाथ लगे (ताकि बग़ैर लड़े भिड़े माले ग़नीमत हाथ आ जाए) और ख़ुदा ये चाहता था कि अपनी बातों से हक़ को साबित (क़दम) करें और काफिरों की जड़ काट डाले"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ\n",
+      "english": "That He should establish the truth and abolish falsehood, even if the criminals disliked it.",
+      "hindi": "ताकि हक़ को (हक़) साबित कर दे और बातिल का मटियामेट कर दे अगर चे गुनाहगार (कुफ्फार उससे) नाखुश ही क्यों न हो"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "إِذۡ تَسۡتَغِیثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّی مُمِدُّكُم بِأَلۡفࣲ مِّنَ ٱلۡمَلَـٰۤىِٕكَةِ مُرۡدِفِینَ\n",
+      "english": "[Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\"",
+      "hindi": "(ये वह वक्त था) जब तुम अपने परवदिगार से फरियाद कर रहे थे उसने तुम्हारी सुन ली और जवाब दे दिया कि मैं तुम्हारी लगातार हज़ार फ़रिश्तों से मदद करूँगा"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَىِٕنَّ بِهِۦ قُلُوبُكُمۡۚ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِیزٌ حَكِیمٌ\n",
+      "english": "And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise.",
+      "hindi": "और (ये इमदाद ग़ैबी) ख़ुदा ने सिर्फ तुम्हारी ख़ातिर (खुशी) के लिए की थी और तुम्हारे दिल मुतमइन हो जाएं और (याद रखो) मदद ख़ुदा के सिवा और कहीं से (कभी) नहीं होती बेशक ख़ुदा ग़ालिब हिकमत वाला है"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "إِذۡ یُغَشِّیكُمُ ٱلنُّعَاسَ أَمَنَةࣰ مِّنۡهُ وَیُنَزِّلُ عَلَیۡكُم مِّنَ ٱلسَّمَاۤءِ مَاۤءࣰ لِّیُطَهِّرَكُم بِهِۦ وَیُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّیۡطَـٰنِ وَلِیَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَیُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ\n",
+      "english": "[Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.",
+      "hindi": "ये वह वक्त था जब अपनी तरफ से इत्मिनान देने के लिए तुम पर नींद को ग़ालिब कर रहा था और तुम पर आसमान से पानी बरस रहा था ताकि उससे तुम्हें पाक (पाकीज़ा कर दे और तुम से शैतान की गन्दगी दूर कर दे और तुम्हारे दिल मज़बूत कर दे और पानी से (बालू जम जाए) और तुम्हारे क़दम ब क़दम (अच्छी तरह) जमाए रहे"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "إِذۡ یُوحِی رَبُّكَ إِلَى ٱلۡمَلَـٰۤىِٕكَةِ أَنِّی مَعَكُمۡ فَثَبِّتُوا۟ ٱلَّذِینَ ءَامَنُوا۟ۚ سَأُلۡقِی فِی قُلُوبِ ٱلَّذِینَ كَفَرُوا۟ ٱلرُّعۡبَ فَٱضۡرِبُوا۟ فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُوا۟ مِنۡهُمۡ كُلَّ بَنَانࣲ\n",
+      "english": "[Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"",
+      "hindi": "(ऐ रसूल ये वह वक्त था) जब तुम्हारा परवरदिगार फ़रिश्तों से फरमा रहा था कि मै यकीनन तुम्हारे साथ हूँ तुम ईमानदारों को साबित क़दम रखो मै बहुत जल्द काफिरों के दिलों में (तुम्हारा रौब) डाल दूँगा (पस फिर क्या है अब) तो उन कुफ्फार की गर्दनों पर मारो और उनकी पोर पोर को चटिया कर दो"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "ذَ ٰ⁠لِكَ بِأَنَّهُمۡ شَاۤقُّوا۟ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن یُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n",
+      "english": "That is because they opposed Allah and His Messenger. And whoever opposes Allah and His Messenger - indeed, Allah is severe in penalty.",
+      "hindi": "ये (सज़ा) इसलिए है कि उन लोगों ने ख़ुदा और उसके रसूल की मुख़ालिफ की और जो शख़्स (भी) ख़ुदा और उसके रसूल की मुख़ालफ़त करेगा तो (याद रहें कि) ख़ुदा बड़ा सख्त अज़ाब करने वाला है"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "ذَ ٰ⁠لِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَـٰفِرِینَ عَذَابَ ٱلنَّارِ\n",
+      "english": "\"That [is yours], so taste it.\" And indeed for the disbelievers is the punishment of the Fire.",
+      "hindi": "(काफिरों दुनिया में तो) लो फिर उस (सज़ा का चखो और (फिर आख़िर में तो) काफिरों के वास्ते जहन्नुम का अज़ाब ही है"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمُ ٱلَّذِینَ كَفَرُوا۟ زَحۡفࣰا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ\n",
+      "english": "O you who have believed, when you meet those who disbelieve advancing [for battle], do not turn to them your backs [in flight].",
+      "hindi": "ऐ ईमानदारों जब तुमसे कुफ्फ़ार से मैदाने जंग में मुक़ाबला हुआ तो (ख़बरदार) उनकी तरफ पीठ न करना"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "وَمَن یُوَلِّهِمۡ یَوۡمَىِٕذࣲ دُبُرَهُۥۤ إِلَّا مُتَحَرِّفࣰا لِّقِتَالٍ أَوۡ مُتَحَیِّزًا إِلَىٰ فِئَةࣲ فَقَدۡ بَاۤءَ بِغَضَبࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ\n",
+      "english": "And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allah, and his refuge is Hell - and wretched is the destination.",
+      "hindi": "(याद रहे कि) उस शख़्स के सिवा जो लड़ाई वास्ते कतराए या किसी जमाअत के पास (जाकर) मौके पाए (और) जो शख़्स भी उस दिन उन कुफ्फ़ार की तरफ पीठ फेरेगा वह यक़ीनी (हिर फिर के) ख़ुदा के ग़जब में आ गया और उसका ठिकाना जहन्नुम ही हैं और वह क्या बुरा ठिकाना है"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَـٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَیۡتَ إِذۡ رَمَیۡتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ وَلِیُبۡلِیَ ٱلۡمُؤۡمِنِینَ مِنۡهُ بَلَاۤءً حَسَنًاۚ إِنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n",
+      "english": "And you did not kill them, but it was Allah who killed them. And you threw not, [O Muhammad], when you threw, but it was Allah who threw that He might test the believers with a good test. Indeed, Allah is Hearing and Knowing.",
+      "hindi": "और (मुसलमानों) उन कुफ्फ़ार को कुछ तुमने तो क़त्ल किया नही बल्कि उनको तो ख़ुदा ने क़त्ल किया और (ऐ रसूल) जब तुमने तीर मारा तो कुछ तुमने नही मारा बल्कि ख़ुदा ख़ुदा ने तीर मारा और ताकि अपनी तरफ से मोमिनीन पर खूब एहसान करे बेशक ख़ुदा (सबकी) सुनता और (सब कुछ) जानता है"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "ذَ ٰ⁠لِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَیۡدِ ٱلۡكَـٰفِرِینَ\n",
+      "english": "That [is so], and [also] that Allah will weaken the plot of the disbelievers.",
+      "hindi": "ये तो ये ख़ुदा तो काफिरों की मक्कारी का कमज़ोर कर देने वाला है"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "إِن تَسۡتَفۡتِحُوا۟ فَقَدۡ جَاۤءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُوا۟ فَهُوَ خَیۡرࣱ لَّكُمۡۖ وَإِن تَعُودُوا۟ نَعُدۡ وَلَن تُغۡنِیَ عَنكُمۡ فِئَتُكُمۡ شَیۡـࣰٔا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "If you [disbelievers] seek the victory - the defeat has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allah is with the believers.",
+      "hindi": "(काफ़िर) अगर तुम ये चाहते हो (कि जो हक़ पर हो उसकी) फ़तेह हो (मुसलमानों की) फ़तेह भी तुम्हारे सामने आ मौजूद हुई अब क्या गुरूर बाक़ी है और अगर तुम (अब भी मुख़तलिफ़ इस्लाम) से बाज़ रहो तो तुम्हारे वास्ते बेहतर है और अगर कहीं तुम पलट पड़े तो (याद रहे) हम भी पलट पड़ेगें (और तुम्हें तबाह कर छोड़ देगें) और तुम्हारी जमाअत अगरचे बहुत ज्यादा भी हो हरगिज़ कुछ काम न आएगी और ख़ुदा तो यक़ीनी मामिनीन के साथ है"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ أَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوۡا۟ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ\n",
+      "english": "O you who have believed, obey Allah and His Messenger and do not turn from him while you hear [his order].",
+      "hindi": "ऐ ईमानदारों खुदा और उसके रसूल की इताअत करो और उससे मुँह न मोड़ो जब तुम समझ रहे हो"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ قَالُوا۟ سَمِعۡنَا وَهُمۡ لَا یَسۡمَعُونَ\n",
+      "english": "And do not be like those who say, \"We have heard,\" while they do not hear.",
+      "hindi": "और उन लोगों के ऐसे न हो जाओं जो (मुँह से तो) कहते थे कि हम सुन रहे हैं हालाकि वह सुनते (सुनाते ख़ाक) न थे"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "۞ إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ\n",
+      "english": "Indeed, the worst of living creatures in the sight of Allah are the deaf and dumb who do not use reason.",
+      "hindi": "इसमें शक़ नहीं कि ज़मीन पर चलने वाले तमाम हैवानात से बदतर ख़ुदा के नज़दीक वह बहरे गूँगे (कुफ्फार) हैं जो कुछ नहीं समझते"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "وَلَوۡ عَلِمَ ٱللَّهُ فِیهِمۡ خَیۡرࣰا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّوا۟ وَّهُم مُّعۡرِضُونَ\n",
+      "english": "Had Allah known any good in them, He would have made them hear. And if He had made them hear, they would [still] have turned away, while they were refusing.",
+      "hindi": "और अगर ख़ुदा उनमें नेकी (की बू भी) देखता तो ज़रूर उनमें सुनने की क़ाबलियत अता करता मगर ये ऐसे हैं कि अगर उनमें सुनने की क़ाबिलयत भी देता तो मुँह फेर कर भागते।"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱسۡتَجِیبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمۡ لِمَا یُحۡیِیكُمۡۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ یَحُولُ بَیۡنَ ٱلۡمَرۡءِ وَقَلۡبِهِۦ وَأَنَّهُۥۤ إِلَیۡهِ تُحۡشَرُونَ\n",
+      "english": "O you who have believed, respond to Allah and to the Messenger when he calls you to that which gives you life. And know that Allah intervenes between a man and his heart and that to Him you will be gathered.",
+      "hindi": "ऐ ईमानदार जब तुम को हमारा रसूल (मोहम्मद) ऐसे काम के लिए बुलाए जो तुम्हारी रूहानी ज़िन्दगी का बाइस हो तो तुम ख़ुदा और रसूल के हुक्म दिल से कुबूल कर लो और जान लो कि ख़ुदा वह क़ादिर मुतलिक़ है कि आदमी और उसके दिल (इरादे) के दरमियान इस तरह आ जाता है और ये भी समझ लो कि तुम सबके सब उसके सामने हाज़िर किये जाओगे"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "وَٱتَّقُوا۟ فِتۡنَةࣰ لَّا تُصِیبَنَّ ٱلَّذِینَ ظَلَمُوا۟ مِنكُمۡ خَاۤصَّةࣰۖ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ\n",
+      "english": "And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty.",
+      "hindi": "और उस फितने से डरते रहो जो ख़ास उन्हीं लोगों पर नही पड़ेगा जिन्होने तुम में से ज़ुल्म किया (बल्कि तुम सबके सब उसमें पड़ जाओगे) और यक़ीन मानों कि ख़ुदा बड़ा सख्त अज़ाब करने वाला है"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "وَٱذۡكُرُوۤا۟ إِذۡ أَنتُمۡ قَلِیلࣱ مُّسۡتَضۡعَفُونَ فِی ٱلۡأَرۡضِ تَخَافُونَ أَن یَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَیَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّیِّبَـٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ\n",
+      "english": "And remember when you were few and oppressed in the land, fearing that people might abduct you, but He sheltered you, supported you with His victory, and provided you with good things - that you might be grateful.",
+      "hindi": "(मुसलमानों वह वक्त याद करो) जब तुम सर ज़मीन (मक्के) में बहुत कम और बिल्कुल बेबस थे उससे सहमे जाते थे कि कहीं लोग तुमको उचक न ले जाए तो ख़ुदा ने तुमको (मदीने में) पनाह दी और ख़ास अपनी मदद से तुम्हारी ताईद की और तुम्हे पाक व पाकीज़ा चीज़े खाने को दी ताकि तुम शुक्र गुज़ारी करो"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوۤا۟ أَمَـٰنَـٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ\n",
+      "english": "O you who have believed, do not betray Allah and the Messenger or betray your trusts while you know [the consequence].",
+      "hindi": "ऐ ईमानदारों न तो ख़ुदा और रसूल की (अमानत में) ख्यानत करो और न अपनी अमानतों में ख्यानत करो हालॉकि समझते बूझते हो"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "وَٱعۡلَمُوۤا۟ أَنَّمَاۤ أَمۡوَ ٰ⁠لُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱ وَأَنَّ ٱللَّهَ عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ\n",
+      "english": "And know that your properties and your children are but a trial and that Allah has with Him a great reward.",
+      "hindi": "और यक़ीन जानों कि तुम्हारे माल और तुम्हारी औलाद तुम्हारी आज़माइश (इम्तेहान) की चीज़े हैं कि जो उनकी मोहब्बत में भी ख़ुदा को न भूले और वह दीनदार है"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَتَّقُوا۟ ٱللَّهَ یَجۡعَل لَّكُمۡ فُرۡقَانࣰا وَیُكَفِّرۡ عَنكُمۡ سَیِّـَٔاتِكُمۡ وَیَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ\n",
+      "english": "O you who have believed, if you fear Allah, He will grant you a criterion and will remove from you your misdeeds and forgive you. And Allah is the possessor of great bounty.",
+      "hindi": "और यक़ीनन ख़ुदा के हॉ बड़ी मज़दूरी है ऐ ईमानदारों अगर तुम ख़ुदा से डरते रहोगे तो वह तुम्हारे वास्ते इम्तियाज़ पैदा करे देगा और तुम्हारी तरफ से तुम्हारे गुनाह का कफ्फ़ारा क़रार देगा और तुम्हें बख्श देगा और ख़ुदा बड़ा साहब फज़ल (व करम) है"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "وَإِذۡ یَمۡكُرُ بِكَ ٱلَّذِینَ كَفَرُوا۟ لِیُثۡبِتُوكَ أَوۡ یَقۡتُلُوكَ أَوۡ یُخۡرِجُوكَۚ وَیَمۡكُرُونَ وَیَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ\n",
+      "english": "And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allah plans. And Allah is the best of planners.",
+      "hindi": "और (ऐ रसूल वह वक्त याद करो) जब कुफ्फ़ार तुम से फरेब कर रहे थे ताकि तुमको क़ैद कर लें या तुमको मार डाले तुम्हें (घर से) निकाल बाहर करे वह तो ये तदबीर (चालाकी) कर रहे थे और ख़ुदा भी (उनके ख़िलाफ) तदबीरकर रहा था"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا قَالُوا۟ قَدۡ سَمِعۡنَا لَوۡ نَشَاۤءُ لَقُلۡنَا مِثۡلَ هَـٰذَاۤ إِنۡ هَـٰذَاۤ إِلَّاۤ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ\n",
+      "english": "And when Our verses are recited to them, they say, \"We have heard. If we willed, we could say [something] like this. This is not but legends of the former peoples.\"",
+      "hindi": "और ख़ुदा तो सब तदबीरकरने वालों से बेहतर है और जब उनके सामने हमारी आयते पढ़ी जाती हैं तो बोल उठते हैं कि हमने सुना तो लेकिन अगर हम चाहें तो यक़ीनन ऐसा ही (क़रार) हम भी कह सकते हैं-तो बस अगलों के क़िस्से है"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "وَإِذۡ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَیۡنَا حِجَارَةࣰ مِّنَ ٱلسَّمَاۤءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِیمࣲ\n",
+      "english": "And [remember] when they said, \"O Allah, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment.\"",
+      "hindi": "और (ऐ रसूल वह वक्त याद करो) जब उन काफिरों ने दुआएँ माँगीं थी कि ख़ुदा (वन्द) अगर ये (दीन इस्लाम) हक़ है और तेरे पास से (आया है) तो हम पर आसमान से पत्थर बरसा या हम पर कोई और दर्दनाक अज़ाब ही नाज़िल फरमा"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "وَمَا كَانَ ٱللَّهُ لِیُعَذِّبَهُمۡ وَأَنتَ فِیهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ یَسۡتَغۡفِرُونَ\n",
+      "english": "But Allah would not punish them while you, [O Muhammad], are among them, and Allah would not punish them while they seek forgiveness.",
+      "hindi": "हालॉकि जब तक तुम उनके दरमियान मौजूद हो ख़ुदा उन पर अज़ाब नहीं करेगा और अल्लाह ऐसा भी नही कि लोग तो उससे अपने गुनाहो की माफी माँग रहे हैं और ख़ुदा उन पर नाज़िल फरमाए"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "وَمَا لَهُمۡ أَلَّا یُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ یَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوۤا۟ أَوۡلِیَاۤءَهُۥۤۚ إِنۡ أَوۡلِیَاۤؤُهُۥۤ إِلَّا ٱلۡمُتَّقُونَ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ\n",
+      "english": "But why should Allah not punish them while they obstruct [people] from al-Masjid al- Haram and they were not [fit to be] its guardians? Its [true] guardians are not but the righteous, but most of them do not know.",
+      "hindi": "और जब ये लोग लोगों को मस्जिदुल हराम (ख़ान ए काबा की इबादत) से रोकते है तो फिर उनके लिए कौन सी बात बाक़ी है कि उन पर अज़ाब न नाज़िल करे और ये लोग तो ख़ानाए काबा के मुतवल्ली भी नहीं (फिर क्यों रोकते है) इसके मुतवल्ली तो सिर्फ परहेज़गार लोग हैं मगर इन काफ़िरों में से बहुतेरे नहीं जानते"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَیۡتِ إِلَّا مُكَاۤءࣰ وَتَصۡدِیَةࣰۚ فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ\n",
+      "english": "And their prayer at the House was not except whistling and handclapping. So taste the punishment for what you disbelieved.",
+      "hindi": "और ख़ानाए काबे के पास सीटियॉ तालिया बजाने के सिवा उनकी नमाज ही क्या थी तो (ऐ काफिरों) जब तुम कुफ्र किया करते थे उसकी सज़ा में (पड़े) अज़ाब के मज़े चखो"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ یُنفِقُونَ أَمۡوَ ٰ⁠لَهُمۡ لِیَصُدُّوا۟ عَن سَبِیلِ ٱللَّهِۚ فَسَیُنفِقُونَهَا ثُمَّ تَكُونُ عَلَیۡهِمۡ حَسۡرَةࣰ ثُمَّ یُغۡلَبُونَۗ وَٱلَّذِینَ كَفَرُوۤا۟ إِلَىٰ جَهَنَّمَ یُحۡشَرُونَ\n",
+      "english": "Indeed, those who disbelieve spend their wealth to avert [people] from the way of Allah. So they will spend it; then it will be for them a [source of] regret; then they will be overcome. And those who have disbelieved - unto Hell they will be gathered.",
+      "hindi": "इसमें शक़ नहीं कि ये कुफ्फार अपने माल महज़ इस वास्ते खर्च करेगें फिर उसके बाद उनकी हसरत का बाइस होगा फिर आख़िर ये लोग हार जाएँगें और जिन लोगों ने कुफ्र एख्तियार किया (क़यामत में) सब के सब जहन्नुम की तरफ हाके जाएँगें"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "لِیَمِیزَ ٱللَّهُ ٱلۡخَبِیثَ مِنَ ٱلطَّیِّبِ وَیَجۡعَلَ ٱلۡخَبِیثَ بَعۡضَهُۥ عَلَىٰ بَعۡضࣲ فَیَرۡكُمَهُۥ جَمِیعࣰا فَیَجۡعَلَهُۥ فِی جَهَنَّمَۚ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ\n",
+      "english": "[This is] so that Allah may distinguish the wicked from the good and place the wicked some of them upon others and heap them all together and put them into Hell. It is those who are the losers.",
+      "hindi": "ताकि ख़ुदा पाक को नापाक से जुदा कर दे और नापाक लोगों को एक दूसरे पर रखके ढेर बनाए फिर सब को जहन्नुम में झोंक दे यही लोग घाटा उठाने वाले हैं"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "قُل لِّلَّذِینَ كَفَرُوۤا۟ إِن یَنتَهُوا۟ یُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن یَعُودُوا۟ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِینَ\n",
+      "english": "Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.",
+      "hindi": "(ऐ रसूल) तुम काफिरों से कह दो कि अगर वह लोग (अब भी अपनी शरारत से) बाज़ रहें तो उनके पिछले कुसूर माफ कर दिए जाएं और अगर फिर कहीं पलटें तो यक़ीनन अगलों के तरीक़े गुज़र चुके जो, उनकी सज़ा हुई वही इनकी भी होगी"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "وَقَـٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةࣱ وَیَكُونَ ٱلدِّینُ كُلُّهُۥ لِلَّهِۚ فَإِنِ ٱنتَهَوۡا۟ فَإِنَّ ٱللَّهَ بِمَا یَعۡمَلُونَ بَصِیرࣱ\n",
+      "english": "And fight them until there is no fitnah and [until] the religion, all of it, is for Allah. And if they cease - then indeed, Allah is Seeing of what they do.",
+      "hindi": "मुसलमानों काफ़िरों से लड़े जाओ यहाँ तक कि कोई फसाद (बाक़ी) न रहे और (बिल्कुल सारी ख़ुदाई में) ख़ुदा की दीन ही दीन हो जाए फिर अगर ये लोग (फ़साद से) न बाज़ आएं तो ख़ुदा उनकी कारवाइयों को ख़ूब देखता है"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "وَإِن تَوَلَّوۡا۟ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n",
+      "english": "But if they turn away - then know that Allah is your protector. Excellent is the protector, and Excellent is the helper.",
+      "hindi": "और अगर सरताबी करें तो (मुसलमानों) समझ लो कि ख़ुदा यक़ीनी तुम्हारा मालिक है और वह क्या अच्छा मालिक है और क्या अच्छा मददगार है"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "۞ وَٱعۡلَمُوۤا۟ أَنَّمَا غَنِمۡتُم مِّن شَیۡءࣲ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِی ٱلۡقُرۡبَىٰ وَٱلۡیَتَـٰمَىٰ وَٱلۡمَسَـٰكِینِ وَٱبۡنِ ٱلسَّبِیلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَاۤ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا یَوۡمَ ٱلۡفُرۡقَانِ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ\n",
+      "english": "And know that anything you obtain of war booty - then indeed, for Allah is one fifth of it and for the Messenger and for [his] near relatives and the orphans, the needy, and the [stranded] traveler, if you have believed in Allah and in that which We sent down to Our Servant on the day of criterion - the day when the two armies met. And Allah, over all things, is competent.",
+      "hindi": "और जान लो कि जो कुछ तुम (माल लड़कर) लूटो तो उनमें का पॉचवॉ हिस्सा मख़सूस ख़ुदा और रसूल और (रसूल के) क़राबतदारों और यतीमों और मिस्कीनों और परदेसियों का है अगर तुम ख़ुदा पर और उस (ग़ैबी इमदाद) पर ईमान ला चुके हो जो हमने ख़ास बन्दे (मोहम्मद) पर फ़ैसले के दिन (जंग बदर में) नाज़िल की थी जिस दिन (मुसलमानों और काफिरों की) दो जमाअतें बाहम गुथ गयी थी और ख़ुदा तो हर चीज़ पर क़ादिर है"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡیَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِی ٱلۡمِیعَـٰدِ وَلَـٰكِن لِّیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰا لِّیَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَیِّنَةࣲ وَیَحۡیَىٰ مَنۡ حَیَّ عَنۢ بَیِّنَةࣲۗ وَإِنَّ ٱللَّهَ لَسَمِیعٌ عَلِیمٌ\n",
+      "english": "[Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allah might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allah is Hearing and Knowing.",
+      "hindi": "(ये वह वक्त था) जब तुम (मैदाने जंग में मदीने के) क़रीब नाके पर थे और वह कुफ्फ़ार बईद (दूर के) के नाके पर और (काफ़िले के) सवार तुम से नशेब में थे और अगर तुम एक दूसरे से (वक्त क़ी तक़रीर का) वायदा कर लेते हो तो और वक्त पर गड़बड़ कर देते मगर (ख़ुदा ने अचानक तुम लोगों को इकट्ठा कर दिया ताकि जो बात यदनी (होनी) थी वह पूरी कर दिखाए ताकि जो शख़्स हलाक (गुमराह) हो वह (हक़ की) हुज्जत तमाम होने के बाद हलाक हो और जो ज़िन्दा रहे वह हिदायत की हुज्जत तमाम होने के बाद ज़िन्दा रहे और ख़ुदा यक़ीनी सुनने वाला ख़बरदार है"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "إِذۡ یُرِیكَهُمُ ٱللَّهُ فِی مَنَامِكَ قَلِیلࣰاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِیرࣰا لَّفَشِلۡتُمۡ وَلَتَنَـٰزَعۡتُمۡ فِی ٱلۡأَمۡرِ وَلَـٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ\n",
+      "english": "[Remember, O Muhammad], when Allah showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allah saved [you from that]. Indeed, He is Knowing of that within the breasts.",
+      "hindi": "(ये वह वक्त था) जब ख़ुदा ने तुम्हें ख्वाब में कुफ्फ़ार को कम करके दिखलाया था और अगर उनको तुम्हें ज्यादा करते दिखलाता तुम यक़ीनन हिम्मत हार देते और लड़ाई के बारे में झगड़ने लगते मगर ख़ुदा ने इसे (बदनामी) से बचाया इसमें तो शक़ ही नहीं कि वह दिली ख्यालात से वाक़िफ़ है"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "وَإِذۡ یُرِیكُمُوهُمۡ إِذِ ٱلۡتَقَیۡتُمۡ فِیۤ أَعۡیُنِكُمۡ قَلِیلࣰا وَیُقَلِّلُكُمۡ فِیۤ أَعۡیُنِهِمۡ لِیَقۡضِیَ ٱللَّهُ أَمۡرࣰا كَانَ مَفۡعُولࣰاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n",
+      "english": "And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allah might accomplish a matter already destined. And to Allah are [all] matters returned.",
+      "hindi": "(ये वह वक्त था) जब तुम लोगों ने मुठभेड़ की तो ख़ुदा ने तुम्हारी ऑखों में कुफ्फ़ार को बहुत कम करके दिखलाया और उनकी ऑखों में तुमको थोड़ा कर दिया ताकि ख़ुदा को जो कुछ करना मंज़ूर था वह पूरा हो जाए और कुल बातों का दारोमदार तो ख़ुदा ही पर है"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا لَقِیتُمۡ فِئَةࣰ فَٱثۡبُتُوا۟ وَٱذۡكُرُوا۟ ٱللَّهَ كَثِیرࣰا لَّعَلَّكُمۡ تُفۡلِحُونَ\n",
+      "english": "O you who have believed, when you encounter a company [from the enemy forces], stand firm and remember Allah much that you may be successful.",
+      "hindi": "ऐ ईमानदारों जब तुम किसी फौज से मुठभेड़ करो तो ख़बरदार अपने क़दम जमाए रहो और ख़ुदा को बहुंत याद करते रहो ताकि तुम फलाह पाओ"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفۡشَلُوا۟ وَتَذۡهَبَ رِیحُكُمۡۖ وَٱصۡبِرُوۤا۟ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِینَ\n",
+      "english": "And obey Allah and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allah is with the patient.",
+      "hindi": "और ख़ुदा की और उसके रसूल की इताअत करो और आपस में झगड़ा न करो वरना तुम हिम्मत हारोगे और तुम्हारी हवा उखड़ जाएगी और (जंग की तकलीफ़ को) झेल जाओ (क्योंकि) ख़ुदा तो यक़ीनन सब्र करने वालों का साथी है"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ خَرَجُوا۟ مِن دِیَـٰرِهِم بَطَرࣰا وَرِئَاۤءَ ٱلنَّاسِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۚ وَٱللَّهُ بِمَا یَعۡمَلُونَ مُحِیطࣱ\n",
+      "english": "And do not be like those who came forth from their homes insolently and to be seen by people and avert [them] from the way of Allah. And Allah is encompassing of what they do.",
+      "hindi": "और उन लोगों के ऐसे न हो जाओ जो इतराते हुए और लोगों के दिखलाने के वास्ते अपने घरों से निकल खड़े हुए और लोगों को ख़ुदा की राह से रोकते हैं और जो कुछ भी वह लोग करते हैं ख़ुदा उस पर (हर तरह से) अहाता किए हुए है"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "وَإِذۡ زَیَّنَ لَهُمُ ٱلشَّیۡطَـٰنُ أَعۡمَـٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡیَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّی جَارࣱ لَّكُمۡۖ فَلَمَّا تَرَاۤءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَیۡهِ وَقَالَ إِنِّی بَرِیۤءࣱ مِّنكُمۡ إِنِّیۤ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّیۤ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ\n",
+      "english": "And [remember] when Satan made their deeds pleasing to them and said, \"No one can overcome you today from among the people, and indeed, I am your protector.\" But when the two armies sighted each other, he turned on his heels and said, \"Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed I fear Allah. And Allah is severe in penalty.\"",
+      "hindi": "और जब शैतान ने उनकी कारस्तानियों को उम्दा कर दिखाया और उनके कान में फूंक दिया कि लोगों में आज कोई ऐसा नहीं जो तुम पर ग़ालिब आ सके और मै तुम्हारा मददगार हूं फिर जब दोनों लश्कर मुकाबिल हुए तो अपने उलटे पॉव भाग निकला और कहने लगा कि मै तो तुम से अलग हूं मै वह चीजें देख रहा हूं जो तुम्हें नहीं सूझती मैं तो ख़ुदा से डरता हूं और ख़ुदा बहुत सख्त अज़ाब वाला है"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "إِذۡ یَقُولُ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ غَرَّ هَـٰۤؤُلَاۤءِ دِینُهُمۡۗ وَمَن یَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِیزٌ حَكِیمࣱ\n",
+      "english": "[Remember] when the hypocrites and those in whose hearts was disease said, \"Their religion has deluded those [Muslims].\" But whoever relies upon Allah - then indeed, Allah is Exalted in Might and Wise.",
+      "hindi": "(ये वक्त था) जब मुनाफिक़ीन और जिन लोगों के दिल में (कुफ्र का) मर्ज़ है कह रहे थे कि उन मुसलमानों को उनके दीन ने धोके में डाल रखा है (कि इतराते फिरते हैं हालॉकि जो शख़्स ख़ुदा पर भरोसा करता है (वह ग़ालिब रहता है क्योंकि) ख़ुदा तो यक़ीनन ग़ालिब और हिकमत वाला है"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "وَلَوۡ تَرَىٰۤ إِذۡ یَتَوَفَّى ٱلَّذِینَ كَفَرُوا۟ ٱلۡمَلَـٰۤىِٕكَةُ یَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَـٰرَهُمۡ وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ\n",
+      "english": "And if you could but see when the angels take the souls of those who disbelieved... They are striking their faces and their backs and [saying], \"Taste the punishment of the Burning Fire.",
+      "hindi": "और काश (ऐ रसूल) तुम देखते जब फ़रिश्ते काफ़िरों की जान निकाल लेते थे और रूख़ और पुश्त (पीठ) पर कोड़े मारते थे और (कहते थे कि) अज़ाब जहन्नुम के मज़े चखों"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ\n",
+      "english": "That is for what your hands have put forth [of evil] and because Allah is not ever unjust to His servants.\"",
+      "hindi": "ये सज़ा उसकी है जो तुम्हारे हाथों ने पहले किया कराया है और ख़ुदा बन्दों पर हरगिज़ ज़ुल्म नहीं किया करता है"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِیࣱّ شَدِیدُ ٱلۡعِقَابِ\n",
+      "english": "[Theirs is] like the custom of the people of Pharaoh and of those before them. They disbelieved in the signs of Allah, so Allah seized them for their sins. Indeed, Allah is Powerful and severe in penalty.",
+      "hindi": "(उन लोगों की हालत) क़ौमे फिरऔन और उनके लोगों की सी है जो उन से पहले थे और ख़ुदा की आयतों से इन्कार करते थे तो ख़ुदा ने भी उनके गुनाहों की वजह से उन्हें ले डाला बेशक ख़ुदा ज़बरदस्त और बहुत सख्त अज़ाब देने वाला है"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "ذَ ٰ⁠لِكَ بِأَنَّ ٱللَّهَ لَمۡ یَكُ مُغَیِّرࣰا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ قَوۡمٍ حَتَّىٰ یُغَیِّرُوا۟ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ\n",
+      "english": "That is because Allah would not change a favor which He had bestowed upon a people until they change what is within themselves. And indeed, Allah is Hearing and Knowing.",
+      "hindi": "ये सज़ा इस वजह से (दी गई) कि जब कोई नेअमत ख़ुदा किसी क़ौम को देता है तो जब तक कि वह लोग ख़ुद अपनी कलबी हालत (न) बदलें ख़ुदा भी उसे नहीं बदलेगा और ख़ुदा तो यक़ीनी (सब की सुनता) और सब कुछ जानता है"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَذَّبُوا۟ بِـَٔایَـٰتِ رَبِّهِمۡ فَأَهۡلَكۡنَـٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَاۤ ءَالَ فِرۡعَوۡنَۚ وَكُلࣱّ كَانُوا۟ ظَـٰلِمِینَ\n",
+      "english": "[Theirs is] like the custom of the people of Pharaoh and of those before them. They denied the signs of their Lord, so We destroyed them for their sins, and We drowned the people of Pharaoh. And all [of them] were wrongdoers.",
+      "hindi": "(उन लोगों की हालत) क़ौम फिरऔन और उन लोगों की सी है जो उनसे पहले थे और अपने परवरदिगार की आयतों को झुठलाते थे तो हमने भी उनके गुनाहों की वजह से उनको हलाक़ कर डाला और फिरऔन की क़ौम को डुबा मारा और (ये) सब के सब ज़ालिम थे"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلَّذِینَ كَفَرُوا۟ فَهُمۡ لَا یُؤۡمِنُونَ\n",
+      "english": "Indeed, the worst of living creatures in the sight of Allah are those who have disbelieved, and they will not [ever] believe -",
+      "hindi": "इसमें शक़ नहीं कि ख़ुदा के नज़दीक जानवरों में कुफ्फ़ार सबसे बदतरीन तो (बावजूद इसके) फिर ईमान नहीं लाते"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "ٱلَّذِینَ عَـٰهَدتَّ مِنۡهُمۡ ثُمَّ یَنقُضُونَ عَهۡدَهُمۡ فِی كُلِّ مَرَّةࣲ وَهُمۡ لَا یَتَّقُونَ\n",
+      "english": "The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allah.",
+      "hindi": "ऐ रसूल जिन लोगों से तुम ने एहद व पैमान किया था फिर वह लोग अपने एहद को हर बार तोड़ डालते है और (फिर ख़ुदा से) नहीं डरते"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "فَإِمَّا تَثۡقَفَنَّهُمۡ فِی ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ لَعَلَّهُمۡ یَذَّكَّرُونَ\n",
+      "english": "So if you, [O Muhammad], gain dominance over them in war, disperse by [means of] them those behind them that perhaps they will be reminded.",
+      "hindi": "तो अगर वह लड़ाई में तुम्हारे हाथे चढ़ जाएँ तो (ऐसी सख्त गोश्माली दो कि) उनके साथ साथ उन लोगों का तो अगर वह लड़ाई में तुम्हारे हत्थे चढ़ जाएं तो (ऐसी सजा दो की) उनके साथ उन लोगों को भी तितिर बितिर कर दो जो उन के पुश्त पर हो ताकि ये इबरत हासिल करें"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِیَانَةࣰ فَٱنۢبِذۡ إِلَیۡهِمۡ عَلَىٰ سَوَاۤءٍۚ إِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡخَاۤىِٕنِینَ\n",
+      "english": "If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms. Indeed, Allah does not like traitors.",
+      "hindi": "और अगर तुम्हें किसी क़ौम की ख्यानत (एहद शिकनी(वादा ख़िलाफी)) का ख़ौफ हो तो तुम भी बराबर उनका एहद उन्हीं की तरफ से फेंक मारो (एहदो शिकन के साथ एहद शिकनी करो ख़ुदा हरगिज़ दग़ाबाजों को दोस्त नहीं रखता)"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "وَلَا یَحۡسَبَنَّ ٱلَّذِینَ كَفَرُوا۟ سَبَقُوۤا۟ۚ إِنَّهُمۡ لَا یُعۡجِزُونَ\n",
+      "english": "And let not those who disbelieve think they will escape. Indeed, they will not cause failure [to Allah].",
+      "hindi": "और कुफ्फ़ार ये न ख्याल करें कि वह (मुसलमानों से) आगे बढ़ निकले (क्योंकि) वह हरगिज़ (मुसलमानों को) हरा नहीं सकते"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةࣲ وَمِن رِّبَاطِ ٱلۡخَیۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ وَءَاخَرِینَ مِن دُونِهِمۡ لَا تَعۡلَمُونَهُمُ ٱللَّهُ یَعۡلَمُهُمۡۚ وَمَا تُنفِقُوا۟ مِن شَیۡءࣲ فِی سَبِیلِ ٱللَّهِ یُوَفَّ إِلَیۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ\n",
+      "english": "And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy and others besides them whom you do not know [but] whom Allah knows. And whatever you spend in the cause of Allah will be fully repaid to you, and you will not be wronged.",
+      "hindi": "और (मुसलमानों तुम कुफ्फार के मुकाबले के) वास्ते जहाँ तक तुमसे हो सके (अपने बाज़ू के) ज़ोर से और बॅधे हुए घोड़े से लड़ाई का सामान मुहय्या करो इससे ख़ुदा के दुश्मन और अपने दुश्मन और उसके सिवा दूसरे लोगों पर भी अपनी धाक बढ़ा लेगें जिन्हें तुम नहीं जानते हो मगर ख़ुदा तो उनको जानता है और ख़ुदा की राह में तुम जो कुछ भी ख़र्च करोगें वह तुम पूरा पूरा भर पाओगें और तुम पर किसी तरह ज़ुल्म नहीं किया जाएगा"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "۞ وَإِن جَنَحُوا۟ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n",
+      "english": "And if they incline to peace, then incline to it [also] and rely upon Allah. Indeed, it is He who is the Hearing, the Knowing.",
+      "hindi": "और अगर ये कुफ्फार सुलह की तरफ माएल हो तो तुम भी उसकी तरफ माएल हो और ख़ुदा पर भरोसा रखो (क्योंकि) वह बेशक (सब कुछ) सुनता जानता है"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "وَإِن یُرِیدُوۤا۟ أَن یَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِیۤ أَیَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِینَ\n",
+      "english": "But if they intend to deceive you - then sufficient for you is Allah. It is He who supported you with His help and with the believers",
+      "hindi": "और अगर वह लोग तुम्हें फरेब देना चाहे तो (कुछ परवा नहीं) ख़ुदा तुम्हारे वास्ते यक़ीनी काफी है-(ऐ रसूल) वही तो वह (ख़ुदा) है जिसने अपनी ख़ास मदद और मोमिनीन से तुम्हारी ताईद की"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "وَأَلَّفَ بَیۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِی ٱلۡأَرۡضِ جَمِیعࣰا مَّاۤ أَلَّفۡتَ بَیۡنَ قُلُوبِهِمۡ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَیۡنَهُمۡۚ إِنَّهُۥ عَزِیزٌ حَكِیمࣱ\n",
+      "english": "And brought together their hearts. If you had spent all that is in the earth, you could not have brought their hearts together; but Allah brought them together. Indeed, He is Exalted in Might and Wise.",
+      "hindi": "और उसी ने उन मुसलमानों के दिलों में बाहम ऐसी उलफ़त पैदा कर दी कि अगर तुम जो कुछ ज़मीन में है सब का सब खर्च कर डालते तो भी उनके दिलो में ऐसी उलफ़त पैदा न कर सकते मगर ख़ुदा ही था जिसने बाहम उलफत पैदा की बेशक वह ज़बरदस्त हिक़मत वाला है"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "O Prophet, sufficient for you is Allah and for whoever follows you of the believers.",
+      "hindi": "ऐ रसूल तुमको बस ख़ुदा और जो मोमिनीन तुम्हारे ताबेए फरमान (फरमाबरदार) है काफी है"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَرِّضِ ٱلۡمُؤۡمِنِینَ عَلَى ٱلۡقِتَالِۚ إِن یَكُن مِّنكُمۡ عِشۡرُونَ صَـٰبِرُونَ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ یَغۡلِبُوۤا۟ أَلۡفࣰا مِّنَ ٱلَّذِینَ كَفَرُوا۟ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ\n",
+      "english": "O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are] steadfast, they will overcome a thousand of those who have disbelieved because they are a people who do not understand.",
+      "hindi": "ऐ रसूल तुम मोमिनीन को जिहाद के वास्ते आमादा करो (वह घबराए नहीं ख़ुदा उनसे वायदा करता है कि) अगर तुम लोगों में के साबित क़दम रहने वाले बीस भी होगें तो वह दो सौ (काफिरों) पर ग़ालिब आ जायेगे और अगर तुम लोगों में से साबित कदम रहने वालों सौ होगें तो हज़ार (काफिरों) पर ग़ालिब आ जाएँगें इस सबब से कि ये लोग ना समझ हैं"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "ٱلۡـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِیكُمۡ ضَعۡفࣰاۚ فَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ صَابِرَةࣱ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُمۡ أَلۡفࣱ یَغۡلِبُوۤا۟ أَلۡفَیۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِینَ\n",
+      "english": "Now, Allah has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allah. And Allah is with the steadfast.",
+      "hindi": "अब ख़ुदा ने तुम से (अपने हुक्म की सख्ती में) तख्फ़ीफ (कमी) कर दी और देख लिया कि तुम में यक़ीनन कमज़ोरी है तो अगर तुम लोगों में से साबित क़दम रहने वाले सौ होगें तो दो सौ (काफ़िरों) पर ग़ालिब रहेंगें और अगर तुम लोगों में से (ऐसे) एक हज़ार होगें तो ख़ुदा के हुक्म से दो हज़ार (काफ़िरों) पर ग़ालिब रहेंगे और (जंग की तकलीफों को) झेल जाने वालों का ख़ुदा साथी है"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "مَا كَانَ لِنَبِیٍّ أَن یَكُونَ لَهُۥۤ أَسۡرَىٰ حَتَّىٰ یُثۡخِنَ فِی ٱلۡأَرۡضِۚ تُرِیدُونَ عَرَضَ ٱلدُّنۡیَا وَٱللَّهُ یُرِیدُ ٱلۡـَٔاخِرَةَۗ وَٱللَّهُ عَزِیزٌ حَكِیمࣱ\n",
+      "english": "It is not for a prophet to have captives [of war] until he inflicts a massacre [upon Allah 's enemies] in the land. Some Muslims desire the commodities of this world, but Allah desires [for you] the Hereafter. And Allah is Exalted in Might and Wise.",
+      "hindi": "कोई नबी जब कि रूए ज़मीन पर (काफिरों का) खून न बहाए उसके यहाँ कैदियों का रहना मुनासिब नहीं तुम लोग तो दुनिया के साज़ो सामान के ख्वाहॉ (चाहने वाले) हो औॅर ख़ुदा (तुम्हारे लिए) आख़िरत की (भलाई) का ख्वाहॉ है और ख़ुदा ज़बरदस्त हिकमत वाला है"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "لَّوۡلَا كِتَـٰبࣱ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِیمَاۤ أَخَذۡتُمۡ عَذَابٌ عَظِیمࣱ\n",
+      "english": "If not for a decree from Allah that preceded, you would have been touched for what you took by a great punishment.",
+      "hindi": "और अगर ख़ुदा की तरफ से पहले ही (उसकी) माफी का हुक्म आ चुका होता तो तुमने जो (बदर के क़ैदियों के छोड़ देने के बदले) फिदिया लिया था"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "فَكُلُوا۟ مِمَّا غَنِمۡتُمۡ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ\n",
+      "english": "So consume what you have taken of war booty [as being] lawful and good, and fear Allah. Indeed, Allah is Forgiving and Merciful.",
+      "hindi": "उसकी सज़ा में तुम पर बड़ा अज़ाब नाज़िल होकर रहता तो (ख़ैर जो हुआ सो हुआ) अब तुमने जो माल ग़नीमत हासिल किया है उसे खाओ (और तुम्हारे लिए) हलाल तय्यब है और ख़ुदा से डरते रहो बेशक ख़ुदा बड़ा बख्शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّمَن فِیۤ أَیۡدِیكُم مِّنَ ٱلۡأَسۡرَىٰۤ إِن یَعۡلَمِ ٱللَّهُ فِی قُلُوبِكُمۡ خَیۡرࣰا یُؤۡتِكُمۡ خَیۡرࣰا مِّمَّاۤ أُخِذَ مِنكُمۡ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ\n",
+      "english": "O Prophet, say to whoever is in your hands of the captives, \"If Allah knows [any] good in your hearts, He will give you [something] better than what was taken from you, and He will forgive you; and Allah is Forgiving and Merciful.\"",
+      "hindi": "ऐ रसूल जो कैदी तुम्हारे कब्जे में है उनसे कह दो कि अगर तुम्हारे दिलों में नेकी देखेगा तो जो (माल) तुम से छीन लिया गया है उससे कहीं बेहतर तुम्हें अता फरमाएगा और तुम्हें बख्श भी देगा और ख़ुदा तो बड़ा बख्शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "وَإِن یُرِیدُوا۟ خِیَانَتَكَ فَقَدۡ خَانُوا۟ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ\n",
+      "english": "But if they intend to betray you - then they have already betrayed Allah before, and He empowered [you] over them. And Allah is Knowing and Wise.",
+      "hindi": "और अगर ये लोग तुमसे फरेब करना चाहते है तो ख़ुदा से पहले ही फरेब कर चुके हैं तो (उसकी सज़ा में) ख़ुदा ने उन पर तुम्हें क़ाबू दे दिया और ख़ुदा तो बड़ा वाक़िफकार हिकमत वाला है"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمۡوَ ٰ⁠لِهِمۡ وَأَنفُسِهِمۡ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضࣲۚ وَٱلَّذِینَ ءَامَنُوا۟ وَلَمۡ یُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰیَتِهِم مِّن شَیۡءٍ حَتَّىٰ یُهَاجِرُوا۟ۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِی ٱلدِّینِ فَعَلَیۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَیۡنَكُمۡ وَبَیۡنَهُم مِّیثَـٰقࣱۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ\n",
+      "english": "Indeed, those who have believed and emigrated and fought with their wealth and lives in the cause of Allah and those who gave shelter and aided - they are allies of one another. But those who believed and did not emigrate - for you there is no guardianship of them until they emigrate. And if they seek help of you for the religion, then you must help, except against a people between yourselves and whom is a treaty. And Allah is Seeing of what you do.",
+      "hindi": "जिन लोगों ने ईमान क़ुबूल किया और हिजरत की और अपने अपने जान माल से ख़ुदा की राह में जिहाद किया और जिन लोगों ने (हिजरत करने वालों को जगह दी और हर (तरह) उनकी ख़बर गीरी (मदद) की यही लोग एक दूसरे के (बाहम) सरपरस्त दोस्त हैं और जिन लोगों ने ईमान क़ुबूल किया और हिजरत नहीं की तो तुम लोगों को उनकी सरपरस्ती से कुछ सरोकार नहीं-यहाँ तक कि वह हिजरत एख्तियार करें और (हॉ) मगर दीनी अम्र में तुम से मदद के ख्वाहॉ हो तो तुम पर (उनकी मदद करना लाज़िम व वाजिब है मगर उन लोगों के मुक़ाबले में (नहीं) जिनमें और तुममें बाहम (सुलह का) एहदो पैमान है और जो कुछ तुम करते हो ख़ुदा (सबको) देख रहा है"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "وَٱلَّذِینَ كَفَرُوا۟ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةࣱ فِی ٱلۡأَرۡضِ وَفَسَادࣱ كَبِیرࣱ\n",
+      "english": "And those who disbelieved are allies of one another. If you do not do so, there will be fitnah on earth and great corruption.",
+      "hindi": "और जो लोग काफ़िर हैं वह भी (बाहम) एक दूसरे के सरपरस्त हैं अगर तुम (इस तरह) वायदा न करोगे तो रूए ज़मीन पर फ़ितना (फ़साद) बरपा हो जाएगा और बड़ा फ़साद होगा"
+    },
+    {
+      "verse_number": 74,
+      "arabic": "وَٱلَّذِینَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِی سَبِیلِ ٱللَّهِ وَٱلَّذِینَ ءَاوَوا۟ وَّنَصَرُوۤا۟ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ\n",
+      "english": "But those who have believed and emigrated and fought in the cause of Allah and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.",
+      "hindi": "और जिन लोगों ने ईमान क़ुबूल किया और हिजरत की और ख़ुदा की राह में लड़े भिड़े और जिन लोगों ने (ऐसे नाज़ुक वक्त में मुहाजिरीन को जगह ही और उनकी हर तरह ख़बरगीरी (मदद) की यही लोग सच्चे ईमानदार हैं उन्हीं के वास्ते मग़फिरत और इज्ज़त व आबरु वाली रोज़ी है"
+    },
+    {
+      "verse_number": 75,
+      "arabic": "وَٱلَّذِینَ ءَامَنُوا۟ مِنۢ بَعۡدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمۡ فَأُو۟لَـٰۤىِٕكَ مِنكُمۡۚ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ فِی كِتَـٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمُۢ\n",
+      "english": "And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allah. Indeed, Allah is Knowing of all things.",
+      "hindi": "और जिन लोगों ने (सुलह हुदैबिया के) बाद ईमान क़ुबूल किया और हिजरत की और तुम्हारे साथ मिलकर जिहाद किया वह लोग भी तुम्हीं में से हैं और साहबाने क़राबत ख़ुदा की किताब में बाहम एक दूसरे के (बनिस्बत औरों के) ज्यादा हक़दार हैं बेशक ख़ुदा हर चीज़ से ख़ूब वाक़िफ हैं"
+    }
+  ]
+}

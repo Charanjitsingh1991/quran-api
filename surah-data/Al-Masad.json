@@ -1,0 +1,37 @@
+{
+  "id": 111,
+  "name_simple": "Al-Masad",
+  "name_arabic": "المسد",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ تَبَّتۡ یَدَاۤ أَبِی لَهَبࣲ وَتَبَّ\n",
+      "english": "May the hands of Abu Lahab be ruined, and ruined is he.",
+      "hindi": "अबु लहब के हाथ टूट जाएँ और वह ख़ुद सत्यानास हो जाए"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "مَاۤ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ\n",
+      "english": "His wealth will not avail him or that which he gained.",
+      "hindi": "(आख़िर) न उसका माल ही उसके हाथ आया और (न) उसने कमाया"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "سَیَصۡلَىٰ نَارࣰا ذَاتَ لَهَبࣲ\n",
+      "english": "He will [enter to] burn in a Fire of [blazing] flame",
+      "hindi": "वह बहुत भड़कती हुई आग में दाख़िल होगा"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ\n",
+      "english": "And his wife [as well] - the carrier of firewood.",
+      "hindi": "और उसकी जोरू भी जो सर पर ईंधन उठाए फिरती है"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "فِی جِیدِهَا حَبۡلࣱ مِّن مَّسَدِۭ\n",
+      "english": "Around her neck is a rope of [twisted] fiber.",
+      "hindi": "और उसके गले में बटी हुई रस्सी बँधी है"
+    }
+  ]
+}

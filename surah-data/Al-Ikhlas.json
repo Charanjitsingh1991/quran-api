@@ -1,0 +1,31 @@
+{
+  "id": 112,
+  "name_simple": "Al-Ikhlas",
+  "name_arabic": "الإخلاص",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ هُوَ ٱللَّهُ أَحَدٌ\n",
+      "english": "Say, \"He is Allah, [who is] One,",
+      "hindi": "(ऐ रसूल) तुम कह दो कि ख़ुदा एक है"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ\n",
+      "english": "Allah, the Eternal Refuge.",
+      "hindi": "ख़ुदा बरहक़ बेनियाज़ है"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ\n",
+      "english": "He neither begets nor is born,",
+      "hindi": "न उसने किसी को जना न उसको किसी ने जना"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ\n",
+      "english": "Nor is there to Him any equivalent.\"",
+      "hindi": "और उसका कोई हमसर नहीं"
+    }
+  ]
+}

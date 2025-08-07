@@ -1,0 +1,55 @@
+{
+  "id": 94,
+  "name_simple": "Ash-Sharh",
+  "name_arabic": "الشرح",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ\n",
+      "english": "Did We not expand for you, [O Muhammad], your breast?",
+      "hindi": "(ऐ रसूल) क्या हमने तुम्हारा सीना इल्म से कुशादा नहीं कर दिया (जरूर किया)"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ\n",
+      "english": "And We removed from you your burden",
+      "hindi": "और तुम पर से वह बोझ उतार दिया"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "ٱلَّذِیۤ أَنقَضَ ظَهۡرَكَ\n",
+      "english": "Which had weighed upon your back",
+      "hindi": "जिसने तुम्हारी कमर तोड़ रखी थी"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ\n",
+      "english": "And raised high for you your repute.",
+      "hindi": "और तुम्हारा ज़िक्र भी बुलन्द कर दिया"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "فَإِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرًا\n",
+      "english": "For indeed, with hardship [will be] ease.",
+      "hindi": "तो (हाँ) पस बेशक दुशवारी के साथ ही आसानी है"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا\n",
+      "english": "Indeed, with hardship [will be] ease.",
+      "hindi": "यक़ीनन दुश्वारी के साथ आसानी है"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ\n",
+      "english": "So when you have finished [your duties], then stand up [for worship].",
+      "hindi": "तो जब तुम फारिग़ हो जाओ तो मुक़र्रर कर दो"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب\n",
+      "english": "And to your Lord direct [your] longing.",
+      "hindi": "और फिर अपने परवरदिगार की तरफ रग़बत करो"
+    }
+  ]
+}

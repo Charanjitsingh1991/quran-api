@@ -1,0 +1,73 @@
+{
+  "id": 101,
+  "name_simple": "Al-Qari'ah",
+  "name_arabic": "القارعة",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلۡقَارِعَةُ\n",
+      "english": "The Striking Calamity -",
+      "hindi": "खड़खड़ाने वाली"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "مَا ٱلۡقَارِعَةُ\n",
+      "english": "What is the Striking Calamity?",
+      "hindi": "वह खड़खड़ाने वाली क्या है"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ\n",
+      "english": "And what can make you know what is the Striking Calamity?",
+      "hindi": "और तुम को क्या मालूम कि वह खड़खड़ाने वाली क्या है"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "یَوۡمَ یَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ\n",
+      "english": "It is the Day when people will be like moths, dispersed,",
+      "hindi": "जिस दिन लोग (मैदाने हश्र में) टिड्डियों की तरह फैले होंगे"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ\n",
+      "english": "And the mountains will be like wool, fluffed up.",
+      "hindi": "और पहाड़ धुनकी हुई रूई के से हो जाएँगे"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "فَأَمَّا مَن ثَقُلَتۡ مَوَ ٰ⁠زِینُهُۥ\n",
+      "english": "Then as for one whose scales are heavy [with good deeds],",
+      "hindi": "तो जिसके (नेक आमाल) के पल्ले भारी होंगे"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ\n",
+      "english": "He will be in a pleasant life.",
+      "hindi": "वह मन भाते ऐश में होंगे"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "وَأَمَّا مَنۡ خَفَّتۡ مَوَ ٰ⁠زِینُهُۥ\n",
+      "english": "But as for one whose scales are light,",
+      "hindi": "और जिनके आमाल के पल्ले हल्के होंगे"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "فَأُمُّهُۥ هَاوِیَةࣱ\n",
+      "english": "His refuge will be an abyss.",
+      "hindi": "तो उनका ठिकाना न रहा"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَمَاۤ أَدۡرَىٰكَ مَا هِیَهۡ\n",
+      "english": "And what can make you know what that is?",
+      "hindi": "और तुमको क्या मालूम हाविया क्या है"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "نَارٌ حَامِیَةُۢ\n",
+      "english": "It is a Fire, intensely hot.",
+      "hindi": "वह दहकती हुई आग है"
+    }
+  ]
+}

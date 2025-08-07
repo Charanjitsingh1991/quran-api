@@ -1,0 +1,37 @@
+{
+  "id": 113,
+  "name_simple": "Al-Falaq",
+  "name_arabic": "الفلق",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ\n",
+      "english": "Say, \"I seek refuge in the Lord of daybreak",
+      "hindi": "(ऐ रसूल) तुम कह दो कि मैं सुबह के मालिक की"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "مِن شَرِّ مَا خَلَقَ\n",
+      "english": "From the evil of that which He created",
+      "hindi": "हर चीज़ की बुराई से जो उसने पैदा की पनाह माँगता हूँ"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\n",
+      "english": "And from the evil of darkness when it settles",
+      "hindi": "और अंधेरीरात की बुराई से जब उसका अंधेरा छा जाए"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ\n",
+      "english": "And from the evil of the blowers in knots",
+      "hindi": "और गन्डों पर फूँकने वालियों की बुराई से"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\n",
+      "english": "And from the evil of an envier when he envies.\"",
+      "hindi": "(जब फूँके) और हसद करने वाले की बुराई से"
+    }
+  ]
+}

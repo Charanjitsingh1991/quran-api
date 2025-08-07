@@ -1,0 +1,247 @@
+{
+  "id": 78,
+  "name_simple": "An-Naba",
+  "name_arabic": "النبإ",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ عَمَّ یَتَسَاۤءَلُونَ\n",
+      "english": "About what are they asking one another?",
+      "hindi": "ये लोग आपस में किस चीज़ का हाल पूछते हैं"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "عَنِ ٱلنَّبَإِ ٱلۡعَظِیمِ\n",
+      "english": "About the great news -",
+      "hindi": "एक बड़ी ख़बर का हाल"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "ٱلَّذِی هُمۡ فِیهِ مُخۡتَلِفُونَ\n",
+      "english": "That over which they are in disagreement.",
+      "hindi": "जिसमें लोग एख्तेलाफ कर रहे हैं"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "كَلَّا سَیَعۡلَمُونَ\n",
+      "english": "No! They are going to know.",
+      "hindi": "देखो उन्हें अनक़रीब ही मालूम हो जाएगा"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "ثُمَّ كَلَّا سَیَعۡلَمُونَ\n",
+      "english": "Then, no! They are going to know.",
+      "hindi": "फिर इन्हें अनक़रीब ही ज़रूर मालूम हो जाएगा"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَـٰدࣰا\n",
+      "english": "Have We not made the earth a resting place?",
+      "hindi": "क्या हमने ज़मीन को बिछौना"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "وَٱلۡجِبَالَ أَوۡتَادࣰا\n",
+      "english": "And the mountains as stakes?",
+      "hindi": "और पहाड़ों को (ज़मीन) की मेख़े नहीं बनाया"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "وَخَلَقۡنَـٰكُمۡ أَزۡوَ ٰ⁠جࣰا\n",
+      "english": "And We created you in pairs",
+      "hindi": "और हमने तुम लोगों को जोड़ा जोड़ा पैदा किया"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتࣰا\n",
+      "english": "And made your sleep [a means for] rest",
+      "hindi": "और तुम्हारी नींद को आराम (का बाइस) क़रार दिया"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَجَعَلۡنَا ٱلَّیۡلَ لِبَاسࣰا\n",
+      "english": "And made the night as clothing",
+      "hindi": "और रात को परदा बनाया"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشࣰا\n",
+      "english": "And made the day for livelihood",
+      "hindi": "और हम ही ने दिन को (कसब) मआश (का वक्त) बनाया"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "وَبَنَیۡنَا فَوۡقَكُمۡ سَبۡعࣰا شِدَادࣰا\n",
+      "english": "And constructed above you seven strong [heavens]",
+      "hindi": "और तुम्हारे ऊपर सात मज़बूत (आसमान) बनाए"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "وَجَعَلۡنَا سِرَاجࣰا وَهَّاجࣰا\n",
+      "english": "And made [therein] a burning lamp",
+      "hindi": "और हम ही ने (सूरज) को रौशन चिराग़ बनाया"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَ ٰ⁠تِ مَاۤءࣰ ثَجَّاجࣰا\n",
+      "english": "And sent down, from the rain clouds, pouring water",
+      "hindi": "और हम ही ने बादलों से मूसलाधार पानी बरसाया"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "لِّنُخۡرِجَ بِهِۦ حَبࣰّا وَنَبَاتࣰا\n",
+      "english": "That We may bring forth thereby grain and vegetation",
+      "hindi": "ताकि उसके ज़रिए से दाने और सबज़ी"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "وَجَنَّـٰتٍ أَلۡفَافًا\n",
+      "english": "And gardens of entwined growth.",
+      "hindi": "और घने घने बाग़ पैदा करें"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "إِنَّ یَوۡمَ ٱلۡفَصۡلِ كَانَ مِیقَـٰتࣰا\n",
+      "english": "Indeed, the Day of Judgement is an appointed time -",
+      "hindi": "बेशक फैसले का दिन मुक़र्रर है"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "یَوۡمَ یُنفَخُ فِی ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجࣰا\n",
+      "english": "The Day the Horn is blown and you will come forth in multitudes",
+      "hindi": "जिस दिन सूर फूँका जाएगा और तुम लोग गिरोह गिरोह हाज़िर होगे"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَفُتِحَتِ ٱلسَّمَاۤءُ فَكَانَتۡ أَبۡوَ ٰ⁠بࣰا\n",
+      "english": "And the heaven is opened and will become gateways",
+      "hindi": "और आसमान खोल दिए जाएँगे"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "وَسُیِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا\n",
+      "english": "And the mountains are removed and will be [but] a mirage.",
+      "hindi": "तो (उसमें) दरवाज़े हो जाएँगे और पहाड़ (अपनी जगह से) चलाए जाएँगे तो रेत होकर रह जाएँगे"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادࣰا\n",
+      "english": "Indeed, Hell has been lying in wait",
+      "hindi": "बेशक जहन्नुम घात में है"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "لِّلطَّـٰغِینَ مَـَٔابࣰا\n",
+      "english": "For the transgressors, a place of return,",
+      "hindi": "सरकशों का (वही) ठिकाना है"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "لَّـٰبِثِینَ فِیهَاۤ أَحۡقَابࣰا\n",
+      "english": "In which they will remain for ages [unending].",
+      "hindi": "उसमें मुद्दतों पड़े झींकते रहेंगें"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "لَّا یَذُوقُونَ فِیهَا بَرۡدࣰا وَلَا شَرَابًا\n",
+      "english": "They will not taste therein [any] coolness or drink",
+      "hindi": "न वहाँ ठन्डक का मज़ा चखेंगे और न खौलते हुए पानी"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "إِلَّا حَمِیمࣰا وَغَسَّاقࣰا\n",
+      "english": "Except scalding water and [foul] purulence -",
+      "hindi": "और बहती हुई पीप के सिवा कुछ पीने को मिलेगा"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "جَزَاۤءࣰ وِفَاقًا\n",
+      "english": "An appropriate recompense.",
+      "hindi": "(ये उनकी कारस्तानियों का) पूरा पूरा बदला है"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "إِنَّهُمۡ كَانُوا۟ لَا یَرۡجُونَ حِسَابࣰا\n",
+      "english": "Indeed, they were not expecting an account",
+      "hindi": "बेशक ये लोग आख़ेरत के हिसाब की उम्मीद ही न रखते थे"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "وَكَذَّبُوا۟ بِـَٔایَـٰتِنَا كِذَّابࣰا\n",
+      "english": "And denied Our verses with [emphatic] denial.",
+      "hindi": "और इन लोगो हमारी आयतों को बुरी तरह झुठलाया"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "وَكُلَّ شَیۡءٍ أَحۡصَیۡنَـٰهُ كِتَـٰبࣰا\n",
+      "english": "But all things We have enumerated in writing.",
+      "hindi": "और हमने हर चीज़ को लिख कर मनज़बत कर रखा है"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "فَذُوقُوا۟ فَلَن نَّزِیدَكُمۡ إِلَّا عَذَابًا\n",
+      "english": "\"So taste [the penalty], and never will We increase you except in torment.\"",
+      "hindi": "तो अब तुम मज़ा चखो हमतो तुम पर अज़ाब ही बढ़ाते जाएँगे"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "إِنَّ لِلۡمُتَّقِینَ مَفَازًا\n",
+      "english": "Indeed, for the righteous is attainment -",
+      "hindi": "बेशक परहेज़गारों के लिए बड़ी कामयाबी है"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "حَدَاۤىِٕقَ وَأَعۡنَـٰبࣰا\n",
+      "english": "Gardens and grapevines",
+      "hindi": "(यानि बेहश्त के) बाग़ और अंगूर"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "وَكَوَاعِبَ أَتۡرَابࣰا\n",
+      "english": "And full-breasted [companions] of equal age",
+      "hindi": "और वह औरतें जिनकी उठती हुई जवानियाँ"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "وَكَأۡسࣰا دِهَاقࣰا\n",
+      "english": "And a full cup.",
+      "hindi": "और बाहम हमजोलियाँ हैं और शराब के लबरेज़ साग़र"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "لَّا یَسۡمَعُونَ فِیهَا لَغۡوࣰا وَلَا كِذَّ ٰ⁠بࣰا\n",
+      "english": "No ill speech will they hear therein or any falsehood -",
+      "hindi": "और शराब के लबरेज़ साग़र वहाँ न बेहूदा बात सुनेंगे और न झूठ"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "جَزَاۤءࣰ مِّن رَّبِّكَ عَطَاۤءً حِسَابࣰا\n",
+      "english": "[As] reward from your Lord, [a generous] gift [made due by] account,",
+      "hindi": "(ये) तुम्हारे परवरदिगार की तरफ से काफ़ी इनाम और सिला है"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "رَّبِّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا ٱلرَّحۡمَـٰنِۖ لَا یَمۡلِكُونَ مِنۡهُ خِطَابࣰا\n",
+      "english": "[From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech.",
+      "hindi": "जो सारे आसमान और ज़मीन और जो इन दोनों के बीच में है सबका मालिक है बड़ा मेहरबान लोगों को उससे बात का पूरा न होगा"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "یَوۡمَ یَقُومُ ٱلرُّوحُ وَٱلۡمَلَـٰۤىِٕكَةُ صَفࣰّاۖ لَّا یَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَـٰنُ وَقَالَ صَوَابࣰا\n",
+      "english": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
+      "hindi": "जिस दिन जिबरील और फरिश्ते (उसके सामने) पर बाँध कर खड़े होंगे (उस दिन) उससे कोई बात न कर सकेगा मगर जिसे ख़ुदा इजाज़त दे और वह ठिकाने की बात कहे"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "ذَ ٰ⁠لِكَ ٱلۡیَوۡمُ ٱلۡحَقُّۖ فَمَن شَاۤءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا\n",
+      "english": "That is the True Day; so he who wills may take to his Lord a [way of] return.",
+      "hindi": "वह दिन बरहक़ है तो जो शख़्श चाहे अपने परवरदिगार की बारगाह में (अपना) ठिकाना बनाए"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "إِنَّاۤ أَنذَرۡنَـٰكُمۡ عَذَابࣰا قَرِیبࣰا یَوۡمَ یَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ یَدَاهُ وَیَقُولُ ٱلۡكَافِرُ یَـٰلَیۡتَنِی كُنتُ تُرَ ٰ⁠بَۢا\n",
+      "english": "Indeed, We have warned you of a near punishment on the Day when a man will observe what his hands have put forth and the disbeliever will say, \"Oh, I wish that I were dust!\"",
+      "hindi": "हमने तुम लोगों को अनक़रीब आने वाले अज़ाब से डरा दिया जिस दिन आदमी अपने हाथों पहले से भेजे हुए (आमाल) को देखेगा और काफ़िर कहेगा काश मैं ख़ाक हो जाता"
+    }
+  ]
+}

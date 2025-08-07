@@ -1,0 +1,667 @@
+{
+  "id": 18,
+  "name_simple": "Al-Kahf",
+  "name_arabic": "الكهف",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِیۤ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَـٰبَ وَلَمۡ یَجۡعَل لَّهُۥ عِوَجَاۜ\n",
+      "english": "[All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance.",
+      "hindi": "हर तरह की तारीफ ख़ुदा ही को (सज़ावार) है जिसने अपने बन्दे (मोहम्मद) पर किताब (क़ुरान) नाज़िल की और उसमें किसी तरह की कज़ी (ख़राबी) न रखी"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "قَیِّمࣰا لِّیُنذِرَ بَأۡسࣰا شَدِیدࣰا مِّن لَّدُنۡهُ وَیُبَشِّرَ ٱلۡمُؤۡمِنِینَ ٱلَّذِینَ یَعۡمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمۡ أَجۡرًا حَسَنࣰا\n",
+      "english": "[He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward",
+      "hindi": "बल्कि हर तरह से सधा ताकि जो सख्त अज़ाब ख़ुदा की बारगाह से काफिरों पर नाज़िल होने वाला है उससे लोगों को डराए और जिन मोमिनीन ने अच्छे अच्छे काम किए हैं उनको इस बात की खुशख़बरी दे की उनके लिए बहुत अच्छा अज्र (व सवाब) मौजूद है"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "مَّـٰكِثِینَ فِیهِ أَبَدࣰا\n",
+      "english": "In which they will remain forever",
+      "hindi": "जिसमें वह हमेशा (बाइत्मेनान) तमाम रहेगें"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَیُنذِرَ ٱلَّذِینَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدࣰا\n",
+      "english": "And to warn those who say, \"Allah has taken a son.\"",
+      "hindi": "और जो लोग इसके क़ाएल हैं कि ख़ुदा औलाद रखता है उनको (अज़ाब से) डराओ"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "مَّا لَهُم بِهِۦ مِنۡ عِلۡمࣲ وَلَا لِـَٔابَاۤىِٕهِمۡۚ كَبُرَتۡ كَلِمَةࣰ تَخۡرُجُ مِنۡ أَفۡوَ ٰ⁠هِهِمۡۚ إِن یَقُولُونَ إِلَّا كَذِبࣰا\n",
+      "english": "They have no knowledge of it, nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie.",
+      "hindi": "न तो उन्हीं को उसकी कुछ खबर है और न उनके बाप दादाओं ही को थी (ये) बड़ी सख्त बात है जो उनके मुँह से निकलती है ये लोग झूठ मूठ के सिवा (कुछ और) बोलते ही नहीं"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "فَلَعَلَّكَ بَـٰخِعࣱ نَّفۡسَكَ عَلَىٰۤ ءَاثَـٰرِهِمۡ إِن لَّمۡ یُؤۡمِنُوا۟ بِهَـٰذَا ٱلۡحَدِیثِ أَسَفًا\n",
+      "english": "Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow.",
+      "hindi": "तो (ऐ रसूल) अगर ये लोग इस बात को न माने तो यायद तुम मारे अफसोस के उनके पीछे अपनी जान दे डालोगे"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "إِنَّا جَعَلۡنَا مَا عَلَى ٱلۡأَرۡضِ زِینَةࣰ لَّهَا لِنَبۡلُوَهُمۡ أَیُّهُمۡ أَحۡسَنُ عَمَلࣰا\n",
+      "english": "Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed.",
+      "hindi": "और जो कुछ रुए ज़मीन पर है हमने उसकी ज़ीनत (रौनक़) क़रार दी ताकि हम लोगों का इम्तिहान लें कि उनमें से कौन सबसे अच्छा चलन का है"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "وَإِنَّا لَجَـٰعِلُونَ مَا عَلَیۡهَا صَعِیدࣰا جُرُزًا\n",
+      "english": "And indeed, We will make that which is upon it [into] a barren ground.",
+      "hindi": "और (फिर) हम एक न एक दिन जो कुछ भी इस पर है (सबको मिटा करके) चटियल मैदान बना देगें"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَـٰبَ ٱلۡكَهۡفِ وَٱلرَّقِیمِ كَانُوا۟ مِنۡ ءَایَـٰتِنَا عَجَبًا\n",
+      "english": "Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?",
+      "hindi": "(ऐ रसूल) क्या तुम ये ख्याल करते हो कि असहाब कहफ व रक़ीम (खोह) और (तख्ती वाले) हमारी (क़ुदरत की) निशानियों में से एक अजीब (निशानी) थे"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "إِذۡ أَوَى ٱلۡفِتۡیَةُ إِلَى ٱلۡكَهۡفِ فَقَالُوا۟ رَبَّنَاۤ ءَاتِنَا مِن لَّدُنكَ رَحۡمَةࣰ وَهَیِّئۡ لَنَا مِنۡ أَمۡرِنَا رَشَدࣰا\n",
+      "english": "[Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\"",
+      "hindi": "कि एक बारगी कुछ जवान ग़ार में आ पहुँचे और दुआ की-ऐ हमारे परवरदिगार हमें अपनी बारगाह से रहमत अता फरमा-और हमारे वास्ते हमारे काम में कामयाबी इनायत कर"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "فَضَرَبۡنَا عَلَىٰۤ ءَاذَانِهِمۡ فِی ٱلۡكَهۡفِ سِنِینَ عَدَدࣰا\n",
+      "english": "So We cast [a cover of sleep] over their ears within the cave for a number of years.",
+      "hindi": "तब हमने कई बरस तक ग़ार में उनके कानों पर पर्दे डाल दिए (उन्हें सुला दिया)"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "ثُمَّ بَعَثۡنَـٰهُمۡ لِنَعۡلَمَ أَیُّ ٱلۡحِزۡبَیۡنِ أَحۡصَىٰ لِمَا لَبِثُوۤا۟ أَمَدࣰا\n",
+      "english": "Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.",
+      "hindi": "फिर हमने उन्हें चौकाया ताकि हम देखें कि दो गिरोहों में से किसी को (ग़ार में) ठहरने की मुद्दत खूब याद है"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "نَّحۡنُ نَقُصُّ عَلَیۡكَ نَبَأَهُم بِٱلۡحَقِّۚ إِنَّهُمۡ فِتۡیَةٌ ءَامَنُوا۟ بِرَبِّهِمۡ وَزِدۡنَـٰهُمۡ هُدࣰى\n",
+      "english": "It is We who relate to you, [O Muhammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.",
+      "hindi": "(ऐ रसूल) अब हम उनका हाल तुमसे बिल्कुल ठीक तहक़ीक़ातन (यक़ीन के साथ) बयान करते हैं वह चन्द जवान थे कि अपने (सच्चे) परवरदिगार पर ईमान लाए थे और हम ने उनकी सोच समझ और ज्यादा कर दी है"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "وَرَبَطۡنَا عَلَىٰ قُلُوبِهِمۡ إِذۡ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ لَن نَّدۡعُوَا۟ مِن دُونِهِۦۤ إِلَـٰهࣰاۖ لَّقَدۡ قُلۡنَاۤ إِذࣰا شَطَطًا\n",
+      "english": "And We made firm their hearts when they stood up and said, \"Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression.",
+      "hindi": "और हमने उनकी दिलों पर (सब्र व इस्तेक़लाल की) गिराह लगा दी (कि जब दक़ियानूस बादशाह ने कुफ्र पर मजबूर किया) तो उठ खड़े हुए (और बे ताम्मुल (खटके)) कहने लगे हमारा परवरदिगार तो बस सारे आसमान व ज़मीन का मालिक है हम तो उसके सिवा किसी माबूद की हरगिज़ इबादत न करेगें"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "هَـٰۤؤُلَاۤءِ قَوۡمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦۤ ءَالِهَةࣰۖ لَّوۡلَا یَأۡتُونَ عَلَیۡهِم بِسُلۡطَـٰنِۭ بَیِّنࣲۖ فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰا\n",
+      "english": "These, our people, have taken besides Him deities. Why do they not bring for [worship of] them a clear authority? And who is more unjust than one who invents about Allah a lie?\"",
+      "hindi": "अगर हम ऐसा करे तो यक़ीनन हमने अक़ल से दूर की बात कही (अफसोस एक) ये हमारी क़ौम के लोग हैं कि जिन्होनें ख़ुदा को छोड़कर (दूसरे) माबूद बनाए हैं (फिर) ये लोग उनके (माबूद होने) की कोई सरीही (खुली) दलील क्यों नहीं पेश करते और जो शख़्श ख़ुदा पर झूट बोहतान बाँधे उससे ज्यादा ज़ालिम और कौन होगा"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "وَإِذِ ٱعۡتَزَلۡتُمُوهُمۡ وَمَا یَعۡبُدُونَ إِلَّا ٱللَّهَ فَأۡوُۥۤا۟ إِلَى ٱلۡكَهۡفِ یَنشُرۡ لَكُمۡ رَبُّكُم مِّن رَّحۡمَتِهِۦ وَیُهَیِّئۡ لَكُم مِّنۡ أَمۡرِكُم مِّرۡفَقࣰا\n",
+      "english": "[The youths said to one another], \"And when you have withdrawn from them and that which they worship other than Allah, retreat to the cave. Your Lord will spread out for you of His mercy and will prepare for you from your affair facility.\"",
+      "hindi": "(फिर बाहम कहने लगे कि) जब तुमने उन लोगों से और ख़ुदा के सिवा जिन माबूदों की ये लोग परसतिश करते हैं उनसे किनारा कशी करली तो चलो (फलॉ) ग़ार में जा बैठो और तुम्हारा परवरदिगार अपनी रहमत तुम पर वसीह कर देगा और तुम्हारा काम में तुम्हारे लिए आसानी के सामान मुहय्या करेगा"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَ ٰ⁠وَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡیَمِینِ وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِی فَجۡوَةࣲ مِّنۡهُۚ ذَ ٰ⁠لِكَ مِنۡ ءَایَـٰتِ ٱللَّهِۗ مَن یَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن یُضۡلِلۡ فَلَن تَجِدَ لَهُۥ وَلِیࣰّا مُّرۡشِدࣰا\n",
+      "english": "And [had you been present], you would see the sun when it rose, inclining away from their cave on the right, and when it set, passing away from them on the left, while they were [laying] within an open space thereof. That was from the signs of Allah. He whom Allah guides is the [rightly] guided, but he whom He leaves astray - never will you find for him a protecting guide.",
+      "hindi": "(ग़रज़ ये ठान कर ग़ार में जा पहुँचे) कि जब सूरज निकलता है तो देखेगा कि वह उनके ग़ार से दाहिनी तरफ झुक कर निकलता है और जब ग़ुरुब (डुबता) होता है तो उनसे बायीं तरफ कतरा जाता है और वह लोग (मजे से) ग़ार के अन्दर एक वसीइ (बड़ी) जगह में (लेटे) हैं ये ख़ुदा (की कुदरत) की निशानियों में से (एक निशानी) है जिसको हिदायत करे वही हिदायत याफ्ता है और जिस को गुमराह करे तो फिर उसका कोई सरपरस्त रहनुमा हरगिज़ न पाओगे"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "وَتَحۡسَبُهُمۡ أَیۡقَاظࣰا وَهُمۡ رُقُودࣱۚ وَنُقَلِّبُهُمۡ ذَاتَ ٱلۡیَمِینِ وَذَاتَ ٱلشِّمَالِۖ وَكَلۡبُهُم بَـٰسِطࣱ ذِرَاعَیۡهِ بِٱلۡوَصِیدِۚ لَوِ ٱطَّلَعۡتَ عَلَیۡهِمۡ لَوَلَّیۡتَ مِنۡهُمۡ فِرَارࣰا وَلَمُلِئۡتَ مِنۡهُمۡ رُعۡبࣰا\n",
+      "english": "And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.",
+      "hindi": "तू उनको समझेगा कि वह जागते हैं हालॉकि वह (गहरी नींद में) सो रहे हैं और हम कभी दाहिनी तरफ और कभी बायीं तरफ उनकी करवट बदलवा देते हैं और उनका कुत्ताा अपने आगे के दोनो पाँव फैलाए चौखट पर डटा बैठा है (उनकी ये हालत है कि) अगर कहीं तू उनको झाक कर देखे तो उलटे पाँव ज़रुर भाग खड़े हो और तेरे दिल में दहशत समा जाए"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَكَذَ ٰ⁠لِكَ بَعَثۡنَـٰهُمۡ لِیَتَسَاۤءَلُوا۟ بَیۡنَهُمۡۚ قَالَ قَاۤىِٕلࣱ مِّنۡهُمۡ كَمۡ لَبِثۡتُمۡۖ قَالُوا۟ لَبِثۡنَا یَوۡمًا أَوۡ بَعۡضَ یَوۡمࣲۚ قَالُوا۟ رَبُّكُمۡ أَعۡلَمُ بِمَا لَبِثۡتُمۡ فَٱبۡعَثُوۤا۟ أَحَدَكُم بِوَرِقِكُمۡ هَـٰذِهِۦۤ إِلَى ٱلۡمَدِینَةِ فَلۡیَنظُرۡ أَیُّهَاۤ أَزۡكَىٰ طَعَامࣰا فَلۡیَأۡتِكُم بِرِزۡقࣲ مِّنۡهُ وَلۡیَتَلَطَّفۡ وَلَا یُشۡعِرَنَّ بِكُمۡ أَحَدًا\n",
+      "english": "And similarly, We awakened them that they might question one another. Said a speaker from among them, \"How long have you remained [here]?\" They said, \"We have remained a day or part of a day.\" They said, \"Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.",
+      "hindi": "और (जिस तरह अपनी कुदरत से उनको सुलाया) उसी तरह (अपनी कुदरत से) उनको (जगा) उठाया ताकि आपस में कुछ पूछ गछ करें (ग़रज़) उनमें एक बोलने वाला बोल उठा कि (भई आख़िर इस ग़ार में) तुम कितनी मुद्दत ठहरे कहने लगे (अरे ठहरे क्या बस) एक दिन से भी कम उसके बाद कहने लगे कि जितनी देर तुम ग़ार में ठहरे उसको तुम्हारे परवरदिगार ही (कुछ तुम से) बेहतर जानता है (अच्छा) तो अब अपने में से किसी को अपना ये रुपया देकर शहर की तरफ भेजो तो वह (जाकर) देखभाल ले कि वहाँ कौन सा खाना बहुत अच्छा है फिर उसमें से (ज़रुरत भर) खाना तुम्हारे वास्ते ले आए और उसे चाहिए कि वह आहिस्ता चुपके से आ जाए और किसी को तुम्हारी ख़बर न होने दे"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "إِنَّهُمۡ إِن یَظۡهَرُوا۟ عَلَیۡكُمۡ یَرۡجُمُوكُمۡ أَوۡ یُعِیدُوكُمۡ فِی مِلَّتِهِمۡ وَلَن تُفۡلِحُوۤا۟ إِذًا أَبَدࣰا\n",
+      "english": "Indeed, if they come to know of you, they will stone you or return you to their religion. And never would you succeed, then - ever.\"",
+      "hindi": "इसमें शक़ नहीं कि अगर उन लोगों को तुम्हारी इत्तेलाअ हो गई तो बस फिर तुम को संगसार ही कर देंगें या फिर तुम को अपने दीन की तरफ फेर कर ले जाएँगे और अगर ऐसा हुआ तो फिर तुम कभी कामयाब न होगे"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "وَكَذَ ٰ⁠لِكَ أَعۡثَرۡنَا عَلَیۡهِمۡ لِیَعۡلَمُوۤا۟ أَنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَأَنَّ ٱلسَّاعَةَ لَا رَیۡبَ فِیهَاۤ إِذۡ یَتَنَـٰزَعُونَ بَیۡنَهُمۡ أَمۡرَهُمۡۖ فَقَالُوا۟ ٱبۡنُوا۟ عَلَیۡهِم بُنۡیَـٰنࣰاۖ رَّبُّهُمۡ أَعۡلَمُ بِهِمۡۚ قَالَ ٱلَّذِینَ غَلَبُوا۟ عَلَىٰۤ أَمۡرِهِمۡ لَنَتَّخِذَنَّ عَلَیۡهِم مَّسۡجِدࣰا\n",
+      "english": "And similarly, We caused them to be found that they [who found them] would know that the promise of Allah is truth and that of the Hour there is no doubt. [That was] when they disputed among themselves about their affair and [then] said, \"Construct over them a structure. Their Lord is most knowing about them.\" Said those who prevailed in the matter, \"We will surely take [for ourselves] over them a masjid.\"",
+      "hindi": "और हमने यूँ उनकी क़ौम के लोगों को उनकी हालत पर इत्तेलाअ (ख़बर) कराई ताकि वह लोग देख लें कि ख़ुदा को वायदा यक़ीनन सच्चा है और ये (भी समझ लें) कि क़यामत (के आने) में कुछ भी शुबहा नहीं अब (इत्तिलाआ होने के बाद) उनके बारे में लोग बाहम झगड़ने लगे तो कुछ लोगों ने कहा कि उनके (ग़ार) पर (बतौर यादगार) कोई इमारत बना दो उनका परवरदिगार तो उनके हाल से खूब वाक़िफ है ही और उनके बारे में जिन (मोमिनीन) की राए ग़ालिब रही उन्होंने कहा कि हम तो उन (के ग़ार) पर एक मस्जिद बनाएँगें"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "سَیَقُولُونَ ثَلَـٰثَةࣱ رَّابِعُهُمۡ كَلۡبُهُمۡ وَیَقُولُونَ خَمۡسَةࣱ سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَیۡبِۖ وَیَقُولُونَ سَبۡعَةࣱ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ قُل رَّبِّیۤ أَعۡلَمُ بِعِدَّتِهِم مَّا یَعۡلَمُهُمۡ إِلَّا قَلِیلࣱۗ فَلَا تُمَارِ فِیهِمۡ إِلَّا مِرَاۤءࣰ ظَـٰهِرࣰا وَلَا تَسۡتَفۡتِ فِیهِم مِّنۡهُمۡ أَحَدࣰا\n",
+      "english": "They will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muhammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone.\"",
+      "hindi": "क़रीब है कि लोग (नुसैरे नज़रान) कहेगें कि वह तीन आदमी थे चौथा उनका कुत्ताा (क़तमीर) है और कुछ लोग (आक़िब वग़ैरह) कहते हैं कि वह पाँच आदमी थे छठा उनका कुत्ताा है (ये सब) ग़ैब में अटकल लगाते हैं और कुछ लोग कहते हैं कि सात आदमी हैं और आठवाँ उनका कुत्ताा है (ऐ रसूल) तुम कह दो की उनका सुमार मेरा परवरदिगार ही ख़ब जानता है उन (की गिनती) के थोडे ही लोग जानते हैं तो (ऐ रसूल) तुम (उन लोगों से) असहाब कहफ के बारे में सरसरी गुफ्तगू के सिवा (ज्यादा) न झगड़ों और उनके बारे में उन लोगों से किसी से कुछ पूछ गछ नहीं"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "وَلَا تَقُولَنَّ لِشَا۟یۡءٍ إِنِّی فَاعِلࣱ ذَ ٰ⁠لِكَ غَدًا\n",
+      "english": "And never say of anything, \"Indeed, I will do that tomorrow,\"",
+      "hindi": "और किसी काम की निस्बत न कहा करो कि मै इसको कल करुँगा"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِیتَ وَقُلۡ عَسَىٰۤ أَن یَهۡدِیَنِ رَبِّی لِأَقۡرَبَ مِنۡ هَـٰذَا رَشَدࣰا\n",
+      "english": "Except [when adding], \"If Allah wills.\" And remember your Lord when you forget [it] and say, \"Perhaps my Lord will guide me to what is nearer than this to right conduct.\"",
+      "hindi": "मगर इन्शा अल्लाह कह कर और अगर (इन्शा अल्लाह कहना) भूल जाओ तो (जब याद आए) अपने परवरदिगार को याद कर लो (इन्शा अल्लाह कह लो) और कहो कि उम्मीद है कि मेरा परवरदिगार मुझे ऐसी बात की हिदायत फरमाए जो रहनुमाई में उससे भी ज्यादा क़रीब हो"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "وَلَبِثُوا۟ فِی كَهۡفِهِمۡ ثَلَـٰثَ مِا۟ئَةࣲ سِنِینَ وَٱزۡدَادُوا۟ تِسۡعࣰا\n",
+      "english": "And they remained in their cave for three hundred years and exceeded by nine.",
+      "hindi": "और असहाब कहफ अपने ग़ार में नौ ऊपर तीन सौ बरस रहे"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "قُلِ ٱللَّهُ أَعۡلَمُ بِمَا لَبِثُوا۟ۖ لَهُۥ غَیۡبُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ أَبۡصِرۡ بِهِۦ وَأَسۡمِعۡۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِیࣲّ وَلَا یُشۡرِكُ فِی حُكۡمِهِۦۤ أَحَدࣰا\n",
+      "english": "Say, \"Allah is most knowing of how long they remained. He has [knowledge of] the unseen [aspects] of the heavens and the earth. How Seeing is He and how Hearing! They have not besides Him any protector, and He shares not His legislation with anyone.\"",
+      "hindi": "(ऐ रसूल) अगर वह लोग इस पर भी न मानें तो तुम कह दो कि ख़ुदा उनके ठहरने की मुद्दत से बखूबी वाक़िफ है सारे आसमान और ज़मीन का ग़ैब उसी के वास्ते ख़ास है (अल्लाह हो अकबर) वो कैसा देखने वाला क्या ही सुनने वाला है उसके सिवा उन लोगों का कोई सरपरस्त नहीं और वह अपने हुक्म में किसी को अपना दख़ील (शरीक) नहीं बनाता"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "وَٱتۡلُ مَاۤ أُوحِیَ إِلَیۡكَ مِن كِتَابِ رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدࣰا\n",
+      "english": "And recite, [O Muhammad], what has been revealed to you of the Book of your Lord. There is no changer of His words, and never will you find in other than Him a refuge.",
+      "hindi": "और (ऐ रसूल) जो किताब तुम्हारे परवरदिगार की तरफ से वही के ज़रिए से नाज़िल हुईहै उसको पढ़ा करो उसकी बातों को कोई बदल नहीं सकता और तुम उसके सिवा कहीं कोई हरगिज़ पनाह की जगह (भी) न पाओगे"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "وَٱصۡبِرۡ نَفۡسَكَ مَعَ ٱلَّذِینَ یَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِیِّ یُرِیدُونَ وَجۡهَهُۥۖ وَلَا تَعۡدُ عَیۡنَاكَ عَنۡهُمۡ تُرِیدُ زِینَةَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَلَا تُطِعۡ مَنۡ أَغۡفَلۡنَا قَلۡبَهُۥ عَن ذِكۡرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمۡرُهُۥ فُرُطࣰا\n",
+      "english": "And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.",
+      "hindi": "और (ऐ रसूल) जो लोग अपने परवरदिगार को सुबह सवेरे और झटपट वक्त शाम को याद करते हैं और उसकी खुशनूदी के ख्वाहाँ हैं उनके उनके साथ तुम खुद (भी) अपने नफस पर जब्र करो और उनकी तरफ से अपनी नज़र (तवज्जो) न फेरो कि तुम दुनिया में ज़िन्दगी की आराइश चाहने लगो और जिसके दिल को हमने (गोया खुद) अपने ज़िक्र से ग़ाफिल कर दिया है और वह अपनी ख्वाहिशे नफसानी के पीछे पड़ा है और उसका काम सरासर ज्यादती है उसका कहना हरगिज़ न मानना"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "وَقُلِ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَن شَاۤءَ فَلۡیُؤۡمِن وَمَن شَاۤءَ فَلۡیَكۡفُرۡۚ إِنَّاۤ أَعۡتَدۡنَا لِلظَّـٰلِمِینَ نَارًا أَحَاطَ بِهِمۡ سُرَادِقُهَاۚ وَإِن یَسۡتَغِیثُوا۟ یُغَاثُوا۟ بِمَاۤءࣲ كَٱلۡمُهۡلِ یَشۡوِی ٱلۡوُجُوهَۚ بِئۡسَ ٱلشَّرَابُ وَسَاۤءَتۡ مُرۡتَفَقًا\n",
+      "english": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+      "hindi": "और (ऐ रसूल) तुम कह दों कि सच्ची बात (कलमए तौहीद) तुम्हारे परवरदिगार की तरफ से (नाज़िल हो चुकी है) बस जो चाहे माने और जो चाहे न माने (मगर) हमने ज़ालिमों के लिए वह आग (दहका के) तैयार कर रखी है जिसकी क़नातें उन्हें घेर लेगी और अगर वह लोग दोहाई करेगें तो उनकी फरियाद रसी खौलते हुए पानी से की जाएगी जो मसलन पिघले हुए ताबें की तरह होगा (और) वह मुँह को भून डालेगा क्या बुरा पानी है और (जहन्नुम भी) क्या बुरी जगह है"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِیعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا\n",
+      "english": "Indeed, those who have believed and done righteous deeds - indeed, We will not allow to be lost the reward of any who did well in deeds.",
+      "hindi": "इसमें शक़ नहीं कि जिन लोगों ने ईमान कुबूल किया और अच्छे अच्छे काम करते रहे तो हम हरगिज़ अच्छे काम वालो के अज्र को अकारत नहीं करते"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "أُو۟لَـٰۤىِٕكَ لَهُمۡ جَنَّـٰتُ عَدۡنࣲ تَجۡرِی مِن تَحۡتِهِمُ ٱلۡأَنۡهَـٰرُ یُحَلَّوۡنَ فِیهَا مِنۡ أَسَاوِرَ مِن ذَهَبࣲ وَیَلۡبَسُونَ ثِیَابًا خُضۡرࣰا مِّن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَّكِـِٔینَ فِیهَا عَلَى ٱلۡأَرَاۤىِٕكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقࣰا\n",
+      "english": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.",
+      "hindi": "ये वही लोग हैं जिनके (रहने सहने के) लिए सदाबहार (बेहश्त के) बाग़ात हैं उनके (मकानात के) नीचे नहरें जारी होगीं वह उन बाग़ात में दमकते हुए कुन्दन के कंगन से सँवारे जाँएगें और उन्हें बारीक रेशम (क्रेब) और दबीज़ रेश्म (वाफते)के धानी जोड़े पहनाए जाएँगें और तख्तों पर तकिए लगाए (बैठे) होगें क्या ही अच्छा बदला है और (बेहश्त भी आसाइश की) कैसी अच्छी जगह है"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "۞ وَٱضۡرِبۡ لَهُم مَّثَلࣰا رَّجُلَیۡنِ جَعَلۡنَا لِأَحَدِهِمَا جَنَّتَیۡنِ مِنۡ أَعۡنَـٰبࣲ وَحَفَفۡنَـٰهُمَا بِنَخۡلࣲ وَجَعَلۡنَا بَیۡنَهُمَا زَرۡعࣰا\n",
+      "english": "And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops.",
+      "hindi": "और (ऐ रसूल) इन लोगों से उन दो शख़्शों की मिसाल बयान करो कि उनमें से एक को हमने अंगूर के दो बाग़ दे रखे है और हमने चारो ओर खजूर के पेड़ लगा दिये है और उन दोनों बाग़ के दरमियान खेती भी लगाई है"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "كِلۡتَا ٱلۡجَنَّتَیۡنِ ءَاتَتۡ أُكُلَهَا وَلَمۡ تَظۡلِم مِّنۡهُ شَیۡـࣰٔاۚ وَفَجَّرۡنَا خِلَـٰلَهُمَا نَهَرࣰا\n",
+      "english": "Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river.",
+      "hindi": "वह दोनों बाग़ खूब फल लाए और फल लाने में कुछ कमी नहीं की और हमने उन दोनों बाग़ों के दरमियान नहर भी जारी कर दी है"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "وَكَانَ لَهُۥ ثَمَرࣱ فَقَالَ لِصَـٰحِبِهِۦ وَهُوَ یُحَاوِرُهُۥۤ أَنَا۠ أَكۡثَرُ مِنكَ مَالࣰا وَأَعَزُّ نَفَرࣰا\n",
+      "english": "And he had fruit, so he said to his companion while he was conversing with him, \"I am greater than you in wealth and mightier in [numbers of] men.\"",
+      "hindi": "और उसे फल मिला तो अपने साथी से जो उससे बातें कर रहा था बोल उठा कि मै तो तुझसे माल में (भी) ज्यादा हूँ और जत्थे में भी बढ़ कर हूँ"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمࣱ لِّنَفۡسِهِۦ قَالَ مَاۤ أَظُنُّ أَن تَبِیدَ هَـٰذِهِۦۤ أَبَدࣰا\n",
+      "english": "And he entered his garden while he was unjust to himself. He said, \"I do not think that this will perish - ever.",
+      "hindi": "और ये बातें करता हुआ अपने बाग़ मे भी जा पहुँचा हालॉकि उसकी आदत ये थी कि (कुफ्र की वजह से) अपने ऊपर आप ज़ुल्म कर रहा था (ग़रज़ वह कह बैठा) कि मुझे तो इसका गुमान नहीं तो कि कभी भी ये बाग़ उजड़ जाए"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "وَمَاۤ أَظُنُّ ٱلسَّاعَةَ قَاۤىِٕمَةࣰ وَلَىِٕن رُّدِدتُّ إِلَىٰ رَبِّی لَأَجِدَنَّ خَیۡرࣰا مِّنۡهَا مُنقَلَبࣰا\n",
+      "english": "And I do not think the Hour will occur. And even if I should be brought back to my Lord, I will surely find better than this as a return.\"",
+      "hindi": "और मै तो ये भी नहीं ख्याल करता कि क़यामत क़ायम होगी और (बिलग़रज़ हुई भी तो) जब मै अपने परवरदिगार की तरफ लौटाया जाऊँगा तो यक़ीनन इससे कहीं अच्छी जगह पाऊँगा"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ یُحَاوِرُهُۥۤ أَكَفَرۡتَ بِٱلَّذِی خَلَقَكَ مِن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ سَوَّىٰكَ رَجُلࣰا\n",
+      "english": "His companion said to him while he was conversing with him, \"Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?",
+      "hindi": "उसका साथी जो उससे बातें कर रहा था कहने लगा कि क्या तू उस परवरदिगार का मुन्किर है जिसने (पहले) तुझे मिट्टी से पैदा किया फिर नुत्फे से फिर तुझे बिल्कुल ठीक मर्द (आदमी) बना दिया"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "لَّـٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّی وَلَاۤ أُشۡرِكُ بِرَبِّیۤ أَحَدࣰا\n",
+      "english": "But as for me, He is Allah, my Lord, and I do not associate with my Lord anyone.",
+      "hindi": "हम तो (कहते हैं कि) वही ख़ुदा मेरा परवरदिगार है और मै तो अपने परवरदिगार का किसी को शरीक नहीं बनाता"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "وَلَوۡلَاۤ إِذۡ دَخَلۡتَ جَنَّتَكَ قُلۡتَ مَا شَاۤءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالࣰا وَوَلَدࣰا\n",
+      "english": "And why did you, when you entered your garden, not say, 'What Allah willed [has occurred]; there is no power except in Allah '? Although you see me less than you in wealth and children,",
+      "hindi": "और जब तू अपने बाग़ में आया तो (ये) क्यों न कहा कि ये सब (माशा अल्लाह ख़ुदा ही के चाहने से हुआ है (मेरा कुछ भी नहीं क्योंकि) बग़ैर ख़ुदा की (मदद) के (किसी में) कुछ सकत नहीं अगर माल और औलाद की राह से तू मुझे कम समझता है"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "فَعَسَىٰ رَبِّیۤ أَن یُؤۡتِیَنِ خَیۡرࣰا مِّن جَنَّتِكَ وَیُرۡسِلَ عَلَیۡهَا حُسۡبَانࣰا مِّنَ ٱلسَّمَاۤءِ فَتُصۡبِحَ صَعِیدࣰا زَلَقًا\n",
+      "english": "It may be that my Lord will give me [something] better than your garden and will send upon it a calamity from the sky, and it will become a smooth, dusty ground,",
+      "hindi": "तो अनक़ीरब ही मेरा परवरदिगार मुझे वह बाग़ अता फरमाएगा जो तेरे बाग़ से कहीं बेहतर होगा और तेरे बाग़ पर कोई ऐसी आफत आसमान से नाज़िल करे कि (ख़ाक सियाह) होकर चटियल चिकना सफ़ाचट मैदान हो जाए"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "أَوۡ یُصۡبِحَ مَاۤؤُهَا غَوۡرࣰا فَلَن تَسۡتَطِیعَ لَهُۥ طَلَبࣰا\n",
+      "english": "Or its water will become sunken [into the earth], so you would never be able to seek it.\"",
+      "hindi": "उसका पानी नीचे उतर (के खुश्क) हो जाए फिर तो उसको किसी तरह तलब न कर सके"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "وَأُحِیطَ بِثَمَرِهِۦ فَأَصۡبَحَ یُقَلِّبُ كَفَّیۡهِ عَلَىٰ مَاۤ أَنفَقَ فِیهَا وَهِیَ خَاوِیَةٌ عَلَىٰ عُرُوشِهَا وَیَقُولُ یَـٰلَیۡتَنِی لَمۡ أُشۡرِكۡ بِرَبِّیۤ أَحَدࣰا\n",
+      "english": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\"",
+      "hindi": "(चुनान्चे अज़ाब नाज़िल हुआ) और उसके (बाग़ के) फल (आफत में) घेर लिए गए तो उस माल पर जो बाग़ की तैयारी में सर्फ (ख़र्च) किया था (अफसोस से) हाथ मलने लगा और बाग़ की ये हालत थी कि अपनी टहनियों पर औंधा गिरा हुआ पड़ा था तो कहने लगा काश मै अपने परवरदिगार का किसी को शरीक न बनाता"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "وَلَمۡ تَكُن لَّهُۥ فِئَةࣱ یَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا\n",
+      "english": "And there was for him no company to aid him other than Allah, nor could he defend himself.",
+      "hindi": "और ख़ुदा के सिवा उसका कोई जत्था भी न था कि उसकी मदद करता और न वह बदला ले सकता था इसी जगह से (साबित हो गया)"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "هُنَالِكَ ٱلۡوَلَـٰیَةُ لِلَّهِ ٱلۡحَقِّۚ هُوَ خَیۡرࣱ ثَوَابࣰا وَخَیۡرٌ عُقۡبࣰا\n",
+      "english": "There the authority is [completely] for Allah, the Truth. He is best in reward and best in outcome.",
+      "hindi": "कि सरपरस्ती ख़ास ख़ुदा ही के लिए है जो सच्चा है वही बेहतर सवाब (देने) वाला है और अन्जाम के जंगल से भी वही बेहतर है"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "وَٱضۡرِبۡ لَهُم مَّثَلَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا كَمَاۤءٍ أَنزَلۡنَـٰهُ مِنَ ٱلسَّمَاۤءِ فَٱخۡتَلَطَ بِهِۦ نَبَاتُ ٱلۡأَرۡضِ فَأَصۡبَحَ هَشِیمࣰا تَذۡرُوهُ ٱلرِّیَـٰحُۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ مُّقۡتَدِرًا\n",
+      "english": "And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allah is ever, over all things, Perfect in Ability.",
+      "hindi": "और (ऐ रसूल) इनसे दुनिया की ज़िन्दगी की मसल भी बयान कर दो कि उसके हालत पानी की सी है जिसे हमने आसमान से बरसाया तो ज़मीन की उगाने की ताक़त उसमें मिल गई और (खूब फली फूली) फिर आख़िर रेज़ा रेज़ा (भूसा) हो गई कि उसको हवाएँ उड़ाए फिरती है और ख़ुदा हर चीज़ पर क़ादिर है"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "ٱلۡمَالُ وَٱلۡبَنُونَ زِینَةُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَٱلۡبَـٰقِیَـٰتُ ٱلصَّـٰلِحَـٰتُ خَیۡرٌ عِندَ رَبِّكَ ثَوَابࣰا وَخَیۡرٌ أَمَلࣰا\n",
+      "english": "Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope.",
+      "hindi": "(ऐ रसूल) माल और औलाद (इस ज़रा सी) दुनिया की ज़िन्दगी की ज़ीनत हैं और बाक़ी रहने वाली नेकियाँ तुम्हारे परवरदिगार के नज़दीक सवाब में उससे कही ज्यादा अच्छी हैं और तमन्नाएँ व आरजू की राह से (भी) बेहतर हैं"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "وَیَوۡمَ نُسَیِّرُ ٱلۡجِبَالَ وَتَرَى ٱلۡأَرۡضَ بَارِزَةࣰ وَحَشَرۡنَـٰهُمۡ فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدࣰا\n",
+      "english": "And [warn of] the Day when We will remove the mountains and you will see the earth prominent, and We will gather them and not leave behind from them anyone.",
+      "hindi": "और (उस दिन से डरो) जिस दिन हम पहाड़ों को चलाएँगें और तुम ज़मीन को खुला मैदान (पहाड़ों से) खाली देखोगे और हम इन सभी को इकट्ठा करेगे तो उनमें से एक को न छोड़ेगें"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفࣰّا لَّقَدۡ جِئۡتُمُونَا كَمَا خَلَقۡنَـٰكُمۡ أَوَّلَ مَرَّةِۭۚ بَلۡ زَعَمۡتُمۡ أَلَّن نَّجۡعَلَ لَكُم مَّوۡعِدࣰا\n",
+      "english": "And they will be presented before your Lord in rows, [and He will say], \"You have certainly come to Us just as We created you the first time. But you claimed that We would never make for you an appointment.\"",
+      "hindi": "सबके सब तुम्हारे परवरदिगार के सामने कतार पे क़तार पेश किए जाएँगें और (उस वक्त हम याद दिलाएँगे कि जिस तरह हमने तुमको पहली बार पैदा किया था (उसी तरह) तुम लोगों को (आख़िर) हमारे पास आना पड़ा मगर तुम तो ये ख्याल करते थे कि हम तुम्हारे (दोबारा पैदा करने के) लिए कोई वक्त ही न ठहराएँगें"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "وَوُضِعَ ٱلۡكِتَـٰبُ فَتَرَى ٱلۡمُجۡرِمِینَ مُشۡفِقِینَ مِمَّا فِیهِ وَیَقُولُونَ یَـٰوَیۡلَتَنَا مَالِ هَـٰذَا ٱلۡكِتَـٰبِ لَا یُغَادِرُ صَغِیرَةࣰ وَلَا كَبِیرَةً إِلَّاۤ أَحۡصَىٰهَاۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرࣰاۗ وَلَا یَظۡلِمُ رَبُّكَ أَحَدࣰا\n",
+      "english": "And the record [of deeds] will be placed [open], and you will see the criminals fearful of that within it, and they will say, \"Oh, woe to us! What is this book that leaves nothing small or great except that it has enumerated it?\" And they will find what they did present [before them]. And your Lord does injustice to no one.",
+      "hindi": "और लोगों के आमाल की किताब (सामने) रखी जाएँगी तो तुम गुनेहगारों को देखोगे कि जो कुछ उसमें (लिखा) है (देख देख कर) सहमे हुए हैं और कहते जाते हैं हाए हमारी यामत ये कैसी किताब है कि न छोटे ही गुनाह को बे क़लमबन्द किए छोड़ती है न बड़े गुनाह को और जो कुछ इन लोगों ने (दुनिया में) किया था वह सब (लिखा हुआ) मौजूद पाएँगें और तेरा परवरदिगार किसी पर (ज़र्रा बराबर) ज़ुल्म न करेगा"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "وَإِذۡ قُلۡنَا لِلۡمَلَـٰۤىِٕكَةِ ٱسۡجُدُوا۟ لِـَٔادَمَ فَسَجَدُوۤا۟ إِلَّاۤ إِبۡلِیسَ كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦۤۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّیَّتَهُۥۤ أَوۡلِیَاۤءَ مِن دُونِی وَهُمۡ لَكُمۡ عَدُوُّۢۚ بِئۡسَ لِلظَّـٰلِمِینَ بَدَلࣰا\n",
+      "english": "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except for Iblees. He was of the jinn and departed from the command of his Lord. Then will you take him and his descendants as allies other than Me while they are enemies to you? Wretched it is for the wrongdoers as an exchange.",
+      "hindi": "और (वह वक्त याद करो) जब हमने फ़रिश्तों को हुक्म दिया कि आदम को सजदा करो तो इबलीस के सिवा सबने सजदा किया (ये इबलीस) जिन्नात से था तो अपने परवरदिगार के हुक्म से निकल भागा तो (लोगों) क्या मुझे छोड़कर उसको और उसकी औलाद को अपना दोस्त बनाते हो हालॉकि वह तुम्हारा (क़दीमी) दुश्मन हैं ज़ालिमों (ने ख़ुदा के बदले शैतान को अपना दोस्त बनाया ये उन) का क्या बुरा ऐवज़ है"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "۞ مَّاۤ أَشۡهَدتُّهُمۡ خَلۡقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَلَا خَلۡقَ أَنفُسِهِمۡ وَمَا كُنتُ مُتَّخِذَ ٱلۡمُضِلِّینَ عَضُدࣰا\n",
+      "english": "I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.",
+      "hindi": "मैने न तो आसमान व ज़मीन के पैदा करने के वक्त उनको (मदद के लिए) बुलाया था और न खुद उनके पैदा करने के वक्त अौर मै (ऐसा गया गुज़रा) न था कि मै गुमराह करने वालों को मददगार बनाता"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "وَیَوۡمَ یَقُولُ نَادُوا۟ شُرَكَاۤءِیَ ٱلَّذِینَ زَعَمۡتُمۡ فَدَعَوۡهُمۡ فَلَمۡ یَسۡتَجِیبُوا۟ لَهُمۡ وَجَعَلۡنَا بَیۡنَهُم مَّوۡبِقࣰا\n",
+      "english": "And [warn of] the Day when He will say, \"Call 'My partners' whom you claimed,\" and they will invoke them, but they will not respond to them. And We will put between them [a valley of] destruction.",
+      "hindi": "और (उस दिन से डरो) जिस दिन ख़ुदा फरमाएगा कि अब तुम जिन लोगों को मेरा शरीक़ ख्याल करते थे उनको (मदद के लिए) पुकारो तो वह लोग उनको पुकारेगें मगर वह लोग उनकी कुछ न सुनेगें और हम उन दोनों के बीच में महलक (खतरनाक) आड़ बना देंगे"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "وَرَءَا ٱلۡمُجۡرِمُونَ ٱلنَّارَ فَظَنُّوۤا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ یَجِدُوا۟ عَنۡهَا مَصۡرِفࣰا\n",
+      "english": "And the criminals will see the Fire and will be certain that they are to fall therein. And they will not find from it a way elsewhere.",
+      "hindi": "और गुनेहगार लोग (देखकर समझ जाएँगें कि ये इसमें सोके जाएँगे और उससे गरीज़ (बचने की) की राह न पाएँगें"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "وَلَقَدۡ صَرَّفۡنَا فِی هَـٰذَا ٱلۡقُرۡءَانِ لِلنَّاسِ مِن كُلِّ مَثَلࣲۚ وَكَانَ ٱلۡإِنسَـٰنُ أَكۡثَرَ شَیۡءࣲ جَدَلࣰا\n",
+      "english": "And We have certainly diversified in this Qur'an for the people from every [kind of] example; but man has ever been, most of anything, [prone to] dispute.",
+      "hindi": "और हमने तो इस क़ुरान में लोगों (के समझाने) के वास्ते हर तरह की मिसालें फेर बदल कर बयान कर दी है मगर इन्सान तो तमाम मख़लूक़ात से ज्यादा झगड़ालू है"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "وَمَا مَنَعَ ٱلنَّاسَ أَن یُؤۡمِنُوۤا۟ إِذۡ جَاۤءَهُمُ ٱلۡهُدَىٰ وَیَسۡتَغۡفِرُوا۟ رَبَّهُمۡ إِلَّاۤ أَن تَأۡتِیَهُمۡ سُنَّةُ ٱلۡأَوَّلِینَ أَوۡ یَأۡتِیَهُمُ ٱلۡعَذَابُ قُبُلࣰا\n",
+      "english": "And nothing has prevented the people from believing when guidance came to them and from asking forgiveness of their Lord except that there [must] befall them the [accustomed] precedent of the former peoples or that the punishment should come [directly] before them.",
+      "hindi": "और जब लोगों के पास हिदायत आ चुकी तो (फिर) उनको ईमान लाने और अपने परवरदिगार से मग़फिरत की दुआ माँगने से (उसके सिवा और कौन) अम्र मायने है कि अगलों की सी रीत रस्म उनको भी पेश आई या हमारा अज़ाब उनके सामने से (मौजूद) हो"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "وَمَا نُرۡسِلُ ٱلۡمُرۡسَلِینَ إِلَّا مُبَشِّرِینَ وَمُنذِرِینَۚ وَیُجَـٰدِلُ ٱلَّذِینَ كَفَرُوا۟ بِٱلۡبَـٰطِلِ لِیُدۡحِضُوا۟ بِهِ ٱلۡحَقَّۖ وَٱتَّخَذُوۤا۟ ءَایَـٰتِی وَمَاۤ أُنذِرُوا۟ هُزُوࣰا\n",
+      "english": "And We send not the messengers except as bringers of good tidings and warners. And those who disbelieve dispute by [using] falsehood to [attempt to] invalidate thereby the truth and have taken My verses, and that of which they are warned, in ridicule.",
+      "hindi": "और हम तो पैग़म्बरों को सिर्फ इसलिए भेजते हैं कि (अच्छों को निजात की) खुशख़बरी सुनाएंऔर (बदों को अज़ाब से) डराएंऔर जो लोग काफिर हैं झूटी झूटी बातों का सहारा पकड़ के झगड़ा करते है ताकि उसकी बदौलत हक़ को (उसकी जगह से उखाड़ फेकें और उन लोगों ने मेरी आयतों को जिस (अज़ाब से) ये लोग डराए गए हॅसी ठ्ठ्ठा (मज़ाक) बना रखा है"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "وَمَنۡ أَظۡلَمُ مِمَّن ذُكِّرَ بِـَٔایَـٰتِ رَبِّهِۦ فَأَعۡرَضَ عَنۡهَا وَنَسِیَ مَا قَدَّمَتۡ یَدَاهُۚ إِنَّا جَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن یَفۡقَهُوهُ وَفِیۤ ءَاذَانِهِمۡ وَقۡرࣰاۖ وَإِن تَدۡعُهُمۡ إِلَى ٱلۡهُدَىٰ فَلَن یَهۡتَدُوۤا۟ إِذًا أَبَدࣰا\n",
+      "english": "And who is more unjust than one who is reminded of the verses of his Lord but turns away from them and forgets what his hands have put forth? Indeed, We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if you invite them to guidance - they will never be guided, then - ever.",
+      "hindi": "और उससे बढ़कर और कौन ज़ालिम होगा जिसको ख़ुदा की आयतें याद दिलाई जाए और वह उनसे रद गिरदानी (मुँह फेर ले) करे और अपने पहले करतूतों को जो उसके हाथों ने किए हैं भूल बैठे (गोया) हमने खुद उनके दिलों पर परदे डाल दिए हैं कि वह (हक़ बात को) न समझ सकें और (गोया) उनके कानों में गिरानी पैदा कर दी है कि (सुन न सकें) और अगर तुम उनको राहे रास्त की तरफ़ बुलाओ भी तो ये हरगिज़ कभी रुबरु होने वाले नहीं हैं"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "وَرَبُّكَ ٱلۡغَفُورُ ذُو ٱلرَّحۡمَةِۖ لَوۡ یُؤَاخِذُهُم بِمَا كَسَبُوا۟ لَعَجَّلَ لَهُمُ ٱلۡعَذَابَۚ بَل لَّهُم مَّوۡعِدࣱ لَّن یَجِدُوا۟ مِن دُونِهِۦ مَوۡىِٕلࣰا\n",
+      "english": "And your Lord is the Forgiving, full of mercy. If He were to impose blame upon them for what they earned, He would have hastened for them the punishment. Rather, for them is an appointment from which they will never find an escape.",
+      "hindi": "और (ऐ रसूल) तुम्हारा परवरदिगार तो बड़ा बख्शने वाला मेहरबान है अगर उनकी करतूतों की सज़ा में धर पकड़ करता तो फौरन (दुनिया ही में) उन पर अज़ाब नाज़िल कर देता मगर उनके लिए तो एक मियाद (मुक़र्रर) है जिससे खुदा के सिवा कहीें पनाह की जगह न पाएंगें"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "وَتِلۡكَ ٱلۡقُرَىٰۤ أَهۡلَكۡنَـٰهُمۡ لَمَّا ظَلَمُوا۟ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدࣰا\n",
+      "english": "And those cities - We destroyed them when they wronged, and We made for their destruction an appointed time.",
+      "hindi": "और ये बस्तियाँ (जिन्हें तुम अपनी ऑंखों से देखते हो) जब उन लोगों ने सरकशी तो हमने उन्हें हलाक कर मारा और हमने उनकी हलाकत की मियाद मुक़र्रर कर दी थी"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَاۤ أَبۡرَحُ حَتَّىٰۤ أَبۡلُغَ مَجۡمَعَ ٱلۡبَحۡرَیۡنِ أَوۡ أَمۡضِیَ حُقُبࣰا\n",
+      "english": "And [mention] when Moses said to his servant, \"I will not cease [traveling] until I reach the junction of the two seas or continue for a long period.\"",
+      "hindi": "(ऐ रसूल) वह वाक़या याद करो जब मूसा खिज़्र की मुलाक़ात को चले तो अपने जवान वसी यूशा से बोले कि जब तक में दोनों दरियाओं के मिलने की जगह न पहुँच जाऊँ (चलने से) बाज़ न आऊँगा"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "فَلَمَّا بَلَغَا مَجۡمَعَ بَیۡنِهِمَا نَسِیَا حُوتَهُمَا فَٱتَّخَذَ سَبِیلَهُۥ فِی ٱلۡبَحۡرِ سَرَبࣰا\n",
+      "english": "But when they reached the junction between them, they forgot their fish, and it took its course into the sea, slipping away.",
+      "hindi": "ख्वाह (अगर मुलाक़ात न हो तो) बरसों यूँ ही चलता जाऊँगा फिर जब ये दोनों उन दोनों दरियाओं के मिलने की जगह पहुँचे तो अपनी (भुनी हुई) मछली छोड़ चले तो उसने दरिया में सुरंग बनाकर अपनी राह ली"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَاۤءَنَا لَقَدۡ لَقِینَا مِن سَفَرِنَا هَـٰذَا نَصَبࣰا\n",
+      "english": "So when they had passed beyond it, [Moses] said to his boy, \"Bring us our morning meal. We have certainly suffered in this, our journey, [much] fatigue.\"",
+      "hindi": "फिर जब कुछ और आगे बढ़ गए तो मूसा ने अपने जवान (वसी) से कहा (अजी हमारा नाश्ता तो हमें दे दो हमारे (आज के) इस सफर से तो हमको बड़ी थकन हो गई"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "قَالَ أَرَءَیۡتَ إِذۡ أَوَیۡنَاۤ إِلَى ٱلصَّخۡرَةِ فَإِنِّی نَسِیتُ ٱلۡحُوتَ وَمَاۤ أَنسَىٰنِیهُ إِلَّا ٱلشَّیۡطَـٰنُ أَنۡ أَذۡكُرَهُۥۚ وَٱتَّخَذَ سَبِیلَهُۥ فِی ٱلۡبَحۡرِ عَجَبࣰا\n",
+      "english": "He said, \"Did you see when we retired to the rock? Indeed, I forgot [there] the fish. And none made me forget it except Satan - that I should mention it. And it took its course into the sea amazingly\".",
+      "hindi": "(यूशा ने) कहा क्या आप ने देखा भी कि जब हम लोग (दरिया के किनारे) उस पत्थर के पास ठहरे तो मै (उसी जगह) मछली छोड़ आया और मुझे आप से उसका ज़िक्र करना शैतान ने भुला दिया और मछली ने अजीब तरह से दरिया में अपनी राह ली"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "قَالَ ذَ ٰ⁠لِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰۤ ءَاثَارِهِمَا قَصَصࣰا\n",
+      "english": "[Moses] said, \"That is what we were seeking.\" So they returned, following their footprints.",
+      "hindi": "मूसा ने कहा वही तो वह (जगह) है जिसकी हम जुस्तजू (तलाश) में थे फिर दोनों अपने क़दम के निशानों पर देखते देखते उलटे पॉव फिरे"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "فَوَجَدَا عَبۡدࣰا مِّنۡ عِبَادِنَاۤ ءَاتَیۡنَـٰهُ رَحۡمَةࣰ مِّنۡ عِندِنَا وَعَلَّمۡنَـٰهُ مِن لَّدُنَّا عِلۡمࣰا\n",
+      "english": "And they found a servant from among Our servants to whom we had given mercy from us and had taught him from Us a [certain] knowledge.",
+      "hindi": "तो (जहाँ मछली थी) दोनों ने हमारे बन्दों में से एक (ख़ास) बन्दा खिज्र को पाया जिसको हमने अपनी बारगाह से रहमत (विलायत) का हिस्सा अता किया था"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰۤ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدࣰا\n",
+      "english": "Moses said to him, \"May I follow you on [the condition] that you teach me from what you have been taught of sound judgement?\"",
+      "hindi": "और हमने उसे इल्म लदुन्नी (अपने ख़ास इल्म) में से कुछ सिखाया था मूसा ने उन (ख़िज्र) से कहा क्या (आपकी इजाज़त है कि) मै इस ग़रज़ से आपके साथ साथ रहूँ"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "قَالَ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا\n",
+      "english": "He said, \"Indeed, with me you will never be able to have patience.",
+      "hindi": "कि जो रहनुमाई का इल्म आपको है (ख़ुदा की तरफ से) सिखाया गया है उसमें से कुछ मुझे भी सिखा दीजिए खिज्र ने कहा (मै सिखा दूँगा मगर) आपसे मेरे साथ सब्र न हो सकेगा"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "وَكَیۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرࣰا\n",
+      "english": "And how can you have patience for what you do not encompass in knowledge?\"",
+      "hindi": "और (सच तो ये है) जो चीज़ आपके इल्मी अहाते से बाहर हो"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "قَالَ سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ صَابِرࣰا وَلَاۤ أَعۡصِی لَكَ أَمۡرࣰا\n",
+      "english": "[Moses] said, \"You will find me, if Allah wills, patient, and I will not disobey you in [any] order.\"",
+      "hindi": "उस पर आप सब्र क्योंकर कर सकते हैं मूसा ने कहा (आप इत्मिनान रखिए) अगर ख़ुदा ने चाहा तो आप मुझे साबिर आदमी पाएँगें"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "قَالَ فَإِنِ ٱتَّبَعۡتَنِی فَلَا تَسۡـَٔلۡنِی عَن شَیۡءٍ حَتَّىٰۤ أُحۡدِثَ لَكَ مِنۡهُ ذِكۡرࣰا\n",
+      "english": "He said, \"Then if you follow me, do not ask me about anything until I make to you about it mention.\"",
+      "hindi": "और मै आपके किसी हुक्म की नाफरमानी न करुँगा खिज्र ने कहा अच्छा तो अगर आप को मेरे साथ रहना है तो जब तक मै खुद आपसे किसी बात का ज़िक्र न छेडँ"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "فَٱنطَلَقَا حَتَّىٰۤ إِذَا رَكِبَا فِی ٱلسَّفِینَةِ خَرَقَهَاۖ قَالَ أَخَرَقۡتَهَا لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَیۡـًٔا إِمۡرࣰا\n",
+      "english": "So they set out, until when they had embarked on the ship, al-Khidh r tore it open. [Moses] said, \"Have you torn it open to drown its people? You have certainly done a grave thing.\"",
+      "hindi": "आप मुझसे किसी चीज़ के बारे में न पूछियेगा ग़रज़ ये दोनो (मिलकर) चल खड़े हुए यहाँ तक कि (एक दरिया में) जब दोनों कश्ती में सवार हुए तो ख़िज्र ने कश्ती में छेद कर दिया मूसा ने कहा (आप ने तो ग़ज़ब कर दिया) क्या कश्ती में इस ग़रज़ से सुराख़ किया है"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "قَالَ أَلَمۡ أَقُلۡ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا\n",
+      "english": "[Al-Khidh r] said, \"Did I not say that with me you would never be able to have patience?\"",
+      "hindi": "कि लोगों को डुबा दीजिए ये तो आप ने बड़ी अजीब बात की है-ख़िज्र ने कहा क्या मैने आप से (पहले ही) न कह दिया था"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "قَالَ لَا تُؤَاخِذۡنِی بِمَا نَسِیتُ وَلَا تُرۡهِقۡنِی مِنۡ أَمۡرِی عُسۡرࣰا\n",
+      "english": "[Moses] said, \"Do not blame me for what I forgot and do not cover me in my matter with difficulty.\"",
+      "hindi": "कि आप मेरे साथ हरगिज़ सब्र न कर सकेगे-मूसा ने कहा अच्छा जो हुआ सो हुआ आप मेरी गिरफत न कीजिए और मुझ पर मेरे इस मामले में इतनी सख्ती न कीजिए"
+    },
+    {
+      "verse_number": 74,
+      "arabic": "فَٱنطَلَقَا حَتَّىٰۤ إِذَا لَقِیَا غُلَـٰمࣰا فَقَتَلَهُۥ قَالَ أَقَتَلۡتَ نَفۡسࣰا زَكِیَّةَۢ بِغَیۡرِ نَفۡسࣲ لَّقَدۡ جِئۡتَ شَیۡـࣰٔا نُّكۡرࣰا\n",
+      "english": "So they set out, until when they met a boy, al-Khidh r killed him. [Moses] said, \"Have you killed a pure soul for other than [having killed] a soul? You have certainly done a deplorable thing.\"",
+      "hindi": "(ख़ैर ये तो हो गया) फिर दोनों के दोनों आगे चले यहाँ तक कि दोनों एक लड़के से मिले तो उस बन्दे ख़ुदा ने उसे जान से मार डाला मूसा ने कहा (ऐ माज़ अल्लाह) क्या आपने एक मासूम शख़्श को मार डाला और वह भी किसी के (ख़ौफ के) बदले में नहीं आपने तो यक़ीनी एक अजीब हरकत की"
+    },
+    {
+      "verse_number": 75,
+      "arabic": "۞ قَالَ أَلَمۡ أَقُل لَّكَ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا\n",
+      "english": "[Al-Khidh r] said, \"Did I not tell you that with me you would never be able to have patience?\"",
+      "hindi": "खिज्र ने कहा कि मैंने आपसे (मुक़र्रर) न कह दिया था कि आप मेरे साथ हरगिज़ नहीं सब्र कर सकेगें"
+    },
+    {
+      "verse_number": 76,
+      "arabic": "قَالَ إِن سَأَلۡتُكَ عَن شَیۡءِۭ بَعۡدَهَا فَلَا تُصَـٰحِبۡنِیۖ قَدۡ بَلَغۡتَ مِن لَّدُنِّی عُذۡرࣰا\n",
+      "english": "[Moses] said, \"If I should ask you about anything after this, then do not keep me as a companion. You have obtained from me an excuse.\"",
+      "hindi": "मूसा ने कहा (ख़ैर जो हुआ वह हुआ) अब अगर मैं आप से किसी चीज़ के बारे में पूछगछ करूँगा तो आप मुझे अपने साथ न रखियेगा बेशक आप मेरी तरफ से माज़रत (की हद को) पहुँच गए"
+    },
+    {
+      "verse_number": 77,
+      "arabic": "فَٱنطَلَقَا حَتَّىٰۤ إِذَاۤ أَتَیَاۤ أَهۡلَ قَرۡیَةٍ ٱسۡتَطۡعَمَاۤ أَهۡلَهَا فَأَبَوۡا۟ أَن یُضَیِّفُوهُمَا فَوَجَدَا فِیهَا جِدَارࣰا یُرِیدُ أَن یَنقَضَّ فَأَقَامَهُۥۖ قَالَ لَوۡ شِئۡتَ لَتَّخَذۡتَ عَلَیۡهِ أَجۡرࣰا\n",
+      "english": "So they set out, until when they came to the people of a town, they asked its people for food, but they refused to offer them hospitality. And they found therein a wall about to collapse, so al-Khidh r restored it. [Moses] said, \"If you wished, you could have taken for it a payment.\"",
+      "hindi": "ग़रज़ (ये सब हो हुआ कर फिर) दोनों आगे चले यहाँ तक कि जब एक गाँव वालों के पास पहुँचे तो वहाँ के लोगों से कुछ खाने को माँगा तो उन लोगों ने दोनों को मेहमान बनाने से इन्कार कर दिया फिर उन दोनों ने उसी गाँव में एक दीवार को देखा कि गिरा ही चाहती थी तो खिज्र ने उसे सीधा खड़ा कर दिया उस पर मूसा ने कहा अगर आप चाहते तो (इन लोगों से) इसकी मज़दूरी ले सकते थे"
+    },
+    {
+      "verse_number": 78,
+      "arabic": "قَالَ هَـٰذَا فِرَاقُ بَیۡنِی وَبَیۡنِكَۚ سَأُنَبِّئُكَ بِتَأۡوِیلِ مَا لَمۡ تَسۡتَطِع عَّلَیۡهِ صَبۡرًا\n",
+      "english": "[Al-Khidh r] said, \"This is parting between me and you. I will inform you of the interpretation of that about which you could not have patience.",
+      "hindi": "(ताकि खाने का सहारा होता) खिज्र ने कहा मेरे और आपके दरमियान छुट्टम छुट्टा अब जिन बातों पर आप से सब्र न हो सका मैं अभी आप को उनकी असल हक़ीकत बताए देता हूँ"
+    },
+    {
+      "verse_number": 79,
+      "arabic": "أَمَّا ٱلسَّفِینَةُ فَكَانَتۡ لِمَسَـٰكِینَ یَعۡمَلُونَ فِی ٱلۡبَحۡرِ فَأَرَدتُّ أَنۡ أَعِیبَهَا وَكَانَ وَرَاۤءَهُم مَّلِكࣱ یَأۡخُذُ كُلَّ سَفِینَةٍ غَصۡبࣰا\n",
+      "english": "As for the ship, it belonged to poor people working at sea. So I intended to cause defect in it as there was after them a king who seized every [good] ship by force.",
+      "hindi": "(लीजिए सुनिये) वह कश्ती (जिसमें मैंने सुराख़ कर दिया था) तो चन्द ग़रीबों की थी जो दरिया में मेहनत करके गुज़ारा करते थे मैंने चाहा कि उसे ऐबदार बना दूँ (क्योंकि) उनके पीछे-पीछे एक (ज़ालिम) बादशाह (आता) था कि तमाम कश्तियां ज़बरदस्ती बेगार में पकड़ लेता था"
+    },
+    {
+      "verse_number": 80,
+      "arabic": "وَأَمَّا ٱلۡغُلَـٰمُ فَكَانَ أَبَوَاهُ مُؤۡمِنَیۡنِ فَخَشِینَاۤ أَن یُرۡهِقَهُمَا طُغۡیَـٰنࣰا وَكُفۡرࣰا\n",
+      "english": "And as for the boy, his parents were believers, and we feared that he would overburden them by transgression and disbelief.",
+      "hindi": "और वह जो लड़का जिसको मैंने मार डाला तो उसके माँ बाप दोनों (सच्चे) ईमानदार हैं तो मुझको ये अन्देशा हुआ कि (ऐसा न हो कि बड़ा होकर) उनको भी अपने सरकशी और कुफ़्र में फँसा दे"
+    },
+    {
+      "verse_number": 81,
+      "arabic": "فَأَرَدۡنَاۤ أَن یُبۡدِلَهُمَا رَبُّهُمَا خَیۡرࣰا مِّنۡهُ زَكَوٰةࣰ وَأَقۡرَبَ رُحۡمࣰا\n",
+      "english": "So we intended that their Lord should substitute for them one better than him in purity and nearer to mercy.",
+      "hindi": "तो हमने चाहा कि (हम उसको मार डाले और) उनका परवरदिगार इसके बदले में ऐसा फरज़न्द अता फरमाए जो उससे पाक नफ़सी और पाक कराबत में बेहतर हो"
+    },
+    {
+      "verse_number": 82,
+      "arabic": "وَأَمَّا ٱلۡجِدَارُ فَكَانَ لِغُلَـٰمَیۡنِ یَتِیمَیۡنِ فِی ٱلۡمَدِینَةِ وَكَانَ تَحۡتَهُۥ كَنزࣱ لَّهُمَا وَكَانَ أَبُوهُمَا صَـٰلِحࣰا فَأَرَادَ رَبُّكَ أَن یَبۡلُغَاۤ أَشُدَّهُمَا وَیَسۡتَخۡرِجَا كَنزَهُمَا رَحۡمَةࣰ مِّن رَّبِّكَۚ وَمَا فَعَلۡتُهُۥ عَنۡ أَمۡرِیۚ ذَ ٰ⁠لِكَ تَأۡوِیلُ مَا لَمۡ تَسۡطِع عَّلَیۡهِ صَبۡرࣰا\n",
+      "english": "And as for the wall, it belonged to two orphan boys in the city, and there was beneath it a treasure for them, and their father had been righteous. So your Lord intended that they reach maturity and extract their treasure, as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of that about which you could not have patience.\"",
+      "hindi": "और वह जो दीवार थी (जिसे मैंने खड़ा कर दिया) तो वह शहर के दो यतीम लड़कों की थी और उसके नीचे उन्हीं दोनों लड़कों का ख़ज़ाना (गड़ा हुआ था) और उन लड़कों का बाप एक नेक आदमी था तो तुम्हारे परवरदिगार ने चाहा कि दोनों लड़के अपनी जवानी को पहुँचे तो तुम्हारे परवरदिगार की मेहरबानी से अपना ख़ज़ाने निकाल ले और मैंने (जो कुछ किया) कुछ अपने एख्तियार से नहीं किया (बल्कि खुदा के हुक्म से) ये हक़ीक़त है उन वाक़यात की जिन पर आपसे सब्र न हो सका"
+    },
+    {
+      "verse_number": 83,
+      "arabic": "وَیَسۡـَٔلُونَكَ عَن ذِی ٱلۡقَرۡنَیۡنِۖ قُلۡ سَأَتۡلُوا۟ عَلَیۡكُم مِّنۡهُ ذِكۡرًا\n",
+      "english": "And they ask you, [O Muhammad], about Dhul-Qarnayn. Say, \"I will recite to you about him a report.\"",
+      "hindi": "और (ऐ रसूल) तुमसे लोग ज़ुलक़रनैन का हाल (इम्तेहान) पूछा करते हैं तुम उनके जवाब में कह दो कि मैं भी तुम्हें उसका कुछ हाल बता देता हूँ"
+    },
+    {
+      "verse_number": 84,
+      "arabic": "إِنَّا مَكَّنَّا لَهُۥ فِی ٱلۡأَرۡضِ وَءَاتَیۡنَـٰهُ مِن كُلِّ شَیۡءࣲ سَبَبࣰا\n",
+      "english": "Indeed We established him upon the earth, and We gave him to everything a way.",
+      "hindi": "(ख़ुदा फरमाता है कि) बेशक हमने उनको ज़मीन पर कुदरतें हुकूमत अता की थी और हमने उसे हर चीज़ के साज़ व सामान दे रखे थे"
+    },
+    {
+      "verse_number": 85,
+      "arabic": "فَأَتۡبَعَ سَبَبًا\n",
+      "english": "So he followed a way",
+      "hindi": "वह एक सामान (सफर के) पीछे पड़ा"
+    },
+    {
+      "verse_number": 86,
+      "arabic": "حَتَّىٰۤ إِذَا بَلَغَ مَغۡرِبَ ٱلشَّمۡسِ وَجَدَهَا تَغۡرُبُ فِی عَیۡنٍ حَمِئَةࣲ وَوَجَدَ عِندَهَا قَوۡمࣰاۖ قُلۡنَا یَـٰذَا ٱلۡقَرۡنَیۡنِ إِمَّاۤ أَن تُعَذِّبَ وَإِمَّاۤ أَن تَتَّخِذَ فِیهِمۡ حُسۡنࣰا\n",
+      "english": "Until, when he reached the setting of the sun, he found it [as if] setting in a spring of dark mud, and he found near it a people. Allah said, \"O Dhul-Qarnayn, either you punish [them] or else adopt among them [a way of] goodness.\"",
+      "hindi": "यहाँ तक कि जब (चलते-चलते) आफताब के ग़ुरूब होने की जगह पहुँचा तो आफताब उनको ऐसा दिखाई दिया कि (गोया) वह काली कीचड़ के चश्में में डूब रहा है और उसी चश्में के क़रीब एक क़ौम को भी आबाद पाया हमने कहा ऐ जुलकरनैन (तुमको एख्तियार है) ख्वाह इनके कुफ्र की वजह से इनकी सज़ा करो (कि ईमान लाए) या इनके साथ हुस्ने सुलूक का शेवा एख्तियार करो (कि खुद ईमान क़ुबूल करें)"
+    },
+    {
+      "verse_number": 87,
+      "arabic": "قَالَ أَمَّا مَن ظَلَمَ فَسَوۡفَ نُعَذِّبُهُۥ ثُمَّ یُرَدُّ إِلَىٰ رَبِّهِۦ فَیُعَذِّبُهُۥ عَذَابࣰا نُّكۡرࣰا\n",
+      "english": "He said, \"As for one who wrongs, we will punish him. Then he will be returned to his Lord, and He will punish him with a terrible punishment.",
+      "hindi": "जुलकरनैन ने अर्ज़ की जो शख्स सरकशी करेगा तो हम उसकी फौरन सज़ा कर देगें (आख़िर) फिर वह (क़यामत में) अपने परवरदिगार के सामने लौटाकर लाया ही जाएगा और वह बुरी से बुरी सज़ा देगा"
+    },
+    {
+      "verse_number": 88,
+      "arabic": "وَأَمَّا مَنۡ ءَامَنَ وَعَمِلَ صَـٰلِحࣰا فَلَهُۥ جَزَاۤءً ٱلۡحُسۡنَىٰۖ وَسَنَقُولُ لَهُۥ مِنۡ أَمۡرِنَا یُسۡرࣰا\n",
+      "english": "But as for one who believes and does righteousness, he will have a reward of Paradise, and we will speak to him from our command with ease.\"",
+      "hindi": "और जो शख्स ईमान कुबूल करेगा और अच्छे काम करेगा तो (वैसा ही) उसके लिए अच्छे से अच्छा बदला है और हम बहुत जल्द उसे अपने कामों में से आसान काम (करने) को कहेंगे"
+    },
+    {
+      "verse_number": 89,
+      "arabic": "ثُمَّ أَتۡبَعَ سَبَبًا\n",
+      "english": "Then he followed a way",
+      "hindi": "फिर उस ने एक दूसरी राह एख्तियार की"
+    },
+    {
+      "verse_number": 90,
+      "arabic": "حَتَّىٰۤ إِذَا بَلَغَ مَطۡلِعَ ٱلشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلَىٰ قَوۡمࣲ لَّمۡ نَجۡعَل لَّهُم مِّن دُونِهَا سِتۡرࣰا\n",
+      "english": "Until, when he came to the rising of the sun, he found it rising on a people for whom We had not made against it any shield.",
+      "hindi": "यहाँ तक कि जब चलते-चलते आफताब के तूलूउ होने की जगह पहुँचा तो (आफताब) से ऐसा ही दिखाई दिया (गोया) कुछ लोगों के सर पर उस तरह तुलूउ कर रहा है जिन के लिए हमने आफताब के सामने कोई आड़ नहीं बनाया था"
+    },
+    {
+      "verse_number": 91,
+      "arabic": "كَذَ ٰ⁠لِكَۖ وَقَدۡ أَحَطۡنَا بِمَا لَدَیۡهِ خُبۡرࣰا\n",
+      "english": "Thus. And We had encompassed [all] that he had in knowledge.",
+      "hindi": "और था भी ऐसा ही और जुलक़रनैन के पास वो कुछ भी था हमको उससे पूरी वाकफ़ियत थी"
+    },
+    {
+      "verse_number": 92,
+      "arabic": "ثُمَّ أَتۡبَعَ سَبَبًا\n",
+      "english": "Then he followed a way",
+      "hindi": "(ग़रज़) उसने फिर एक और राह एख्तियार की"
+    },
+    {
+      "verse_number": 93,
+      "arabic": "حَتَّىٰۤ إِذَا بَلَغَ بَیۡنَ ٱلسَّدَّیۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمࣰا لَّا یَكَادُونَ یَفۡقَهُونَ قَوۡلࣰا\n",
+      "english": "Until, when he reached [a pass] between two mountains, he found beside them a people who could hardly understand [his] speech.",
+      "hindi": "यहाँ तक कि जब चलते-चलते रोम में एक पहाड़ के (कंगुरों के) दीवारों के बीचो बीच पहुँच गया तो उन दोनों दीवारों के इस तरफ एक क़ौम को (आबाद) पाया तो बात चीत कुछ समझ ही नहीं सकती थी"
+    },
+    {
+      "verse_number": 94,
+      "arabic": "قَالُوا۟ یَـٰذَا ٱلۡقَرۡنَیۡنِ إِنَّ یَأۡجُوجَ وَمَأۡجُوجَ مُفۡسِدُونَ فِی ٱلۡأَرۡضِ فَهَلۡ نَجۡعَلُ لَكَ خَرۡجًا عَلَىٰۤ أَن تَجۡعَلَ بَیۡنَنَا وَبَیۡنَهُمۡ سَدࣰّا\n",
+      "english": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\"",
+      "hindi": "उन लोगों ने मुतरज्जिम के ज़रिए से अर्ज़ की ऐ ज़ुलकरनैन (इसी घाटी के उधर याजूज माजूज की क़ौम है जो) मुल्क में फ़साद फैलाया करते हैं तो अगर आप की इजाज़त हो तो हम लोग इस ग़र्ज़ से आपसे पास चन्दा जमा करें कि आप हमारे और उनके दरमियान कोई दीवार बना दें"
+    },
+    {
+      "verse_number": 95,
+      "arabic": "قَالَ مَا مَكَّنِّی فِیهِ رَبِّی خَیۡرࣱ فَأَعِینُونِی بِقُوَّةٍ أَجۡعَلۡ بَیۡنَكُمۡ وَبَیۡنَهُمۡ رَدۡمًا\n",
+      "english": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength; I will make between you and them a dam.",
+      "hindi": "जुलकरनैन ने कहा कि मेरे परवरदिगार ने ख़र्च की जो कुदरत मुझे दे रखी है वह (तुम्हारे चन्दे से) कहीं बेहतर है (माल की ज़रूरत नहीं) तुम फक़त मुझे क़ूवत से मदद दो तो मैं तुम्हारे और उनके दरमियान एक रोक बना दूँ"
+    },
+    {
+      "verse_number": 96,
+      "arabic": "ءَاتُونِی زُبَرَ ٱلۡحَدِیدِۖ حَتَّىٰۤ إِذَا سَاوَىٰ بَیۡنَ ٱلصَّدَفَیۡنِ قَالَ ٱنفُخُوا۟ۖ حَتَّىٰۤ إِذَا جَعَلَهُۥ نَارࣰا قَالَ ءَاتُونِیۤ أُفۡرِغۡ عَلَیۡهِ قِطۡرࣰا\n",
+      "english": "Bring me sheets of iron\" - until, when he had leveled [them] between the two mountain walls, he said, \"Blow [with bellows],\" until when he had made it [like] fire, he said, \"Bring me, that I may pour over it molten copper.\"",
+      "hindi": "(अच्छा तो) मुझे (कहीं से) लोहे की सिले ला दो (चुनान्चे वह लोग) लाए और एक बड़ी दीवार बनाई यहाँ तक कि जब दोनो कंगूरो के दरमेयान (दीवार) को बुलन्द करके उनको बराबर कर दिया तो उनको हुक्म दिया कि इसके गिर्द आग लगाकर धौको यहां तक उसको (धौंकते-धौंकते) लाल अंगारा बना दिया"
+    },
+    {
+      "verse_number": 97,
+      "arabic": "فَمَا ٱسۡطَـٰعُوۤا۟ أَن یَظۡهَرُوهُ وَمَا ٱسۡتَطَـٰعُوا۟ لَهُۥ نَقۡبࣰا\n",
+      "english": "So Gog and Magog were unable to pass over it, nor were they able [to effect] in it any penetration.",
+      "hindi": "तो कहा कि अब हमको ताँबा दो कि इसको पिघलाकर इस दीवार पर उँडेल दें (ग़रज़) वह ऐसी ऊँची मज़बूत दीवार बनी कि न तो याजूज व माजूज उस पर चढ़ ही सकते थे और न उसमें नक़ब लगा सकते थे"
+    },
+    {
+      "verse_number": 98,
+      "arabic": "قَالَ هَـٰذَا رَحۡمَةࣱ مِّن رَّبِّیۖ فَإِذَا جَاۤءَ وَعۡدُ رَبِّی جَعَلَهُۥ دَكَّاۤءَۖ وَكَانَ وَعۡدُ رَبِّی حَقࣰّا\n",
+      "english": "[Dhul-Qarnayn] said, \"This is a mercy from my Lord; but when the promise of my Lord comes, He will make it level, and ever is the promise of my Lord true.\"",
+      "hindi": "जुलक़रनैन ने (दीवार को देखकर) कहा ये मेरे परवरदिगार की मेहरबानी है मगर जब मेरे परवरदिगार का वायदा (क़यामत) आयेगा तो इसे ढहा कर हमवार कर देगा और मेरे परवरदिगार का वायदा सच्चा है"
+    },
+    {
+      "verse_number": 99,
+      "arabic": "۞ وَتَرَكۡنَا بَعۡضَهُمۡ یَوۡمَىِٕذࣲ یَمُوجُ فِی بَعۡضࣲۖ وَنُفِخَ فِی ٱلصُّورِ فَجَمَعۡنَـٰهُمۡ جَمۡعࣰا\n",
+      "english": "And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.",
+      "hindi": "और हम उस दिन (उन्हें उनकी हालत पर) छोड़ देंगे कि एक दूसरे में (टकरा के दरिया की) लहरों की तरह गुड़मुड़ हो जाएँ और सूर फूँका जाएगा तो हम सब को इकट्ठा करेंगे"
+    },
+    {
+      "verse_number": 100,
+      "arabic": "وَعَرَضۡنَا جَهَنَّمَ یَوۡمَىِٕذࣲ لِّلۡكَـٰفِرِینَ عَرۡضًا\n",
+      "english": "And We will present Hell that Day to the Disbelievers, on display -",
+      "hindi": "और उसी दिन जहन्नुम को उन काफिरों के सामने खुल्लम खुल्ला पेश करेंगे"
+    },
+    {
+      "verse_number": 101,
+      "arabic": "ٱلَّذِینَ كَانَتۡ أَعۡیُنُهُمۡ فِی غِطَاۤءٍ عَن ذِكۡرِی وَكَانُوا۟ لَا یَسۡتَطِیعُونَ سَمۡعًا\n",
+      "english": "Those whose eyes had been within a cover [removed] from My remembrance, and they were not able to hear.",
+      "hindi": "और उसी (रसूल की दुश्मनी की सच्ची बात) कुछ भी सुन ही न सकते थे"
+    },
+    {
+      "verse_number": 102,
+      "arabic": "أَفَحَسِبَ ٱلَّذِینَ كَفَرُوۤا۟ أَن یَتَّخِذُوا۟ عِبَادِی مِن دُونِیۤ أَوۡلِیَاۤءَۚ إِنَّاۤ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَـٰفِرِینَ نُزُلࣰا\n",
+      "english": "Then do those who disbelieve think that they can take My servants instead of Me as allies? Indeed, We have prepared Hell for the disbelievers as a lodging.",
+      "hindi": "तो क्या जिन लोगों ने कुफ्र एख्तियार किया इस ख्याल में हैं कि हमको छोड़कर हमारे बन्दों को अपना सरपरस्त बना लें (कुछ पूछगछ न होगी) (अच्छा सुनो) हमने काफिरों की मेहमानदारी के लिए जहन्नुम तैयार कर रखी है"
+    },
+    {
+      "verse_number": 103,
+      "arabic": "قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِینَ أَعۡمَـٰلًا\n",
+      "english": "Say, [O Muhammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?",
+      "hindi": "(ऐ रसूल) तुम कह दो कि क्या हम उन लोगों का पता बता दें जो लोग आमाल की हैसियत से बहुत घाटे में हैं"
+    },
+    {
+      "verse_number": 104,
+      "arabic": "ٱلَّذِینَ ضَلَّ سَعۡیُهُمۡ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَهُمۡ یَحۡسَبُونَ أَنَّهُمۡ یُحۡسِنُونَ صُنۡعًا\n",
+      "english": "[They are] those whose effort is lost in worldly life, while they think that they are doing well in work.\"",
+      "hindi": "(ये) वह लोग (हैं) जिन की दुनियावी ज़िन्दगी की राई (कोशिश सब) अकारत हो गई और वह उस ख़ाम ख्याल में हैं कि वह यक़ीनन अच्छे-अच्छे काम कर रहे हैं"
+    },
+    {
+      "verse_number": 105,
+      "arabic": "أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ كَفَرُوا۟ بِـَٔایَـٰتِ رَبِّهِمۡ وَلِقَاۤىِٕهِۦ فَحَبِطَتۡ أَعۡمَـٰلُهُمۡ فَلَا نُقِیمُ لَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ وَزۡنࣰا\n",
+      "english": "Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any importance.",
+      "hindi": "यही वह लोग हैं जिन्होंने अपने परवरदिगार की आयातों से और (क़यामत के दिन) उसके सामने हाज़िर होने से इन्कार किया तो उनका सब किया कराया अकारत हुआ तो हम उसके लिए क़यामत के दिन मीजान हिसाब भी क़ायम न करेंगे"
+    },
+    {
+      "verse_number": 106,
+      "arabic": "ذَ ٰ⁠لِكَ جَزَاۤؤُهُمۡ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوۤا۟ ءَایَـٰتِی وَرُسُلِی هُزُوًا\n",
+      "english": "That is their recompense - Hell - for what they denied and [because] they took My signs and My messengers in ridicule.",
+      "hindi": "(और सीधे जहन्नुम में झोंक देगें) ये जहन्नुम उनकी करतूतों का बदला है कि उन्होंने कुफ्र एख्तियार किया और मेरी आयतों और मेरे रसूलों को हँसी ठठ्ठा बना लिया"
+    },
+    {
+      "verse_number": 107,
+      "arabic": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَانَتۡ لَهُمۡ جَنَّـٰتُ ٱلۡفِرۡدَوۡسِ نُزُلًا\n",
+      "english": "Indeed, those who have believed and done righteous deeds - they will have the Gardens of Paradise as a lodging,",
+      "hindi": "बेशक जिन लोगों ने ईमान क़ुबूल किया और अच्छे-अच्छे काम किये उनकी मेहमानदारी के लिए फिरदौस (बरी) के बाग़ात होंगे जिनमें वह हमेशा रहेंगे"
+    },
+    {
+      "verse_number": 108,
+      "arabic": "خَـٰلِدِینَ فِیهَا لَا یَبۡغُونَ عَنۡهَا حِوَلࣰا\n",
+      "english": "Wherein they abide eternally. They will not desire from it any transfer.",
+      "hindi": "और वहाँ से हिलने की भी ख्वाहिश न करेंगे"
+    },
+    {
+      "verse_number": 109,
+      "arabic": "قُل لَّوۡ كَانَ ٱلۡبَحۡرُ مِدَادࣰا لِّكَلِمَـٰتِ رَبِّی لَنَفِدَ ٱلۡبَحۡرُ قَبۡلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّی وَلَوۡ جِئۡنَا بِمِثۡلِهِۦ مَدَدࣰا\n",
+      "english": "Say, \"If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it as a supplement.\"",
+      "hindi": "(ऐ रसूल उन लोगों से) कहो कि अगर मेरे परवरदिगार की बातों के (लिखने के) वास्ते समन्दर (का पानी) भी सियाही बन जाए तो क़ब्ल उसके कि मेरे परवरदिगार की बातें ख़त्म हों समन्दर ही ख़त्म हो जाएगा अगरचे हम वैसा ही एक समन्दर उस की मदद को लाँए"
+    },
+    {
+      "verse_number": 110,
+      "arabic": "قُلۡ إِنَّمَاۤ أَنَا۠ بَشَرࣱ مِّثۡلُكُمۡ یُوحَىٰۤ إِلَیَّ أَنَّمَاۤ إِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰ⁠حِدࣱۖ فَمَن كَانَ یَرۡجُوا۟ لِقَاۤءَ رَبِّهِۦ فَلۡیَعۡمَلۡ عَمَلࣰا صَـٰلِحࣰا وَلَا یُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦۤ أَحَدَۢا\n",
+      "english": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\"",
+      "hindi": "(ऐ रसूल) कह दो कि मैं भी तुम्हारा ही ऐसा एक आदमी हूँ (फर्क़ इतना है) कि मेरे पास ये वही आई है कि तुम्हारे माबूद यकता माबूद हैं तो वो शख्स आरज़ूमन्द होकर अपने परवरदिगार के सामने हाज़िर होगा तो उसे अच्छे काम करने चाहिए और अपने परवरदिगार की इबादत में किसी को शरीक न करें"
+    }
+  ]
+}

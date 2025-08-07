@@ -1,0 +1,37 @@
+{
+  "id": 105,
+  "name_simple": "Al-Fil",
+  "name_arabic": "الفيل",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ أَلَمۡ تَرَ كَیۡفَ فَعَلَ رَبُّكَ بِأَصۡحَـٰبِ ٱلۡفِیلِ\n",
+      "english": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+      "hindi": "ऐ रसूल क्या तुमने नहीं देखा कि तुम्हारे परवरदिगार ने हाथी वालों के साथ क्या किया"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "أَلَمۡ یَجۡعَلۡ كَیۡدَهُمۡ فِی تَضۡلِیلࣲ\n",
+      "english": "Did He not make their plan into misguidance?",
+      "hindi": "क्या उसने उनकी तमाम तद्बीरें ग़लत नहीं कर दीं (ज़रूर)"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَأَرۡسَلَ عَلَیۡهِمۡ طَیۡرًا أَبَابِیلَ\n",
+      "english": "And He sent against them birds in flocks,",
+      "hindi": "और उन पर झुन्ड की झुन्ड चिड़ियाँ भेज दीं"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "تَرۡمِیهِم بِحِجَارَةࣲ مِّن سِجِّیلࣲ\n",
+      "english": "Striking them with stones of hard clay,",
+      "hindi": "जो उन पर खरन्जों की कंकरियाँ फेकती थीं"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "فَجَعَلَهُمۡ كَعَصۡفࣲ مَّأۡكُولِۭ\n",
+      "english": "And He made them like eaten straw.",
+      "hindi": "तो उन्हें चबाए हुए भूस की (तबाह) कर दिया"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 98,
+  "name_simple": "Al-Bayyinah",
+  "name_arabic": "البينة",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ لَمۡ یَكُنِ ٱلَّذِینَ كَفَرُوا۟ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ وَٱلۡمُشۡرِكِینَ مُنفَكِّینَ حَتَّىٰ تَأۡتِیَهُمُ ٱلۡبَیِّنَةُ\n",
+      "english": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence -",
+      "hindi": "अहले किताब और मुशरिकों से जो लोग काफिर थे जब तक कि उनके पास खुली हुई दलीलें न पहुँचे वह (अपने कुफ्र से) बाज़ आने वाले न थे"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "رَسُولࣱ مِّنَ ٱللَّهِ یَتۡلُوا۟ صُحُفࣰا مُّطَهَّرَةࣰ\n",
+      "english": "A Messenger from Allah, reciting purified scriptures",
+      "hindi": "(यानि) ख़ुदा के रसूल जो पाक औराक़ पढ़ते हैं (आए और)"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "فِیهَا كُتُبࣱ قَیِّمَةࣱ\n",
+      "english": "Within which are correct writings.",
+      "hindi": "उनमें (जो) पुरज़ोर और दरूस्त बातें लिखी हुई हैं (सुनाये)"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَمَا تَفَرَّقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَتۡهُمُ ٱلۡبَیِّنَةُ\n",
+      "english": "Nor did those who were given the Scripture become divided until after there had come to them clear evidence.",
+      "hindi": "अहले किताब मुताफ़र्रिक़ हुए भी तो जब उनके पास खुली हुई दलील आ चुकी"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَمَاۤ أُمِرُوۤا۟ إِلَّا لِیَعۡبُدُوا۟ ٱللَّهَ مُخۡلِصِینَ لَهُ ٱلدِّینَ حُنَفَاۤءَ وَیُقِیمُوا۟ ٱلصَّلَوٰةَ وَیُؤۡتُوا۟ ٱلزَّكَوٰةَۚ وَذَ ٰ⁠لِكَ دِینُ ٱلۡقَیِّمَةِ\n",
+      "english": "And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.",
+      "hindi": "(तब) और उन्हें तो बस ये हुक्म दिया गया था कि निरा ख़ुरा उसी का एतक़ाद रख के बातिल से कतरा के ख़ुदा की इबादत करे और पाबन्दी से नमाज़ पढ़े और ज़कात अदा करता रहे और यही सच्चा दीन है"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ وَٱلۡمُشۡرِكِینَ فِی نَارِ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۤۚ أُو۟لَـٰۤىِٕكَ هُمۡ شَرُّ ٱلۡبَرِیَّةِ\n",
+      "english": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+      "hindi": "बेशक अहले किताब और मुशरेकीन से जो लोग (अब तक) काफ़िर हैं वह दोज़ख़ की आग में (होंगे) हमेशा उसी में रहेंगे यही लोग बदतरीन ख़लाएक़ हैं"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰۤىِٕكَ هُمۡ خَیۡرُ ٱلۡبَرِیَّةِ\n",
+      "english": "Indeed, they who have believed and done righteous deeds - those are the best of creatures.",
+      "hindi": "बेशक जो लोग ईमान लाए और अच्छे काम करते रहे यही लोग बेहतरीन ख़लाएक़ हैं"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "جَزَاۤؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّـٰتُ عَدۡنࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۖ رَّضِیَ ٱللَّهُ عَنۡهُمۡ وَرَضُوا۟ عَنۡهُۚ ذَ ٰ⁠لِكَ لِمَنۡ خَشِیَ رَبَّهُۥ\n",
+      "english": "Their reward with Allah will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allah being pleased with them and they with Him. That is for whoever has feared his Lord.",
+      "hindi": "उनकी जज़ा उनके परवरदिगार के यहाँ हमेशा रहने (सहने) के बाग़ हैं जिनके नीचे नहरें जारी हैं और वह आबादुल आबाद हमेशा उसी में रहेंगे ख़ुदा उनसे राज़ी और वह ख़ुदा से ख़ुश ये (जज़ा) ख़ास उस शख़्श की है जो अपने परवरदिगार से डरे"
+    }
+  ]
+}

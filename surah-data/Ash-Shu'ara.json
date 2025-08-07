@@ -1,0 +1,1369 @@
+{
+  "id": 26,
+  "name_simple": "Ash-Shu'ara",
+  "name_arabic": "الشعراء",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ طسۤمۤ\n",
+      "english": "Ta, Seen, Meem.",
+      "hindi": "ता सीन मीम"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ\n",
+      "english": "These are the verses of the clear Book.",
+      "hindi": "ये वाज़ेए व रौशन किताब की आयतें है"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "لَعَلَّكَ بَـٰخِعࣱ نَّفۡسَكَ أَلَّا یَكُونُوا۟ مُؤۡمِنِینَ\n",
+      "english": "Perhaps, [O Muhammad], you would kill yourself with grief that they will not be believers.",
+      "hindi": "(ऐ रसूल) शायद तुम (इस फिक्र में) अपनी जान हलाक कर डालोगे कि ये (कुफ्फार) मोमिन क्यो नहीं हो जाते"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "إِن نَّشَأۡ نُنَزِّلۡ عَلَیۡهِم مِّنَ ٱلسَّمَاۤءِ ءَایَةࣰ فَظَلَّتۡ أَعۡنَـٰقُهُمۡ لَهَا خَـٰضِعِینَ\n",
+      "english": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.",
+      "hindi": "अगर हम चाहें तो उन लोगों पर आसमान से कोई ऐसा मौजिज़ा नाज़िल करें कि उन लोगों की गर्दनें उसके सामने झुक जाएँ"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَمَا یَأۡتِیهِم مِّن ذِكۡرࣲ مِّنَ ٱلرَّحۡمَـٰنِ مُحۡدَثٍ إِلَّا كَانُوا۟ عَنۡهُ مُعۡرِضِینَ\n",
+      "english": "And no revelation comes to them anew from the Most Merciful except that they turn away from it.",
+      "hindi": "और (लोगों का क़ायदा है कि) जब उनके पास कोई कोई नसीहत की बात ख़ुदा की तरफ से आयी तो ये लोग उससे मुँह फेरे बगैर नहीं रहे"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "فَقَدۡ كَذَّبُوا۟ فَسَیَأۡتِیهِمۡ أَنۢبَـٰۤؤُا۟ مَا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ\n",
+      "english": "For they have already denied, but there will come to them the news of that which they used to ridicule.",
+      "hindi": "उन लोगों ने झुठलाया ज़रुर तो अनक़रीब ही (उन्हें) इस (अज़ाब) की हक़ीकत मालूम हो जाएगी जिसकी ये लोग हँसी उड़ाया करते थे"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "أَوَلَمۡ یَرَوۡا۟ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِیهَا مِن كُلِّ زَوۡجࣲ كَرِیمٍ\n",
+      "english": "Did they not look at the earth - how much We have produced therein from every noble kind?",
+      "hindi": "क्या इन लोगों ने ज़मीन की तरफ भी (ग़ौर से) नहीं देखा कि हमने हर रंग की उम्दा उम्दा चीजें उसमें किस कसरत से उगायी हैं"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "यक़ीनन इसमें (भी क़ुदरत) ख़ुदा की एक बड़ी निशानी है मगर उनमें से अक्सर ईमान लाने वाले ही नहीं"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमें शक नहीं कि तेरा परवरदिगार यक़ीनन (हर चीज़ पर) ग़ालिब (और) मेहरबान है"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰۤ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ\n",
+      "english": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -",
+      "hindi": "(ऐ रसूल वह वक्त याद करो) जब तुम्हारे परवरदिगार ने मूसा को आवाज़ दी कि (इन) ज़ालिमों फिरऔन की क़ौम के पास जाओ (हिदायत करो)"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "قَوۡمَ فِرۡعَوۡنَۚ أَلَا یَتَّقُونَ\n",
+      "english": "The people of Pharaoh. Will they not fear Allah?\"",
+      "hindi": "क्या ये लोग (मेरे ग़ज़ब से) डरते नहीं है"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "قَالَ رَبِّ إِنِّیۤ أَخَافُ أَن یُكَذِّبُونِ\n",
+      "english": "He said, \"My Lord, indeed I fear that they will deny me",
+      "hindi": "मूसा ने अर्ज़ कि परवरदिगार मैं डरता हूँ कि (मुबादा) वह लोग मुझे झुठला दे"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "وَیَضِیقُ صَدۡرِی وَلَا یَنطَلِقُ لِسَانِی فَأَرۡسِلۡ إِلَىٰ هَـٰرُونَ\n",
+      "english": "And that my breast will tighten and my tongue will not be fluent, so send for Aaron.",
+      "hindi": "और (उनके झुठलाने से) मेरा दम रुक जाए और मेरी ज़बान (अच्छी तरह) न चले तो हारुन के पास पैग़ाम भेज दे (कि मेरा साथ दे)"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "وَلَهُمۡ عَلَیَّ ذَنۢبࣱ فَأَخَافُ أَن یَقۡتُلُونِ\n",
+      "english": "And they have upon me a [claim due to] sin, so I fear that they will kill me.\"",
+      "hindi": "(और इसके अलावा) उनका मेरे सर एक जुर्म भी है (कि मैने एक शख्स को मार डाला था)"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔایَـٰتِنَاۤۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ\n",
+      "english": "[Allah] said, \"No. Go both of you with Our signs; indeed, We are with you, listening.",
+      "hindi": "तो मैं डरता हूँ कि (शायद) मुझे ये लाग मार डालें ख़ुदा ने कहा हरगिज़ नहीं अच्छा तुम दोनों हमारी निशानियाँ लेकर जाओ हम तुम्हारे साथ हैं"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "فَأۡتِیَا فِرۡعَوۡنَ فَقُولَاۤ إِنَّا رَسُولُ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "Go to Pharaoh and say, 'We are the messengers of the Lord of the worlds,",
+      "hindi": "और (सारी गुफ्तगू) अच्छी तरह सुनते हैं ग़रज़ तुम दोनों फिरऔन के पास जाओ और कह दो कि हम सारे जहाँन के परवरदिगार के रसूल हैं (और पैग़ाम लाएँ हैं)"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "أَنۡ أَرۡسِلۡ مَعَنَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ\n",
+      "english": "[Commanded to say], \"Send with us the Children of Israel.\"'\"",
+      "hindi": "कि आप बनी इसराइल को हमारे साथ भेज दीजिए"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "قَالَ أَلَمۡ نُرَبِّكَ فِینَا وَلِیدࣰا وَلَبِثۡتَ فِینَا مِنۡ عُمُرِكَ سِنِینَ\n",
+      "english": "[Pharaoh] said, \"Did we not raise you among us as a child, and you remained among us for years of your life?",
+      "hindi": "(चुनान्चे मूसा गए और कहा) फिरऔन बोला (मूसा) क्या हमने तुम्हें यहाँ रख कर बचपने में तुम्हारी परवरिश नहीं की और तुम अपनी उम्र से बरसों हम मे रह सह चुके हो"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِی فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَـٰفِرِینَ\n",
+      "english": "And [then] you did your deed which you did, and you were of the ungrateful.\"",
+      "hindi": "और तुम अपना वह काम (ख़ून क़िब्ती) जो कर गए और तुम (बड़े) नाशुक्रे हो"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "قَالَ فَعَلۡتُهَاۤ إِذࣰا وَأَنَا۠ مِنَ ٱلضَّاۤلِّینَ\n",
+      "english": "[Moses] said, \"I did it, then, while I was of those astray.",
+      "hindi": "मूसा ने कहा (हाँ) मैने उस वक्त उस काम को किया जब मै हालते ग़फलत में था"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِی رَبِّی حُكۡمࣰا وَجَعَلَنِی مِنَ ٱلۡمُرۡسَلِینَ\n",
+      "english": "So I fled from you when I feared you. Then my Lord granted me wisdom and prophethood and appointed me [as one] of the messengers.",
+      "hindi": "फिर जब मै आप लोगों से डरा तो भाग खड़ा हुआ फिर (कुछ अरसे के बाद) मेरे परवरदिगार ने मुझे नुबूवत अता फरमायी और मुझे भी एक पैग़म्बर बनाया"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "وَتِلۡكَ نِعۡمَةࣱ تَمُنُّهَا عَلَیَّ أَنۡ عَبَّدتَّ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ\n",
+      "english": "And is this a favor of which you remind me - that you have enslaved the Children of Israel?\"",
+      "hindi": "और ये भी कोई एहसान हे जिसे आप मुझ पर जता रहे है कि आप ने बनी इसराईल को ग़ुलाम बना रखा है"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "Said Pharaoh, \"And what is the Lord of the worlds?\"",
+      "hindi": "फिरऔन ने पूछा (अच्छा ये तो बताओ) रब्बुल आलमीन क्या चीज़ है"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "قَالَ رَبُّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُم مُّوقِنِینَ\n",
+      "english": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced.\"",
+      "hindi": "मूसा ने कहाँ सारे आसमान व ज़मीन का और जो कुछ इन दोनों के दरमियान है (सबका) मालिक अगर आप लोग यक़ीन कीजिए (तो काफी है)"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "قَالَ لِمَنۡ حَوۡلَهُۥۤ أَلَا تَسۡتَمِعُونَ\n",
+      "english": "[Pharaoh] said to those around him, \"Do you not hear?\"",
+      "hindi": "फिरऔन ने उन लोगो से जो उसके इर्द गिर्द (बैठे) थे कहा क्या तुम लोग नहीं सुनते हो"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "قَالَ رَبُّكُمۡ وَرَبُّ ءَابَاۤىِٕكُمُ ٱلۡأَوَّلِینَ\n",
+      "english": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\"",
+      "hindi": "मूसा ने कहा (वही ख़ुदा जो कि) तुम्हारा परवरदिगार और तुम्हारे बाप दादाओं का परवरदिगार है"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِیۤ أُرۡسِلَ إِلَیۡكُمۡ لَمَجۡنُونࣱ\n",
+      "english": "[Pharaoh] said, \"Indeed, your 'messenger' who has been sent to you is mad.\"",
+      "hindi": "फिरऔन ने कहा (लोगों) ये रसूल जो तुम्हारे पास भेजा गया है हो न हो दीवाना है"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُمۡ تَعۡقِلُونَ\n",
+      "english": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason.\"",
+      "hindi": "मूसा ने कहा (वह ख़ुदा जो) पूरब पश्चिम और जो कुछ इन दोनों के दरमियान (सबका) मालिक है अगर तुम समझते हो (तो यही काफी है)"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "قَالَ لَىِٕنِ ٱتَّخَذۡتَ إِلَـٰهًا غَیۡرِی لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِینَ\n",
+      "english": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\"",
+      "hindi": "फिरऔन ने कहा अगर तुम मेरे सिवा किसी और को (अपना) ख़ुदा बनाया है तो मै ज़रुर तुम्हे कैदी बनाऊँगा"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "قَالَ أَوَلَوۡ جِئۡتُكَ بِشَیۡءࣲ مُّبِینࣲ\n",
+      "english": "[Moses] said, \"Even if I brought you proof manifest?\"",
+      "hindi": "मूसा ने कहा अगरचे मैं आपको एक वाजेए व रौशन मौजिज़ा भी दिखाऊ (तो भी)"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "قَالَ فَأۡتِ بِهِۦۤ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ\n",
+      "english": "[Pharaoh] said, \"Then bring it, if you should be of the truthful.\"",
+      "hindi": "फिरऔन ने कहा (अच्छा) तो तुम अगर (अपने दावे में) सच्चे हो तो ला दिखाओ"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِیَ ثُعۡبَانࣱ مُّبِینࣱ\n",
+      "english": "So [Moses] threw his staff, and suddenly it was a serpent manifest.",
+      "hindi": "बस (ये सुनते ही) मूसा ने अपनी छड़ी (ज़मीन पर) डाल दी फिर तो यकायक वह एक सरीही अज़दहा बन गया"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "وَنَزَعَ یَدَهُۥ فَإِذَا هِیَ بَیۡضَاۤءُ لِلنَّـٰظِرِینَ\n",
+      "english": "And he drew out his hand; thereupon it was white for the observers.",
+      "hindi": "और (जेब से) अपना हाथ बाहर निकाला तो यकायक देखने वालों के वास्ते बहुत सफेद चमकदार था"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "قَالَ لِلۡمَلَإِ حَوۡلَهُۥۤ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِیمࣱ\n",
+      "english": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician.",
+      "hindi": "(इस पर) फिरऔन अपने दरबारियों से जो उसके गिर्द (बैठे) थे कहने लगा"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "یُرِیدُ أَن یُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ\n",
+      "english": "He wants to drive you out of your land by his magic, so what do you advise?\"",
+      "hindi": "कि ये तो यक़ीनी बड़ा खिलाड़ी जादूगर है ये तो चाहता है कि अपने जादू के ज़ोर से तुम्हें तुम्हारे मुल्क से बाहर निकाल दे तो तुम लोग क्या हुक्म लगाते हो"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "قَالُوۤا۟ أَرۡجِهۡ وَأَخَاهُ وَٱبۡعَثۡ فِی ٱلۡمَدَاۤىِٕنِ حَـٰشِرِینَ\n",
+      "english": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
+      "hindi": "दरबारियों ने कहा अभी इसको और इसके भाई को (चन्द) मोहलत दीजिए"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "یَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِیمࣲ\n",
+      "english": "Who will bring you every learned, skilled magician.\"",
+      "hindi": "और तमाम शहरों में जादूगरों के जमा करने को हरकारे रवाना कीजिए कि वह लोग तमाम बड़े बड़े खिलाड़ी जादूगरों की आपके सामने ला हाज़िर करें"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "فَجُمِعَ ٱلسَّحَرَةُ لِمِیقَـٰتِ یَوۡمࣲ مَّعۡلُومࣲ\n",
+      "english": "So the magicians were assembled for the appointment of a well-known day.",
+      "hindi": "ग़रज़ वक्ते मुकर्रर हुआ सब जादूगर उस मुक़र्रर के वायदे पर जमा किए गए"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "وَقِیلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ\n",
+      "english": "And it was said to the people, \"Will you congregate",
+      "hindi": "और लोगों में मुनादी करा दी गयी कि तुम लोग अब भी जमा होगे"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ\n",
+      "english": "That we might follow the magicians if they are the predominant?\"",
+      "hindi": "या नहीं ताकि अगर जादूगर ग़ालिब और वर है तो हम लोग उनकी पैरवी करें"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "فَلَمَّا جَاۤءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرۡعَوۡنَ أَىِٕنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَـٰلِبِینَ\n",
+      "english": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant?\"",
+      "hindi": "अलग़रज जब सब जादूगर आ गये तो जादूगरों ने फिरऔन से कहा कि अगर हम ग़ालिब आ गए तो हमको यक़ीनन कुछ इनाम (सरकार से) मिलेगा"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذࣰا لَّمِنَ ٱلۡمُقَرَّبِینَ\n",
+      "english": "He said, \"Yes, and indeed, you will then be of those near [to me].\"",
+      "hindi": "फिरऔन ने कहा हा (ज़रुर मिलेगा) और (इनाम क्या चीज़ है) तुम उस वक्त (मेरे) मुकररेबीन (बारगाह) से हो गए"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "قَالَ لَهُم مُّوسَىٰۤ أَلۡقُوا۟ مَاۤ أَنتُم مُّلۡقُونَ\n",
+      "english": "Moses said to them, \"Throw whatever you will throw.\"",
+      "hindi": "मूसा ने जादूगरों से कहा (मंत्र व तंत्र) जो कुछ तुम्हें फेंकना हो फेंको"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "فَأَلۡقَوۡا۟ حِبَالَهُمۡ وَعِصِیَّهُمۡ وَقَالُوا۟ بِعِزَّةِ فِرۡعَوۡنَ إِنَّا لَنَحۡنُ ٱلۡغَـٰلِبُونَ\n",
+      "english": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\"",
+      "hindi": "इस पर जादूगरों ने अपनी रस्सियाँ और अपनी छड़ियाँ (मैदान में) डाल दी और कहने लगे फिरऔन के जलाल की क़सम हम ही ज़रुर ग़ालिब रहेंगे"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِیَ تَلۡقَفُ مَا یَأۡفِكُونَ\n",
+      "english": "Then Moses threw his staff, and at once it devoured what they falsified.",
+      "hindi": "तब मूसा ने अपनी छड़ी डाली तो जादूगरों ने जो कुछ (शोबदे) बनाए थे उसको वह निगलने लगी"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "فَأُلۡقِیَ ٱلسَّحَرَةُ سَـٰجِدِینَ\n",
+      "english": "So the magicians fell down in prostration [to Allah].",
+      "hindi": "ये देखते ही जादूगर लोग सजदे में (मूसा के सामने) गिर पडे"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "قَالُوۤا۟ ءَامَنَّا بِرَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "They said, \"We have believed in the Lord of the worlds,",
+      "hindi": "और कहने लगे हम सारे जहाँ के परवरदिगार पर ईमान लाए"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "رَبِّ مُوسَىٰ وَهَـٰرُونَ\n",
+      "english": "The Lord of Moses and Aaron.\"",
+      "hindi": "जो मूसा और हारुन का परवरदिगार है"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِیرُكُمُ ٱلَّذِی عَلَّمَكُمُ ٱلسِّحۡرَ فَلَسَوۡفَ تَعۡلَمُونَۚ لَأُقَطِّعَنَّ أَیۡدِیَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَـٰفࣲ وَلَأُصَلِّبَنَّكُمۡ أَجۡمَعِینَ\n",
+      "english": "[Pharaoh] said, \"You believed Moses before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all.\"",
+      "hindi": "फिरऔन ने कहा (हाए) क़ब्ल इसके कि मै तुम्हें इजाज़त दूँ तुम इस पर ईमान ले आए बेशक ये तुम्हारा बड़ा (गुरु है जिसने तुम सबको जादू सिखाया है तो ख़ैर) अभी तुम लोगों को (इसका नतीजा) मालूम हो जाएगा कि हम यक़ीनन तुम्हारे एक तरफ के हाथ और दूसरी तरफ के पाँव काट डालेगें और तुम सब के सब को सूली देगें"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "قَالُوا۟ لَا ضَیۡرَۖ إِنَّاۤ إِلَىٰ رَبِّنَا مُنقَلِبُونَ\n",
+      "english": "They said, \"No harm. Indeed, to our Lord we will return.",
+      "hindi": "वह बोले कुछ परवाह नही हमको तो बहरहाल अपने परवरदिगार की तरफ लौट कर जाना है"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "إِنَّا نَطۡمَعُ أَن یَغۡفِرَ لَنَا رَبُّنَا خَطَـٰیَـٰنَاۤ أَن كُنَّاۤ أَوَّلَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers.\"",
+      "hindi": "हम चँकि सबसे पहले ईमान लाए है इसलिए ये उम्मीद रखते हैं कि हमारा परवरदिगार हमारी ख़ताएँ माफ कर देगा"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "۞ وَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَسۡرِ بِعِبَادِیۤ إِنَّكُم مُّتَّبَعُونَ\n",
+      "english": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued.\"",
+      "hindi": "और हमने मूसा के पास वही भेजी कि तुम मेरे बन्दों को लेकर रातों रात निकल जाओ क्योंकि तुम्हारा पीछा किया जाएगा"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "فَأَرۡسَلَ فِرۡعَوۡنُ فِی ٱلۡمَدَاۤىِٕنِ حَـٰشِرِینَ\n",
+      "english": "Then Pharaoh sent among the cities gatherers",
+      "hindi": "तब फिरऔन ने (लश्कर जमा करने के ख्याल से) तमाम शहरों में (धड़ा धड़) हरकारे रवाना किए"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "إِنَّ هَـٰۤؤُلَاۤءِ لَشِرۡذِمَةࣱ قَلِیلُونَ\n",
+      "english": "[And said], \"Indeed, those are but a small band,",
+      "hindi": "(और कहा) कि ये लोग मूसा के साथ बनी इसराइल थोड़ी सी (मुट्ठी भर की) जमाअत हैं"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "وَإِنَّهُمۡ لَنَا لَغَاۤىِٕظُونَ\n",
+      "english": "And indeed, they are enraging us,",
+      "hindi": "और उन लोगों ने हमें सख्त गुस्सा दिलाया है"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "وَإِنَّا لَجَمِیعٌ حَـٰذِرُونَ\n",
+      "english": "And indeed, we are a cautious society... \"",
+      "hindi": "और हम सबके सब बा साज़ों सामान हैं"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "فَأَخۡرَجۡنَـٰهُم مِّن جَنَّـٰتࣲ وَعُیُونࣲ\n",
+      "english": "So We removed them from gardens and springs",
+      "hindi": "तुम भी आ जाओ कि सब मिलकर ताअककुब (पीछा) करें"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "وَكُنُوزࣲ وَمَقَامࣲ كَرِیمࣲ\n",
+      "english": "And treasures and honorable station -",
+      "hindi": "ग़रज़ हमने इन लोगों को (मिस्र के) बाग़ों और चश्मों और खज़ानों और इज्ज़त की जगह से (यूँ) निकाल बाहर किया"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "كَذَ ٰ⁠لِكَۖ وَأَوۡرَثۡنَـٰهَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ\n",
+      "english": "Thus. And We caused to inherit it the Children of Israel.",
+      "hindi": "(और जो नाफरमानी करे) इसी तरह सज़ा होगी और आख़िर हमने उन्हीं चीज़ों का मालिक बनी इसराइल को बनाया"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "فَأَتۡبَعُوهُم مُّشۡرِقِینَ\n",
+      "english": "So they pursued them at sunrise.",
+      "hindi": "ग़रज़ (मूसा) तो रात ही को चले गए"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "فَلَمَّا تَرَ ٰ⁠ۤءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَـٰبُ مُوسَىٰۤ إِنَّا لَمُدۡرَكُونَ\n",
+      "english": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\"",
+      "hindi": "और उन लोगों ने सूरज निकलते उनका पीछा किया तो जब दोनों जमाअतें (इतनी करीब हुयीं कि) एक दूसरे को देखने लगी तो मूसा के साथी (हैरान होकर) कहने लगे"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "قَالَ كَلَّاۤۖ إِنَّ مَعِیَ رَبِّی سَیَهۡدِینِ\n",
+      "english": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\"",
+      "hindi": "कि अब तो पकड़े गए मूसा ने कहा हरगिज़ नहीं क्योंकि मेरे साथ मेरा परवरदिगार है"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "فَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقࣲ كَٱلطَّوۡدِ ٱلۡعَظِیمِ\n",
+      "english": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain.",
+      "hindi": "वह फौरन मुझे कोई (मुखलिसी का) रास्ता बता देगा तो हमने मूसा के पास वही भेजी कि अपनी छड़ी दरिया पर मारो (मारना था कि) फौरन दरिया फुट के टुकड़े टुकड़े हो गया तो गोया हर टुकड़ा एक बड़ा ऊँचा पहाड़ था"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡـَٔاخَرِینَ\n",
+      "english": "And We advanced thereto the pursuers.",
+      "hindi": "और हमने उसी जगह दूसरे फरीक (फिरऔन के साथी) को क़रीब कर दिया"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "وَأَنجَیۡنَا مُوسَىٰ وَمَن مَّعَهُۥۤ أَجۡمَعِینَ\n",
+      "english": "And We saved Moses and those with him, all together.",
+      "hindi": "और मूसा और उसके साथियों को हमने (डूबने से) बचा लिया"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "ثُمَّ أَغۡرَقۡنَا ٱلۡـَٔاخَرِینَ\n",
+      "english": "Then We drowned the others.",
+      "hindi": "फिर दूसरे फरीक़ (फिरऔन और उसके साथियों) को डुबोकर हलाक़ कर दिया"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "बेशक इसमें यक़ीनन एक बड़ी इबरत है और उनमें अक्सर ईमान लाने वाले ही न थे"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमें तो शक ही न था कि तुम्हारा परवरदिगार यक़ीनन (सब पर) ग़ालिब और बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "وَٱتۡلُ عَلَیۡهِمۡ نَبَأَ إِبۡرَ ٰ⁠هِیمَ\n",
+      "english": "And recite to them the news of Abraham,",
+      "hindi": "और (ऐ रसूल) उन लोगों के सामने इबराहीम का किस्सा बयान करों"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ\n",
+      "english": "When he said to his father and his people, \"What do you worship?\"",
+      "hindi": "जब उन्होंने अपने (मुँह बोले) बाप और अपनी क़ौम से कहा"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "قَالُوا۟ نَعۡبُدُ أَصۡنَامࣰا فَنَظَلُّ لَهَا عَـٰكِفِینَ\n",
+      "english": "They said, \"We worship idols and remain to them devoted.\"",
+      "hindi": "कि तुम लोग किसकी इबादत करते हो तो वह बोले हम बुतों की इबादत करते हैं और उन्हीं के मुजाविर बन जाते हैं"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "قَالَ هَلۡ یَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ\n",
+      "english": "He said, \"Do they hear you when you supplicate?",
+      "hindi": "इबराहीम ने कहा भला जब तुम लोग उन्हें पुकारते हो तो वह तुम्हारी कुछ सुनते हैं"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "أَوۡ یَنفَعُونَكُمۡ أَوۡ یَضُرُّونَ\n",
+      "english": "Or do they benefit you, or do they harm?\"",
+      "hindi": "या तम्हें कुछ नफा या नुक़सान पहुँचा सकते हैं"
+    },
+    {
+      "verse_number": 74,
+      "arabic": "قَالُوا۟ بَلۡ وَجَدۡنَاۤ ءَابَاۤءَنَا كَذَ ٰ⁠لِكَ یَفۡعَلُونَ\n",
+      "english": "They said, \"But we found our fathers doing thus.\"",
+      "hindi": "कहने लगे (कि ये सब तो कुछ नहीं) बल्कि हमने अपने बाप दादाओं को ऐसा ही करते पाया है"
+    },
+    {
+      "verse_number": 75,
+      "arabic": "قَالَ أَفَرَءَیۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ\n",
+      "english": "He said, \"Then do you see what you have been worshipping,",
+      "hindi": "इबराहीम ने कहा क्या तुमने देखा भी कि जिन चीज़ों कीे तुम परसतिश करते हो"
+    },
+    {
+      "verse_number": 76,
+      "arabic": "أَنتُمۡ وَءَابَاۤؤُكُمُ ٱلۡأَقۡدَمُونَ\n",
+      "english": "You and your ancient forefathers?",
+      "hindi": "या तुम्हारे अगले बाप दादा (करते थे) ये सब मेरे यक़ीनी दुश्मन हैं"
+    },
+    {
+      "verse_number": 77,
+      "arabic": "فَإِنَّهُمۡ عَدُوࣱّ لِّیۤ إِلَّا رَبَّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "Indeed, they are enemies to me, except the Lord of the worlds,",
+      "hindi": "मगर सारे जहाँ का पालने वाला जिसने मुझे पैदा किया (वही मेरा दोस्त है)"
+    },
+    {
+      "verse_number": 78,
+      "arabic": "ٱلَّذِی خَلَقَنِی فَهُوَ یَهۡدِینِ\n",
+      "english": "Who created me, and He [it is who] guides me.",
+      "hindi": "फिर वही मेरी हिदायत करता है"
+    },
+    {
+      "verse_number": 79,
+      "arabic": "وَٱلَّذِی هُوَ یُطۡعِمُنِی وَیَسۡقِینِ\n",
+      "english": "And it is He who feeds me and gives me drink.",
+      "hindi": "और वह शख्स जो मुझे (खाना) खिलाता है और मुझे (पानी) पिलाता है"
+    },
+    {
+      "verse_number": 80,
+      "arabic": "وَإِذَا مَرِضۡتُ فَهُوَ یَشۡفِینِ\n",
+      "english": "And when I am ill, it is He who cures me",
+      "hindi": "और जब बीमार पड़ता हूँ तो वही मुझे शिफा इनायत फरमाता है"
+    },
+    {
+      "verse_number": 81,
+      "arabic": "وَٱلَّذِی یُمِیتُنِی ثُمَّ یُحۡیِینِ\n",
+      "english": "And who will cause me to die and then bring me to life",
+      "hindi": "और वह वही हेै जो मुझे मार डालेगा और उसके बाद (फिर) मुझे ज़िन्दा करेगा"
+    },
+    {
+      "verse_number": 82,
+      "arabic": "وَٱلَّذِیۤ أَطۡمَعُ أَن یَغۡفِرَ لِی خَطِیۤـَٔتِی یَوۡمَ ٱلدِّینِ\n",
+      "english": "And who I aspire that He will forgive me my sin on the Day of Recompense.\"",
+      "hindi": "और वह वही है जिससे मै उम्मीद रखता हूँ कि क़यामत के दिन मेरी ख़ताओं को बख्श देगा"
+    },
+    {
+      "verse_number": 83,
+      "arabic": "رَبِّ هَبۡ لِی حُكۡمࣰا وَأَلۡحِقۡنِی بِٱلصَّـٰلِحِینَ\n",
+      "english": "[And he said], \"My Lord, grant me authority and join me with the righteous.",
+      "hindi": "परवरदिगार मुझे इल्म व फहम अता फरमा और मुझे नेकों के साथ शामिल कर"
+    },
+    {
+      "verse_number": 84,
+      "arabic": "وَٱجۡعَل لِّی لِسَانَ صِدۡقࣲ فِی ٱلۡـَٔاخِرِینَ\n",
+      "english": "And grant me a reputation of honor among later generations.",
+      "hindi": "और आइन्दा आने वाली नस्लों में मेरा ज़िक्रे ख़ैर क़ायम रख"
+    },
+    {
+      "verse_number": 85,
+      "arabic": "وَٱجۡعَلۡنِی مِن وَرَثَةِ جَنَّةِ ٱلنَّعِیمِ\n",
+      "english": "And place me among the inheritors of the Garden of Pleasure.",
+      "hindi": "और मुझे भी नेअमत के बाग़ (बेहश्त) के वारिसों में से बना"
+    },
+    {
+      "verse_number": 86,
+      "arabic": "وَٱغۡفِرۡ لِأَبِیۤ إِنَّهُۥ كَانَ مِنَ ٱلضَّاۤلِّینَ\n",
+      "english": "And forgive my father. Indeed, he has been of those astray.",
+      "hindi": "और मेरे (मुँह बोले) बाप (चचा आज़र) को बख्श दे क्योंकि वह गुमराहों में से है"
+    },
+    {
+      "verse_number": 87,
+      "arabic": "وَلَا تُخۡزِنِی یَوۡمَ یُبۡعَثُونَ\n",
+      "english": "And do not disgrace me on the Day they are [all] resurrected -",
+      "hindi": "और जिस दिन लोग क़ब्रों से उठाए जाएँगें मुझे रुसवा न करना"
+    },
+    {
+      "verse_number": 88,
+      "arabic": "یَوۡمَ لَا یَنفَعُ مَالࣱ وَلَا بَنُونَ\n",
+      "english": "The Day when there will not benefit [anyone] wealth or children",
+      "hindi": "जिस दिन न तो माल ही कुछ काम आएगा और न लड़के बाले"
+    },
+    {
+      "verse_number": 89,
+      "arabic": "إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبࣲ سَلِیمࣲ\n",
+      "english": "But only one who comes to Allah with a sound heart.\"",
+      "hindi": "मगर जो शख्स ख़ुदा के सामने (गुनाहों से) पाक दिल लिए हुए हाज़िर होगा (वह फायदे में रहेगा)"
+    },
+    {
+      "verse_number": 90,
+      "arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِینَ\n",
+      "english": "And Paradise will be brought near [that Day] to the righteous.",
+      "hindi": "और बेहश्त परहेज़ गारों के क़रीब कर दी जाएगी"
+    },
+    {
+      "verse_number": 91,
+      "arabic": "وَبُرِّزَتِ ٱلۡجَحِیمُ لِلۡغَاوِینَ\n",
+      "english": "And Hellfire will be brought forth for the deviators,",
+      "hindi": "और दोज़ख़ गुमराहों के सामने ज़ाहिर कर दी जाएगी"
+    },
+    {
+      "verse_number": 92,
+      "arabic": "وَقِیلَ لَهُمۡ أَیۡنَ مَا كُنتُمۡ تَعۡبُدُونَ\n",
+      "english": "And it will be said to them, \"Where are those you used to worship",
+      "hindi": "और उन लोगों (अहले जहन्नुम) से पूछा जाएगा कि ख़ुदा को छोड़कर जिनकी तुम परसतिश करते थे (आज) वह कहाँ हैं"
+    },
+    {
+      "verse_number": 93,
+      "arabic": "مِن دُونِ ٱللَّهِ هَلۡ یَنصُرُونَكُمۡ أَوۡ یَنتَصِرُونَ\n",
+      "english": "Other than Allah? Can they help you or help themselves?\"",
+      "hindi": "क्या वह तुम्हारी कुछ मदद कर सकते हैं या वह ख़ुद अपनी आप बाहम मदद कर सकते हैं"
+    },
+    {
+      "verse_number": 94,
+      "arabic": "فَكُبۡكِبُوا۟ فِیهَا هُمۡ وَٱلۡغَاوُۥنَ\n",
+      "english": "So they will be overturned into Hellfire, they and the deviators",
+      "hindi": "फिर वह (माबूद) और गुमराह लोग और शैतान का लशकर"
+    },
+    {
+      "verse_number": 95,
+      "arabic": "وَجُنُودُ إِبۡلِیسَ أَجۡمَعُونَ\n",
+      "english": "And the soldiers of Iblees, all together.",
+      "hindi": "(ग़रज़ सबके सब) जहन्नुम में औधें मुँह ढकेल दिए जाएँगे"
+    },
+    {
+      "verse_number": 96,
+      "arabic": "قَالُوا۟ وَهُمۡ فِیهَا یَخۡتَصِمُونَ\n",
+      "english": "They will say while they dispute therein,",
+      "hindi": "और ये लोग जहन्नुम में बाहम झगड़ा करेंगे और अपने माबूद से कहेंगे"
+    },
+    {
+      "verse_number": 97,
+      "arabic": "تَٱللَّهِ إِن كُنَّا لَفِی ضَلَـٰلࣲ مُّبِینٍ\n",
+      "english": "\"By Allah, we were indeed in manifest error",
+      "hindi": "ख़ुदा की क़सम हम लोग तो यक़ीनन सरीही गुमराही में थे"
+    },
+    {
+      "verse_number": 98,
+      "arabic": "إِذۡ نُسَوِّیكُم بِرَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "When we equated you with the Lord of the worlds.",
+      "hindi": "कि हम तुम को सारे जहाँन के पालने वाले (ख़ुदा) के बराबर समझते रहे"
+    },
+    {
+      "verse_number": 99,
+      "arabic": "وَمَاۤ أَضَلَّنَاۤ إِلَّا ٱلۡمُجۡرِمُونَ\n",
+      "english": "And no one misguided us except the criminals.",
+      "hindi": "और हमको बस (उन) गुनाहगारों ने (जो मुझसे पहले हुए) गुमराह किया"
+    },
+    {
+      "verse_number": 100,
+      "arabic": "فَمَا لَنَا مِن شَـٰفِعِینَ\n",
+      "english": "So now we have no intercessors",
+      "hindi": "तो अब तो न कोई (साहब) मेरी सिफारिश करने वाले हैं"
+    },
+    {
+      "verse_number": 101,
+      "arabic": "وَلَا صَدِیقٍ حَمِیمࣲ\n",
+      "english": "And not a devoted friend.",
+      "hindi": "और न कोई दिलबन्द दोस्त हैं"
+    },
+    {
+      "verse_number": 102,
+      "arabic": "فَلَوۡ أَنَّ لَنَا كَرَّةࣰ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "Then if we only had a return [to the world] and could be of the believers... \"",
+      "hindi": "तो काश हमें अब दुनिया में दोबारा जाने का मौक़ा मिलता तो हम (ज़रुर) ईमान वालों से होते"
+    },
+    {
+      "verse_number": 103,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "इबराहीम के इस किस्से में भी यक़ीनन एक बड़ी इबरत है और इनमें से अक्सर ईमान लाने वाले थे भी नहीं"
+    },
+    {
+      "verse_number": 104,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमे तो शक ही नहीं कि तुम्हारा परवरदिगार (सब पर) ग़ालिब और बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 105,
+      "arabic": "كَذَّبَتۡ قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِینَ\n",
+      "english": "The people of Noah denied the messengers",
+      "hindi": "(यूँ ही) नूह की क़ौम ने पैग़म्बरो को झुठलाया"
+    },
+    {
+      "verse_number": 106,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ\n",
+      "english": "When their brother Noah said to them, \"Will you not fear Allah?",
+      "hindi": "कि जब उनसे उन के भाई नूह ने कहा कि तुम लोग (ख़ुदा से) क्यों नहीं डरते मै तो तुम्हारा यक़ीनी अमानत दार पैग़म्बर हूँ"
+    },
+    {
+      "verse_number": 107,
+      "arabic": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ\n",
+      "english": "Indeed, I am to you a trustworthy messenger.",
+      "hindi": "तुम खुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 108,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "और मैं इस (तबलीग़े रिसालत) पर कुछ उजरत तो माँगता नहीं"
+    },
+    {
+      "verse_number": 109,
+      "arabic": "وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+      "hindi": "मेरी उजरत तो बस सारे जहाँ के पालने वाले ख़ुदा पर है"
+    },
+    {
+      "verse_number": 110,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.\"",
+      "hindi": "तो ख़ुदा से डरो और मेरी इताअत करो वह लोग बोले जब कमीनो मज़दूरों वग़ैरह ने (लालच से) तुम्हारी पैरवी कर ली है"
+    },
+    {
+      "verse_number": 111,
+      "arabic": "۞ قَالُوۤا۟ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ\n",
+      "english": "They said, \"Should we believe you while you are followed by the lowest [class of people]?\"",
+      "hindi": "तो हम तुम पर क्या ईमान लाएं"
+    },
+    {
+      "verse_number": 112,
+      "arabic": "قَالَ وَمَا عِلۡمِی بِمَا كَانُوا۟ یَعۡمَلُونَ\n",
+      "english": "He said, \"And what is my knowledge of what they used to do?",
+      "hindi": "नूह ने कहा ये लोग जो कुछ करते थे मुझे क्या ख़बर (और क्या ग़रज़)"
+    },
+    {
+      "verse_number": 113,
+      "arabic": "إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّیۖ لَوۡ تَشۡعُرُونَ\n",
+      "english": "Their account is only upon my Lord, if you [could] perceive.",
+      "hindi": "इन लोगों का हिसाब तो मेरे परवरदिगार के ज़िम्मे है"
+    },
+    {
+      "verse_number": 114,
+      "arabic": "وَمَاۤ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "And I am not one to drive away the believers.",
+      "hindi": "काश तुम (इतनी) समझ रखते और मै तो ईमानदारों को अपने पास से निकालने वाला नहीं"
+    },
+    {
+      "verse_number": 115,
+      "arabic": "إِنۡ أَنَا۠ إِلَّا نَذِیرࣱ مُّبِینࣱ\n",
+      "english": "I am only a clear warner.\"",
+      "hindi": "मै तो सिर्फ (अज़ाबे ख़ुदा से) साफ साफ डराने वाला हूँ"
+    },
+    {
+      "verse_number": 116,
+      "arabic": "قَالُوا۟ لَىِٕن لَّمۡ تَنتَهِ یَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِینَ\n",
+      "english": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\"",
+      "hindi": "वह लोग कहने लगे ऐ नूह अगर तुम अपनी हरकत से बाज़ न आओगे तो ज़रुर संगसार कर दिए जाओगे"
+    },
+    {
+      "verse_number": 117,
+      "arabic": "قَالَ رَبِّ إِنَّ قَوۡمِی كَذَّبُونِ\n",
+      "english": "He said, \"My Lord, indeed my people have denied me.",
+      "hindi": "नूह ने अर्ज की परवरदिगार मेरी क़ौम ने यक़ीनन मुझे झुठलाया"
+    },
+    {
+      "verse_number": 118,
+      "arabic": "فَٱفۡتَحۡ بَیۡنِی وَبَیۡنَهُمۡ فَتۡحࣰا وَنَجِّنِی وَمَن مَّعِیَ مِنَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "Then judge between me and them with decisive judgement and save me and those with me of the believers.\"",
+      "hindi": "तो अब तू मेरे और इन लोगों के दरमियान एक क़तई फैसला कर दे और मुझे और जो मोमिनीन मेरे साथ हें उनको नजात दे"
+    },
+    {
+      "verse_number": 119,
+      "arabic": "فَأَنجَیۡنَـٰهُ وَمَن مَّعَهُۥ فِی ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ\n",
+      "english": "So We saved him and those with him in the laden ship.",
+      "hindi": "ग़रज़ हमने नूह और उनके साथियों को जो भरी हुई कश्ती में थे नजात दी"
+    },
+    {
+      "verse_number": 120,
+      "arabic": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِینَ\n",
+      "english": "Then We drowned thereafter the remaining ones.",
+      "hindi": "फिर उसके बाद हमने बाक़ी लोगों को ग़रक कर दिया"
+    },
+    {
+      "verse_number": 121,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "बेशक इसमे भी यक़ीनन बड़ी इबरत है और उनमें से बहुतेरे ईमान लाने वाले ही न थे"
+    },
+    {
+      "verse_number": 122,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमें तो शक ही नहीं कि तुम्हारा परवरदिगार (सब पर) ग़ालिब मेहरबान है"
+    },
+    {
+      "verse_number": 123,
+      "arabic": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِینَ\n",
+      "english": "'Aad denied the messengers",
+      "hindi": "(इसी तरह क़ौम) आद ने पैग़म्बरों को झुठलाया"
+    },
+    {
+      "verse_number": 124,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ هُودٌ أَلَا تَتَّقُونَ\n",
+      "english": "When their brother Hud said to them, \"Will you not fear Allah?",
+      "hindi": "जब उनके भाई हूद ने उनसे कहा कि तुम ख़ुदा से क्यों नही डरते"
+    },
+    {
+      "verse_number": 125,
+      "arabic": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ\n",
+      "english": "Indeed, I am to you a trustworthy messenger.",
+      "hindi": "मैं तो यक़ीनन तुम्हारा अमानतदार पैग़म्बर हूँ"
+    },
+    {
+      "verse_number": 126,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "तो ख़ुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 127,
+      "arabic": "وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+      "hindi": "मै तो तुम से इस (तबलीग़े रिसालत) पर कुछ मज़दूरी भी नहीं माँगता मेरी उजरत तो बस सारी ख़ुदायी के पालने वाले (ख़ुदा) पर है"
+    },
+    {
+      "verse_number": 128,
+      "arabic": "أَتَبۡنُونَ بِكُلِّ رِیعٍ ءَایَةࣰ تَعۡبَثُونَ\n",
+      "english": "Do you construct on every elevation a sign, amusing yourselves,",
+      "hindi": "तो क्या तुम ऊँची जगह पर बेकार यादगारे बनाते फिरते हो"
+    },
+    {
+      "verse_number": 129,
+      "arabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ\n",
+      "english": "And take for yourselves palaces and fortresses that you might abide eternally?",
+      "hindi": "और बड़े बड़े महल तामीर करते हो गोया तुम हमेशा (यहीं) रहोगे"
+    },
+    {
+      "verse_number": 130,
+      "arabic": "وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِینَ\n",
+      "english": "And when you strike, you strike as tyrants.",
+      "hindi": "और जब तुम (किसी पर) हाथ डालते हो तो सरकशी से हाथ डालते हो"
+    },
+    {
+      "verse_number": 131,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "तो तुम ख़ुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 132,
+      "arabic": "وَٱتَّقُوا۟ ٱلَّذِیۤ أَمَدَّكُم بِمَا تَعۡلَمُونَ\n",
+      "english": "And fear He who provided you with that which you know,",
+      "hindi": "और उस शख्स से डरो जिसने तुम्हारी उन चीज़ों से मदद की जिन्हें तुम खूब जानते हो"
+    },
+    {
+      "verse_number": 133,
+      "arabic": "أَمَدَّكُم بِأَنۡعَـٰمࣲ وَبَنِینَ\n",
+      "english": "Provided you with grazing livestock and children",
+      "hindi": "अच्छा सुनो उसने तुम्हारे चार पायों और लड़के बालों वग़ैरह और चश्मों से मदद की"
+    },
+    {
+      "verse_number": 134,
+      "arabic": "وَجَنَّـٰتࣲ وَعُیُونٍ\n",
+      "english": "And gardens and springs.",
+      "hindi": "मै तो यक़ीनन तुम पर"
+    },
+    {
+      "verse_number": 135,
+      "arabic": "إِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمٍ عَظِیمࣲ\n",
+      "english": "Indeed, I fear for you the punishment of a terrible day.\"",
+      "hindi": "एक बड़े (सख्त) रोज़ के अज़ाब से डरता हूँ"
+    },
+    {
+      "verse_number": 136,
+      "arabic": "قَالُوا۟ سَوَاۤءٌ عَلَیۡنَاۤ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَ ٰ⁠عِظِینَ\n",
+      "english": "They said, \"It is all the same to us whether you advise or are not of the advisors.",
+      "hindi": "वह लोग कहने लगे ख्वाह तुम नसीहत करो या न नसीहत करो हमारे वास्ते (सब) बराबर है"
+    },
+    {
+      "verse_number": 137,
+      "arabic": "إِنۡ هَـٰذَاۤ إِلَّا خُلُقُ ٱلۡأَوَّلِینَ\n",
+      "english": "This is not but the custom of the former peoples,",
+      "hindi": "ये (डरावा) तो बस अगले लोगों की आदत है"
+    },
+    {
+      "verse_number": 138,
+      "arabic": "وَمَا نَحۡنُ بِمُعَذَّبِینَ\n",
+      "english": "And we are not to be punished.\"",
+      "hindi": "हालाँकि हम पर अज़ाब (वग़ैरह अब) किया नहीं जाएगा"
+    },
+    {
+      "verse_number": 139,
+      "arabic": "فَكَذَّبُوهُ فَأَهۡلَكۡنَـٰهُمۡۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "And they denied him, so We destroyed them. Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "ग़रज़ उन लोगों ने हूद को झुठला दिया तो हमने भी उनको हलाक कर डाला बेशक इस वाक़िये में यक़ीनी एक बड़ी इबरत है आर उनमें से बहुतेरे ईमान लाने वाले भी न थे"
+    },
+    {
+      "verse_number": 140,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमें शक नहीं कि तुम्हारा परवरदिगार यक़ीनन (सब पर) ग़ालिब (और) बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 141,
+      "arabic": "كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِینَ\n",
+      "english": "Thamud denied the messengers",
+      "hindi": "(इसी तरह क़ौम) समूद ने पैग़म्बरों को झुठलाया"
+    },
+    {
+      "verse_number": 142,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ صَـٰلِحٌ أَلَا تَتَّقُونَ\n",
+      "english": "When their brother Salih said to them, \"Will you not fear Allah?",
+      "hindi": "जब उनके भाई सालेह ने उनसे कहा कि तुम (ख़ुदा से) क्यो नहीं डरते"
+    },
+    {
+      "verse_number": 143,
+      "arabic": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ\n",
+      "english": "Indeed, I am to you a trustworthy messenger.",
+      "hindi": "मैं तो यक़ीनन तुम्हारा अमानतदार पैग़म्बर हूँ"
+    },
+    {
+      "verse_number": 144,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "तो खुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 145,
+      "arabic": "وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+      "hindi": "और मै तो तुमसे इस (तबलीगे रिसालत) पर कुछ मज़दूरी भी नहीं माँगता- मेरी मज़दूरी तो बस सारी ख़ुदाई के पालने वाले (ख़ुदा पर है)"
+    },
+    {
+      "verse_number": 146,
+      "arabic": "أَتُتۡرَكُونَ فِی مَا هَـٰهُنَاۤ ءَامِنِینَ\n",
+      "english": "Will you be left in what is here, secure [from death],",
+      "hindi": "क्या जो चीजें यहाँ (दुनिया में) मौजूद है"
+    },
+    {
+      "verse_number": 147,
+      "arabic": "فِی جَنَّـٰتࣲ وَعُیُونࣲ\n",
+      "english": "Within gardens and springs",
+      "hindi": "बाग़ और चश्में और खेतिया और छुहारे जिनकी कलियाँ लतीफ़ व नाज़ुक होती है"
+    },
+    {
+      "verse_number": 148,
+      "arabic": "وَزُرُوعࣲ وَنَخۡلࣲ طَلۡعُهَا هَضِیمࣱ\n",
+      "english": "And fields of crops and palm trees with softened fruit?",
+      "hindi": "उन्हीं मे तुम लोग इतमिनान से (हमेशा के लिए) छोड़ दिए जाओगे"
+    },
+    {
+      "verse_number": 149,
+      "arabic": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُیُوتࣰا فَـٰرِهِینَ\n",
+      "english": "And you carve out of the mountains, homes, with skill.",
+      "hindi": "और (इस वजह से) पूरी महारत और तकलीफ के साथ पहाड़ों को काट काट कर घर बनाते हो"
+    },
+    {
+      "verse_number": 150,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "तो ख़ुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 151,
+      "arabic": "وَلَا تُطِیعُوۤا۟ أَمۡرَ ٱلۡمُسۡرِفِینَ\n",
+      "english": "And do not obey the order of the transgressors,",
+      "hindi": "और ज्यादती करने वालों का कहा न मानों"
+    },
+    {
+      "verse_number": 152,
+      "arabic": "ٱلَّذِینَ یُفۡسِدُونَ فِی ٱلۡأَرۡضِ وَلَا یُصۡلِحُونَ\n",
+      "english": "Who cause corruption in the land and do not amend.\"",
+      "hindi": "जो रुए ज़मीन पर फ़साद फैलाया करते हैं और (ख़राबियों की) इसलाह नहीं करते"
+    },
+    {
+      "verse_number": 153,
+      "arabic": "قَالُوۤا۟ إِنَّمَاۤ أَنتَ مِنَ ٱلۡمُسَحَّرِینَ\n",
+      "english": "They said, \"You are only of those affected by magic.",
+      "hindi": "वह लोग बोले कि तुम पर तो बस जादू कर दिया गया है (कि ऐसी बातें करते हो)"
+    },
+    {
+      "verse_number": 154,
+      "arabic": "مَاۤ أَنتَ إِلَّا بَشَرࣱ مِّثۡلُنَا فَأۡتِ بِـَٔایَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ\n",
+      "english": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\"",
+      "hindi": "तुम भी तो आख़िर हमारे ही ऐसे आदमी हो पस अगर तुम सच्चे हो तो कोई मौजिज़ा हमारे पास ला (दिखाओ)"
+    },
+    {
+      "verse_number": 155,
+      "arabic": "قَالَ هَـٰذِهِۦ نَاقَةࣱ لَّهَا شِرۡبࣱ وَلَكُمۡ شِرۡبُ یَوۡمࣲ مَّعۡلُومࣲ\n",
+      "english": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.",
+      "hindi": "सालेह ने कहा- यही ऊँटनी (मौजिज़ा) है एक बारी इसके पानी पीने की है और एक मुक़र्रर दिन तुम्हारे पीने का"
+    },
+    {
+      "verse_number": 156,
+      "arabic": "وَلَا تَمَسُّوهَا بِسُوۤءࣲ فَیَأۡخُذَكُمۡ عَذَابُ یَوۡمٍ عَظِیمࣲ\n",
+      "english": "And do not touch her with harm, lest you be seized by the punishment of a terrible day.\"",
+      "hindi": "और इसको कोई तकलीफ़ न पहुँचाना वरना एक बड़े (सख्त) ज़ोर का अज़ाब तुम्हे ले डालेगा"
+    },
+    {
+      "verse_number": 157,
+      "arabic": "فَعَقَرُوهَا فَأَصۡبَحُوا۟ نَـٰدِمِینَ\n",
+      "english": "But they hamstrung her and so became regretful.",
+      "hindi": "इस पर भी उन लोगों ने उसके पाँव काट डाले और (उसको मार डाला) फिर ख़़ुद पशेमान हुए"
+    },
+    {
+      "verse_number": 158,
+      "arabic": "فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "फिर उन्हें अज़ाब ने ले डाला-बेशक इसमें यक़ीनन एक बड़ी इबरत है और इनमें के बहुतेरे ईमान लाने वाले भी न थे"
+    },
+    {
+      "verse_number": 159,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमें शक ही नहीं कि तुम्हारा परवरदिगार (सब पर) ग़ालिब और मेहरबान है"
+    },
+    {
+      "verse_number": 160,
+      "arabic": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِینَ\n",
+      "english": "The people of Lot denied the messengers",
+      "hindi": "इसी तरह लूत की क़ौम ने पैग़म्बरों को झुठलाया"
+    },
+    {
+      "verse_number": 161,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا تَتَّقُونَ\n",
+      "english": "When their brother Lot said to them, \"Will you not fear Allah?",
+      "hindi": "जब उनके भाई लूत ने उनसे कहा कि तुम (ख़ुदा से) क्यों नहीं डरते"
+    },
+    {
+      "verse_number": 162,
+      "arabic": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ\n",
+      "english": "Indeed, I am to you a trustworthy messenger.",
+      "hindi": "मै तो यक़ीनन तुम्हारा अमानतदार पैग़म्बर हूँ तो ख़ुदा से डरो"
+    },
+    {
+      "verse_number": 163,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 164,
+      "arabic": "وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+      "hindi": "और मै तो तुमसे इस (तबलीगे रिसालत) पर कुछ मज़दूरी भी नहीं माँगता मेरी मज़दूरी तो बस सारी ख़ुदायी के पालने वाले (ख़ुदा) पर है"
+    },
+    {
+      "verse_number": 165,
+      "arabic": "أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَـٰلَمِینَ\n",
+      "english": "Do you approach males among the worlds",
+      "hindi": "क्या तुम लोग (शहवत परस्ती के लिए) सारे जहाँ के लोगों में मर्दों ही के पास जाते हो"
+    },
+    {
+      "verse_number": 166,
+      "arabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَ ٰ⁠جِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ\n",
+      "english": "And leave what your Lord has created for you as mates? But you are a people transgressing.\"",
+      "hindi": "और तुम्हारे वास्ते जो बीवियाँ तुम्हारे परवरदिगार ने पैदा की है उन्हें छोड़ देते हो (ये कुछ नहीं) बल्कि तुम लोग हद से गुज़र जाने वाले आदमी हो"
+    },
+    {
+      "verse_number": 167,
+      "arabic": "قَالُوا۟ لَىِٕن لَّمۡ تَنتَهِ یَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِینَ\n",
+      "english": "They said, \"If you do not desist, O Lot, you will surely be of those evicted.\"",
+      "hindi": "उन लोगों ने कहा ऐ लूत अगर तुम बाज़ न आओगे तो तुम ज़रुर निकल बाहर कर दिए जाओगे"
+    },
+    {
+      "verse_number": 168,
+      "arabic": "قَالَ إِنِّی لِعَمَلِكُم مِّنَ ٱلۡقَالِینَ\n",
+      "english": "He said, \"Indeed, I am, toward your deed, of those who detest [it].",
+      "hindi": "लूत ने कहा मै यक़ीनन तुम्हारी (नाशाइसता) हरकत से बेज़ार हूँ"
+    },
+    {
+      "verse_number": 169,
+      "arabic": "رَبِّ نَجِّنِی وَأَهۡلِی مِمَّا یَعۡمَلُونَ\n",
+      "english": "My Lord, save me and my family from [the consequence of] what they do.\"",
+      "hindi": "(और दुआ की) परवरदिगार जो कुछ ये लोग करते है उससे मुझे और मेरे लड़कों को नजात दे"
+    },
+    {
+      "verse_number": 170,
+      "arabic": "فَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ\n",
+      "english": "So We saved him and his family, all,",
+      "hindi": "तो हमने उनको और उनके सब लड़कों को नजात दी"
+    },
+    {
+      "verse_number": 171,
+      "arabic": "إِلَّا عَجُوزࣰا فِی ٱلۡغَـٰبِرِینَ\n",
+      "english": "Except an old woman among those who remained behind.",
+      "hindi": "मगर (लूत की) बूढ़ी औरत कि वह पीछे रह गयी"
+    },
+    {
+      "verse_number": 172,
+      "arabic": "ثُمَّ دَمَّرۡنَا ٱلۡـَٔاخَرِینَ\n",
+      "english": "Then We destroyed the others.",
+      "hindi": "(और हलाक हो गयी) फिर हमने उन लोगों को हलाक कर डाला"
+    },
+    {
+      "verse_number": 173,
+      "arabic": "وَأَمۡطَرۡنَا عَلَیۡهِم مَّطَرࣰاۖ فَسَاۤءَ مَطَرُ ٱلۡمُنذَرِینَ\n",
+      "english": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned.",
+      "hindi": "और उन पर हमने (पत्थरों का) मेंह बरसाया तो जिन लोगों को (अज़ाबे ख़ुदा से) डराया गया था"
+    },
+    {
+      "verse_number": 174,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "उन पर क्या बड़ी बारिश हुई इस वाक़िये में भी एक बड़ी इबरत है और इनमें से बहुतेरे ईमान लाने वाले ही न थे"
+    },
+    {
+      "verse_number": 175,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और इसमे तो शक ही नहीं कि तुम्हारा परवरदिगार यक़ीनन सब पर ग़ालिब (और) बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 176,
+      "arabic": "كَذَّبَ أَصۡحَـٰبُ لۡـَٔیۡكَةِ ٱلۡمُرۡسَلِینَ\n",
+      "english": "The companions of the thicket denied the messengers",
+      "hindi": "इसी तरह जंगल के रहने वालों ने (मेरे) पैग़म्बरों को झुठलाया"
+    },
+    {
+      "verse_number": 177,
+      "arabic": "إِذۡ قَالَ لَهُمۡ شُعَیۡبٌ أَلَا تَتَّقُونَ\n",
+      "english": "When Shu'ayb said to them, \"Will you not fear Allah?",
+      "hindi": "जब शुएब ने उनसे कहा कि तुम (ख़ुदा से) क्यों नहीं डरते"
+    },
+    {
+      "verse_number": 178,
+      "arabic": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ\n",
+      "english": "Indeed, I am to you a trustworthy messenger.",
+      "hindi": "मै तो बिला शुबाह तुम्हारा अमानदार हूँ"
+    },
+    {
+      "verse_number": 179,
+      "arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+      "english": "So fear Allah and obey me.",
+      "hindi": "तो ख़ुदा से डरो और मेरी इताअत करो"
+    },
+    {
+      "verse_number": 180,
+      "arabic": "وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+      "hindi": "मै तो तुमसे इस (तबलीग़े रिसालत) पर कुछ मज़दूरी भी नहीं माँगता मेरी मज़दूरी तो बस सारी ख़ुदाई के पालने वाले (ख़ुदा) के ज़िम्मे है"
+    },
+    {
+      "verse_number": 181,
+      "arabic": "۞ أَوۡفُوا۟ ٱلۡكَیۡلَ وَلَا تَكُونُوا۟ مِنَ ٱلۡمُخۡسِرِینَ\n",
+      "english": "Give full measure and do not be of those who cause loss.",
+      "hindi": "तुम (जब कोई चीज़ नाप कर दो तो) पूरा पैमाना दिया करो और नुक़सान (कम देने वाले) न बनो"
+    },
+    {
+      "verse_number": 182,
+      "arabic": "وَزِنُوا۟ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِیمِ\n",
+      "english": "And weigh with an even balance.",
+      "hindi": "और तुम (जब तौलो तो) ठीक तराज़ू से डन्डी सीधी रखकर तौलो"
+    },
+    {
+      "verse_number": 183,
+      "arabic": "وَلَا تَبۡخَسُوا۟ ٱلنَّاسَ أَشۡیَاۤءَهُمۡ وَلَا تَعۡثَوۡا۟ فِی ٱلۡأَرۡضِ مُفۡسِدِینَ\n",
+      "english": "And do not deprive people of their due and do not commit abuse on earth, spreading corruption.",
+      "hindi": "और लोगों को उनकी चीज़े (जो ख़रीदें) कम न ज्यादा करो और ज़मीन से फसाद न फैलाते फिरो"
+    },
+    {
+      "verse_number": 184,
+      "arabic": "وَٱتَّقُوا۟ ٱلَّذِی خَلَقَكُمۡ وَٱلۡجِبِلَّةَ ٱلۡأَوَّلِینَ\n",
+      "english": "And fear He who created you and the former creation.\"",
+      "hindi": "और उस (ख़ुदा) से डरो जिसने तुम्हे और अगली ख़िलकत को पैदा किया"
+    },
+    {
+      "verse_number": 185,
+      "arabic": "قَالُوۤا۟ إِنَّمَاۤ أَنتَ مِنَ ٱلۡمُسَحَّرِینَ\n",
+      "english": "They said, \"You are only of those affected by magic.",
+      "hindi": "वह लोग कहने लगे तुम पर तो बस जादू कर दिया गया है (कि ऐसी बातें करते हों)"
+    },
+    {
+      "verse_number": 186,
+      "arabic": "وَمَاۤ أَنتَ إِلَّا بَشَرࣱ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَـٰذِبِینَ\n",
+      "english": "You are but a man like ourselves, and indeed, we think you are among the liars.",
+      "hindi": "और तुम तो हमारे ही ऐसे एक आदमी हो और हम लोग तो तुमको झूठा ही समझते हैं"
+    },
+    {
+      "verse_number": 187,
+      "arabic": "فَأَسۡقِطۡ عَلَیۡنَا كِسَفࣰا مِّنَ ٱلسَّمَاۤءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ\n",
+      "english": "So cause to fall upon us fragments of the sky, if you should be of the truthful.\"",
+      "hindi": "तो अगर तुम सच्चे हो तो हम पर आसमान का एक टुकड़ा गिरा दो"
+    },
+    {
+      "verse_number": 188,
+      "arabic": "قَالَ رَبِّیۤ أَعۡلَمُ بِمَا تَعۡمَلُونَ\n",
+      "english": "He said, \"My Lord is most knowing of what you do.\"",
+      "hindi": "और शुएब ने कहा जो तुम लोग करते हो मेरा परवरदिगार ख़ूब जानता है"
+    },
+    {
+      "verse_number": 189,
+      "arabic": "فَكَذَّبُوهُ فَأَخَذَهُمۡ عَذَابُ یَوۡمِ ٱلظُّلَّةِۚ إِنَّهُۥ كَانَ عَذَابَ یَوۡمٍ عَظِیمٍ\n",
+      "english": "And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day.",
+      "hindi": "ग़रज़ उन लोगों ने शुएब को झुठलाया तो उन्हें साएबान (अब्र) के अज़ाब ने ले डाला- इसमे शक नहीं कि ये भी एक बड़े (सख्त) दिन का अज़ाब था"
+    },
+    {
+      "verse_number": 190,
+      "arabic": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ\n",
+      "english": "Indeed in that is a sign, but most of them were not to be believers.",
+      "hindi": "इसमे भी शक नहीं कि इसमें (समझदारों के लिए) एक बड़ी इबरत है और उनमें के बहुतेरे ईमान लाने वाले ही न थे"
+    },
+    {
+      "verse_number": 191,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+      "english": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindi": "और बेशक तुम्हारा परवरदिगार यक़ीनन (सब पर) ग़ालिब (और) बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 192,
+      "arabic": "وَإِنَّهُۥ لَتَنزِیلُ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "And indeed, the Qur'an is the revelation of the Lord of the worlds.",
+      "hindi": "और (ऐ रसूल) बेशक ये (क़ुरान) सारी ख़ुदायी के पालने वाले (ख़ुदा) का उतारा हुआ है"
+    },
+    {
+      "verse_number": 193,
+      "arabic": "نَزَلَ بِهِ ٱلرُّوحُ ٱلۡأَمِینُ\n",
+      "english": "The Trustworthy Spirit has brought it down",
+      "hindi": "जिसे रुहुल अमीन (जिबरील) साफ़ अरबी ज़बान में लेकर तुम्हारे दिल पर नाज़िल हुए है"
+    },
+    {
+      "verse_number": 194,
+      "arabic": "عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِینَ\n",
+      "english": "Upon your heart, [O Muhammad] - that you may be of the warners -",
+      "hindi": "ताकि तुम भी और पैग़म्बरों की तरह"
+    },
+    {
+      "verse_number": 195,
+      "arabic": "بِلِسَانٍ عَرَبِیࣲّ مُّبِینࣲ\n",
+      "english": "In a clear Arabic language.",
+      "hindi": "लोगों को अज़ाबे ख़ुदा से डराओ"
+    },
+    {
+      "verse_number": 196,
+      "arabic": "وَإِنَّهُۥ لَفِی زُبُرِ ٱلۡأَوَّلِینَ\n",
+      "english": "And indeed, it is [mentioned] in the scriptures of former peoples.",
+      "hindi": "और बेशक इसकी ख़बर अगले पैग़म्बरों की किताबों मे (भी मौजूद) है"
+    },
+    {
+      "verse_number": 197,
+      "arabic": "أَوَلَمۡ یَكُن لَّهُمۡ ءَایَةً أَن یَعۡلَمَهُۥ عُلَمَـٰۤؤُا۟ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ\n",
+      "english": "And has it not been a sign to them that it is recognized by the scholars of the Children of Israel?",
+      "hindi": "क्या उनके लिए ये कोई (काफ़ी) निशानी नहीं है कि इसको उलेमा बनी इसराइल जानते हैं"
+    },
+    {
+      "verse_number": 198,
+      "arabic": "وَلَوۡ نَزَّلۡنَـٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِینَ\n",
+      "english": "And even if We had revealed it to one among the foreigners",
+      "hindi": "और अगर हम इस क़ुरान को किसी दूसरी ज़बान वाले पर नाज़िल करते"
+    },
+    {
+      "verse_number": 199,
+      "arabic": "فَقَرَأَهُۥ عَلَیۡهِم مَّا كَانُوا۟ بِهِۦ مُؤۡمِنِینَ\n",
+      "english": "And he had recited it to them [perfectly], they would [still] not have been believers in it.",
+      "hindi": "और वह उन अरबो के सामने उसको पढ़ता तो भी ये लोग उस पर ईमान लाने वाले न थे"
+    },
+    {
+      "verse_number": 200,
+      "arabic": "كَذَ ٰ⁠لِكَ سَلَكۡنَـٰهُ فِی قُلُوبِ ٱلۡمُجۡرِمِینَ\n",
+      "english": "Thus have We inserted disbelief into the hearts of the criminals.",
+      "hindi": "इसी तरह हमने (गोया ख़ुद) इस इन्कार को गुनाहगारों के दिलों में राह दी"
+    },
+    {
+      "verse_number": 201,
+      "arabic": "لَا یُؤۡمِنُونَ بِهِۦ حَتَّىٰ یَرَوُا۟ ٱلۡعَذَابَ ٱلۡأَلِیمَ\n",
+      "english": "They will not believe in it until they see the painful punishment.",
+      "hindi": "ये लोग जब तक दर्दनाक अज़ाब को न देख लेगें उस पर ईमान न लाएँगे"
+    },
+    {
+      "verse_number": 202,
+      "arabic": "فَیَأۡتِیَهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ\n",
+      "english": "And it will come to them suddenly while they perceive [it] not.",
+      "hindi": "कि वह यकायक इस हालत में उन पर आ पडेग़ा कि उन्हें ख़बर भी न होगी"
+    },
+    {
+      "verse_number": 203,
+      "arabic": "فَیَقُولُوا۟ هَلۡ نَحۡنُ مُنظَرُونَ\n",
+      "english": "And they will say, \"May we be reprieved?\"",
+      "hindi": "(मगर जब अज़ाब नाज़िल होगा) तो वह लोग कहेंगे कि क्या हमें (इस वक्त क़ुछ) मोहलत मिल सकती है"
+    },
+    {
+      "verse_number": 204,
+      "arabic": "أَفَبِعَذَابِنَا یَسۡتَعۡجِلُونَ\n",
+      "english": "So for Our punishment are they impatient?",
+      "hindi": "तो क्या ये लोग हमारे अज़ाब की जल्दी कर रहे हैं"
+    },
+    {
+      "verse_number": 205,
+      "arabic": "أَفَرَءَیۡتَ إِن مَّتَّعۡنَـٰهُمۡ سِنِینَ\n",
+      "english": "Then have you considered if We gave them enjoyment for years",
+      "hindi": "तो क्या तुमने ग़ौर किया कि अगर हम उनको सालो साल चैन करने दे"
+    },
+    {
+      "verse_number": 206,
+      "arabic": "ثُمَّ جَاۤءَهُم مَّا كَانُوا۟ یُوعَدُونَ\n",
+      "english": "And then there came to them that which they were promised?",
+      "hindi": "उसके बाद जिस (अज़ाब) का उनसे वायदा किया जाता है उनके पास आ पहुँचे"
+    },
+    {
+      "verse_number": 207,
+      "arabic": "مَاۤ أَغۡنَىٰ عَنۡهُم مَّا كَانُوا۟ یُمَتَّعُونَ\n",
+      "english": "They would not be availed by the enjoyment with which they were provided.",
+      "hindi": "तो जिन चीज़ों से ये लोग चैन किया करते थे कुछ भी काम न आएँगी"
+    },
+    {
+      "verse_number": 208,
+      "arabic": "وَمَاۤ أَهۡلَكۡنَا مِن قَرۡیَةٍ إِلَّا لَهَا مُنذِرُونَ\n",
+      "english": "And We did not destroy any city except that it had warners",
+      "hindi": "और हमने किसी बस्ती को बग़ैर उसके हलाक़ नहीं किया कि उसके समझाने को (पहले से) डराने वाले (पैग़म्बर भेज दिए) थे"
+    },
+    {
+      "verse_number": 209,
+      "arabic": "ذِكۡرَىٰ وَمَا كُنَّا ظَـٰلِمِینَ\n",
+      "english": "As a reminder; and never have We been unjust.",
+      "hindi": "और हम ज़ालिम नहीं है"
+    },
+    {
+      "verse_number": 210,
+      "arabic": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّیَـٰطِینُ\n",
+      "english": "And the devils have not brought the revelation down.",
+      "hindi": "और इस क़ुरान को शयातीन लेकर नाज़िल नही हुए"
+    },
+    {
+      "verse_number": 211,
+      "arabic": "وَمَا یَنۢبَغِی لَهُمۡ وَمَا یَسۡتَطِیعُونَ\n",
+      "english": "It is not allowable for them, nor would they be able.",
+      "hindi": "और ये काम न तो उनके लिए मुनासिब था और न वह कर सकते थे"
+    },
+    {
+      "verse_number": 212,
+      "arabic": "إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ\n",
+      "english": "Indeed they, from [its] hearing, are removed.",
+      "hindi": "बल्कि वह तो (वही के) सुनने से महरुम हैं"
+    },
+    {
+      "verse_number": 213,
+      "arabic": "فَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلۡمُعَذَّبِینَ\n",
+      "english": "So do not invoke with Allah another deity and [thus] be among the punished.",
+      "hindi": "(ऐ रसूल) तुम ख़ुदा के साथ किसी दूसरे माबूद की इबादत न करो वरना तुम भी मुबतिलाए अज़ाब किए जाओगे"
+    },
+    {
+      "verse_number": 214,
+      "arabic": "وَأَنذِرۡ عَشِیرَتَكَ ٱلۡأَقۡرَبِینَ\n",
+      "english": "And warn, [O Muhammad], your closest kindred.",
+      "hindi": "और (ऐ रसूल) तुम अपने क़रीबी रिश्तेदारों को (अज़ाबे ख़ुदा से) डराओ"
+    },
+    {
+      "verse_number": 215,
+      "arabic": "وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ\n",
+      "english": "And lower your wing to those who follow you of the believers.",
+      "hindi": "और जो मोमिनीन तुम्हारे पैरो हो गए हैं उनके सामने अपना बाजू झुकाओ"
+    },
+    {
+      "verse_number": 216,
+      "arabic": "فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّی بَرِیۤءࣱ مِّمَّا تَعۡمَلُونَ\n",
+      "english": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\"",
+      "hindi": "(तो वाज़ेए करो) पस अगर लोग तुम्हारी नाफ़रमानी करें तो तुम (साफ साफ) कह दो कि मैं तुम्हारे करतूतों से बरी उज़ ज़िम्मा हूँ"
+    },
+    {
+      "verse_number": 217,
+      "arabic": "وَتَوَكَّلۡ عَلَى ٱلۡعَزِیزِ ٱلرَّحِیمِ\n",
+      "english": "And rely upon the Exalted in Might, the Merciful,",
+      "hindi": "और तुम उस (ख़ुदा) पर जो सबसे (ग़ालिब और) मेहरबान है"
+    },
+    {
+      "verse_number": 218,
+      "arabic": "ٱلَّذِی یَرَىٰكَ حِینَ تَقُومُ\n",
+      "english": "Who sees you when you arise",
+      "hindi": "भरोसा रखो कि जब तुम (नमाजे तहज्जुद में) खड़े होते हो"
+    },
+    {
+      "verse_number": 219,
+      "arabic": "وَتَقَلُّبَكَ فِی ٱلسَّـٰجِدِینَ\n",
+      "english": "And your movement among those who prostrate.",
+      "hindi": "और सजदा"
+    },
+    {
+      "verse_number": 220,
+      "arabic": "إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n",
+      "english": "Indeed, He is the Hearing, the Knowing.",
+      "hindi": "करने वालों (की जमाअत) में तुम्हारा फिरना (उठना बैठना सजदा रुकूउ वगैरह सब) देखता है"
+    },
+    {
+      "verse_number": 221,
+      "arabic": "هَلۡ أُنَبِّئُكُمۡ عَلَىٰ مَن تَنَزَّلُ ٱلشَّیَـٰطِینُ\n",
+      "english": "Shall I inform you upon whom the devils descend?",
+      "hindi": "बेशक वह बड़ा सुनने वाला वाक़िफ़कार है क्या मै तुम्हें बता दूँ कि शयातीन किन लोगों पर नाज़िल हुआ करते हैं"
+    },
+    {
+      "verse_number": 222,
+      "arabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِیمࣲ\n",
+      "english": "They descend upon every sinful liar.",
+      "hindi": "(लो सुनो) ये लोग झूठे बद किरदार पर नाज़िल हुआ करते हैं"
+    },
+    {
+      "verse_number": 223,
+      "arabic": "یُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَـٰذِبُونَ\n",
+      "english": "They pass on what is heard, and most of them are liars.",
+      "hindi": "जो (फ़रिश्तों की बातों पर कान लगाए रहते हैं) कि कुछ सुन पाएँ"
+    },
+    {
+      "verse_number": 224,
+      "arabic": "وَٱلشُّعَرَاۤءُ یَتَّبِعُهُمُ ٱلۡغَاوُۥنَ\n",
+      "english": "And the poets - [only] the deviators follow them;",
+      "hindi": "हालाँकि उनमें के अक्सर तो (बिल्कुल) झूठे हैं और शायरों की पैरवी तो गुमराह लोग किया करते हैं"
+    },
+    {
+      "verse_number": 225,
+      "arabic": "أَلَمۡ تَرَ أَنَّهُمۡ فِی كُلِّ وَادࣲ یَهِیمُونَ\n",
+      "english": "Do you not see that in every valley they roam",
+      "hindi": "क्या तुम नहीं देखते कि ये लोग जंगल जंगल सरगिरदॉ मारे मारे फिरते हैं"
+    },
+    {
+      "verse_number": 226,
+      "arabic": "وَأَنَّهُمۡ یَقُولُونَ مَا لَا یَفۡعَلُونَ\n",
+      "english": "And that they say what they do not do? -",
+      "hindi": "और ये लोग ऐसी बाते कहते हैं जो कभी करते नहीं"
+    },
+    {
+      "verse_number": 227,
+      "arabic": "إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِیرࣰا وَٱنتَصَرُوا۟ مِنۢ بَعۡدِ مَا ظُلِمُوا۟ۗ وَسَیَعۡلَمُ ٱلَّذِینَ ظَلَمُوۤا۟ أَیَّ مُنقَلَبࣲ یَنقَلِبُونَ\n",
+      "english": "Except those [poets] who believe and do righteous deeds and remember Allah often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned.",
+      "hindi": "मगर (हाँ) जिन लोगों ने ईमान क़ुबूल किया और अच्छे अच्छे काम किए और क़सरत से ख़ुदा का ज़िक्र किया करते हैं और जब उन पर ज़ुल्म किया जा चुका उसके बाद उन्होंनें बदला लिया और जिन लोगों ने ज़ुल्म किया है उन्हें अनक़रीब ही मालूम हो जाएगा कि वह किस जगह लौटाए जाएँगें"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": 92,
+  "name_simple": "Al-Layl",
+  "name_arabic": "الليل",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلَّیۡلِ إِذَا یَغۡشَىٰ\n",
+      "english": "By the night when it covers",
+      "hindi": "रात की क़सम जब (सूरज को) छिपा ले"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ\n",
+      "english": "And [by] the day when it appears",
+      "hindi": "और दिन की क़सम जब ख़ूब रौशन हो"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰۤ\n",
+      "english": "And [by] He who created the male and female,",
+      "hindi": "और उस (ज़ात) की जिसने नर व मादा को पैदा किया"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "إِنَّ سَعۡیَكُمۡ لَشَتَّىٰ\n",
+      "english": "Indeed, your efforts are diverse.",
+      "hindi": "कि बेशक तुम्हारी कोशिश तरह तरह की है"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ\n",
+      "english": "As for he who gives and fears Allah",
+      "hindi": "तो जिसने सख़ावत की और अच्छी बात (इस्लाम) की तस्दीक़ की"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ\n",
+      "english": "And believes in the best [reward],",
+      "hindi": "तो हम उसके लिए राहत व आसानी"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "فَسَنُیَسِّرُهُۥ لِلۡیُسۡرَىٰ\n",
+      "english": "We will ease him toward ease.",
+      "hindi": "(जन्नत) के असबाब मुहय्या कर देंगे"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ\n",
+      "english": "But as for he who withholds and considers himself free of need",
+      "hindi": "और जिसने बुख्ल किया, और बेपरवाई की"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ\n",
+      "english": "And denies the best [reward],",
+      "hindi": "और अच्छी बात को झुठलाया"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "فَسَنُیَسِّرُهُۥ لِلۡعُسۡرَىٰ\n",
+      "english": "We will ease him toward difficulty.",
+      "hindi": "तो हम उसे सख्ती (जहन्नुम) में पहुँचा देंगे"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "وَمَا یُغۡنِی عَنۡهُ مَالُهُۥۤ إِذَا تَرَدَّىٰۤ\n",
+      "english": "And what will his wealth avail him when he falls?",
+      "hindi": "और जब वह हलाक होगा तो उसका माल उसके कुछ भी काम न आएगा"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "إِنَّ عَلَیۡنَا لَلۡهُدَىٰ\n",
+      "english": "Indeed, [incumbent] upon Us is guidance.",
+      "hindi": "हमें राह दिखा देना ज़रूर है"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "وَإِنَّ لَنَا لَلۡـَٔاخِرَةَ وَٱلۡأُولَىٰ\n",
+      "english": "And indeed, to Us belongs the Hereafter and the first [life].",
+      "hindi": "और आख़ेरत और दुनिया (दोनों) ख़ास हमारी चीज़े हैं"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "فَأَنذَرۡتُكُمۡ نَارࣰا تَلَظَّىٰ\n",
+      "english": "So I have warned you of a Fire which is blazing.",
+      "hindi": "तो हमने तुम्हें भड़कती हुई आग से डरा दिया"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "لَا یَصۡلَىٰهَاۤ إِلَّا ٱلۡأَشۡقَى\n",
+      "english": "None will [enter to] burn therein except the most wretched one.",
+      "hindi": "उसमें बस वही दाख़िल होगा जो बड़ा बदबख्त है"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "ٱلَّذِی كَذَّبَ وَتَوَلَّىٰ\n",
+      "english": "Who had denied and turned away.",
+      "hindi": "जिसने झुठलाया और मुँह फेर लिया और जो बड़ा परहेज़गार है"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "وَسَیُجَنَّبُهَا ٱلۡأَتۡقَى\n",
+      "english": "But the righteous one will avoid it -",
+      "hindi": "वह उससे बचा लिया जाएगा"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ\n",
+      "english": "[He] who gives [from] his wealth to purify himself",
+      "hindi": "जो अपना माल (ख़ुदा की राह) में देता है ताकि पाक हो जाए"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةࣲ تُجۡزَىٰۤ\n",
+      "english": "And not [giving] for anyone who has [done him] a favor to be rewarded",
+      "hindi": "और लुत्फ ये है कि किसी का उस पर कोई एहसान नहीं जिसका उसे बदला दिया जाता है"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "إِلَّا ٱبۡتِغَاۤءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ\n",
+      "english": "But only seeking the countenance of his Lord, Most High.",
+      "hindi": "बल्कि (वह तो) सिर्फ अपने आलीशान परवरदिगार की ख़ुशनूदी हासिल करने के लिए (देता है)"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "وَلَسَوۡفَ یَرۡضَىٰ\n",
+      "english": "And he is going to be satisfied.",
+      "hindi": "और वह अनक़रीब भी ख़ुश हो जाएगा"
+    }
+  ]
+}

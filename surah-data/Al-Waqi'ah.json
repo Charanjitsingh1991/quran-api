@@ -1,0 +1,583 @@
+{
+  "id": 56,
+  "name_simple": "Al-Waqi'ah",
+  "name_arabic": "الواقعة",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ\n",
+      "english": "When the Occurrence occurs,",
+      "hindi": "जब क़यामत बरपा होगी और उसके वाक़िया होने में ज़रा झूट नहीं"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "لَیۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ\n",
+      "english": "There is, at its occurrence, no denial.",
+      "hindi": "उस वक्त लोगों में फ़र्क ज़ाहिर होगा"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "خَافِضَةࣱ رَّافِعَةٌ\n",
+      "english": "It will bring down [some] and raise up [others].",
+      "hindi": "कि किसी को पस्त करेगी किसी को बुलन्द"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجࣰّا\n",
+      "english": "When the earth is shaken with convulsion",
+      "hindi": "जब ज़मीन बड़े ज़ोरों में हिलने लगेगी"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَبُسَّتِ ٱلۡجِبَالُ بَسࣰّا\n",
+      "english": "And the mountains are broken down, crumbling",
+      "hindi": "और पहाड़ (टकरा कर) बिल्कुल चूर चूर हो जाएँगे"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "فَكَانَتۡ هَبَاۤءࣰ مُّنۢبَثࣰّا\n",
+      "english": "And become dust dispersing.",
+      "hindi": "फिर ज़र्रे बन कर उड़ने लगेंगे"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "وَكُنتُمۡ أَزۡوَ ٰ⁠جࣰا ثَلَـٰثَةࣰ\n",
+      "english": "And you become [of] three kinds:",
+      "hindi": "और तुम लोग तीन किस्म हो जाओगे"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "فَأَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ مَاۤ أَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ\n",
+      "english": "Then the companions of the right - what are the companions of the right?",
+      "hindi": "तो दाहिने हाथ (में आमाल नामा लेने) वाले (वाह) दाहिने हाथ वाले क्या (चैन में) हैं"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "وَأَصۡحَـٰبُ ٱلۡمَشۡـَٔمَةِ مَاۤ أَصۡحَـٰبُ ٱلۡمَشۡـَٔمَةِ\n",
+      "english": "And the companions of the left - what are the companions of the left?",
+      "hindi": "और बाएं हाथ (में आमाल नामा लेने) वाले (अफ़सोस) बाएं हाथ वाले क्या (मुसीबत में) हैं"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ\n",
+      "english": "And the forerunners, the forerunners -",
+      "hindi": "और जो आगे बढ़ जाने वाले हैं (वाह क्या कहना) वह आगे ही बढ़ने वाले थे"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "أُو۟لَـٰۤىِٕكَ ٱلۡمُقَرَّبُونَ\n",
+      "english": "Those are the ones brought near [to Allah]",
+      "hindi": "यही लोग (ख़ुदा के) मुक़र्रिब हैं"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "فِی جَنَّـٰتِ ٱلنَّعِیمِ\n",
+      "english": "In the Gardens of Pleasure,",
+      "hindi": "आराम व आसाइश के बाग़ों में बहुत से"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "ثُلَّةࣱ مِّنَ ٱلۡأَوَّلِینَ\n",
+      "english": "A [large] company of the former peoples",
+      "hindi": "तो अगले लोगों में से होंगे"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "وَقَلِیلࣱ مِّنَ ٱلۡـَٔاخِرِینَ\n",
+      "english": "And a few of the later peoples,",
+      "hindi": "और कुछ थोडे से पिछले लोगों में से मोती"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "عَلَىٰ سُرُرࣲ مَّوۡضُونَةࣲ\n",
+      "english": "On thrones woven [with ornament],",
+      "hindi": "और याक़ूत से जड़े हुए सोने के तारों से बने हुए"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "مُّتَّكِـِٔینَ عَلَیۡهَا مُتَقَـٰبِلِینَ\n",
+      "english": "Reclining on them, facing each other.",
+      "hindi": "तख्ते पर एक दूसरे के सामने तकिए लगाए (बैठे) होंगे"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "یَطُوفُ عَلَیۡهِمۡ وِلۡدَ ٰ⁠نࣱ مُّخَلَّدُونَ\n",
+      "english": "There will circulate among them young boys made eternal",
+      "hindi": "नौजवान लड़के जो (बेहिश्त में) हमेशा (लड़के ही बने) रहेंगे"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "بِأَكۡوَابࣲ وَأَبَارِیقَ وَكَأۡسࣲ مِّن مَّعِینࣲ\n",
+      "english": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+      "hindi": "(शरबत वग़ैरह के) सागर और चमकदार टोंटीदार कंटर और शफ्फ़ाफ़ शराब के जाम लिए हुए उनके पास चक्कर लगाते होंगे"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "لَّا یُصَدَّعُونَ عَنۡهَا وَلَا یُنزِفُونَ\n",
+      "english": "No headache will they have therefrom, nor will they be intoxicated -",
+      "hindi": "जिसके (पीने) से न तो उनको (ख़ुमार से) दर्दसर होगा और न वह बदहवास मदहोश होंगे"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "وَفَـٰكِهَةࣲ مِّمَّا یَتَخَیَّرُونَ\n",
+      "english": "And fruit of what they select",
+      "hindi": "और जिस क़िस्म के मेवे पसन्द करें"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "وَلَحۡمِ طَیۡرࣲ مِّمَّا یَشۡتَهُونَ\n",
+      "english": "And the meat of fowl, from whatever they desire.",
+      "hindi": "और जिस क़िस्म के परिन्दे का गोश्त उनका जी चाहे (सब मौजूद है)"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "وَحُورٌ عِینࣱ\n",
+      "english": "And [for them are] fair women with large, [beautiful] eyes,",
+      "hindi": "और बड़ी बड़ी ऑंखों वाली हूरें"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "كَأَمۡثَـٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ\n",
+      "english": "The likenesses of pearls well-protected,",
+      "hindi": "जैसे एहतेयात से रखे हुए मोती"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ\n",
+      "english": "As reward for what they used to do.",
+      "hindi": "ये बदला है उनके (नेक) आमाल का"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "لَا یَسۡمَعُونَ فِیهَا لَغۡوࣰا وَلَا تَأۡثِیمًا\n",
+      "english": "They will not hear therein ill speech or commission of sin -",
+      "hindi": "वहाँ न तो बेहूदा बात सुनेंगे और न गुनाह की बात"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "إِلَّا قِیلࣰا سَلَـٰمࣰا سَلَـٰمࣰا\n",
+      "english": "Only a saying: \"Peace, peace.\"",
+      "hindi": "(फहश) बस उनका कलाम सलाम ही सलाम होगा"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "وَأَصۡحَـٰبُ ٱلۡیَمِینِ مَاۤ أَصۡحَـٰبُ ٱلۡیَمِینِ\n",
+      "english": "The companions of the right - what are the companions of the right?",
+      "hindi": "और दाहिने हाथ वाले (वाह) दाहिने हाथ वालों का क्या कहना है"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "فِی سِدۡرࣲ مَّخۡضُودࣲ\n",
+      "english": "[They will be] among lote trees with thorns removed",
+      "hindi": "बे काँटे की बेरो और लदे गुथे हुए"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "وَطَلۡحࣲ مَّنضُودࣲ\n",
+      "english": "And [banana] trees layered [with fruit]",
+      "hindi": "केलों और लम्बी लम्बी छाँव"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "وَظِلࣲّ مَّمۡدُودࣲ\n",
+      "english": "And shade extended",
+      "hindi": "और झरनो के पानी"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "وَمَاۤءࣲ مَّسۡكُوبࣲ\n",
+      "english": "And water poured out",
+      "hindi": "और अनारों"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "وَفَـٰكِهَةࣲ كَثِیرَةࣲ\n",
+      "english": "And fruit, abundant [and varied],",
+      "hindi": "मेवो में होंगें"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "لَّا مَقۡطُوعَةࣲ وَلَا مَمۡنُوعَةࣲ\n",
+      "english": "Neither limited [to season] nor forbidden,",
+      "hindi": "जो न कभी खत्म होंगे और न उनकी कोई रोक टोक"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "وَفُرُشࣲ مَّرۡفُوعَةٍ\n",
+      "english": "And [upon] beds raised high.",
+      "hindi": "और ऊँचे ऊँचे (नरम गद्दो के) फ़र्शों में (मज़े करते) होंगे"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "إِنَّاۤ أَنشَأۡنَـٰهُنَّ إِنشَاۤءࣰ\n",
+      "english": "Indeed, We have produced the women of Paradise in a [new] creation",
+      "hindi": "(उनको) वह हूरें मिलेंगी जिसको हमने नित नया पैदा किया है"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "فَجَعَلۡنَـٰهُنَّ أَبۡكَارًا\n",
+      "english": "And made them virgins,",
+      "hindi": "तो हमने उन्हें कुँवारियाँ प्यारी प्यारी हमजोलियाँ बनाया"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "عُرُبًا أَتۡرَابࣰا\n",
+      "english": "Devoted [to their husbands] and of equal age,",
+      "hindi": "ये सब सामान"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "لِّأَصۡحَـٰبِ ٱلۡیَمِینِ\n",
+      "english": "For the companions of the right [who are]",
+      "hindi": "दाहिने हाथ (में नामए आमाल लेने) वालों के वास्ते है"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "ثُلَّةࣱ مِّنَ ٱلۡأَوَّلِینَ\n",
+      "english": "A company of the former peoples",
+      "hindi": "(इनमें) बहुत से तो अगले लोगों में से"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "وَثُلَّةࣱ مِّنَ ٱلۡـَٔاخِرِینَ\n",
+      "english": "And a company of the later peoples.",
+      "hindi": "और बहुत से पिछले लोगों में से"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "وَأَصۡحَـٰبُ ٱلشِّمَالِ مَاۤ أَصۡحَـٰبُ ٱلشِّمَالِ\n",
+      "english": "And the companions of the left - what are the companions of the left?",
+      "hindi": "और बाएं हाथ (में नामए आमाल लेने) वाले (अफसोस) बाएं हाथ वाले क्या (मुसीबत में) हैं"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "فِی سَمُومࣲ وَحَمِیمࣲ\n",
+      "english": "[They will be] in scorching fire and scalding water",
+      "hindi": "(दोज़ख़ की) लौ और खौलते हुए पानी"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "وَظِلࣲّ مِّن یَحۡمُومࣲ\n",
+      "english": "And a shade of black smoke,",
+      "hindi": "और काले सियाह धुएँ के साये में होंगे"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "لَّا بَارِدࣲ وَلَا كَرِیمٍ\n",
+      "english": "Neither cool nor beneficial.",
+      "hindi": "जो न ठन्डा और न ख़ुश आइन्द"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "إِنَّهُمۡ كَانُوا۟ قَبۡلَ ذَ ٰ⁠لِكَ مُتۡرَفِینَ\n",
+      "english": "Indeed they were, before that, indulging in affluence,",
+      "hindi": "ये लोग इससे पहले (दुनिया में) ख़ूब ऐश उड़ा चुके थे"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "وَكَانُوا۟ یُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِیمِ\n",
+      "english": "And they used to persist in the great violation,",
+      "hindi": "और बड़े गुनाह (शिर्क) पर अड़े रहते थे"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "وَكَانُوا۟ یَقُولُونَ أَىِٕذَا مِتۡنَا وَكُنَّا تُرَابࣰا وَعِظَـٰمًا أَءِنَّا لَمَبۡعُوثُونَ\n",
+      "english": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
+      "hindi": "और कहा करते थे कि भला जब हम मर जाएँगे और (सड़ गल कर) मिटटी और हडिडयाँ (ही हडिडयाँ) रह जाएँगे"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "أَوَءَابَاۤؤُنَا ٱلۡأَوَّلُونَ\n",
+      "english": "And our forefathers [as well]?\"",
+      "hindi": "तो क्या हमें या हमारे अगले बाप दादाओं को फिर उठना है"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "قُلۡ إِنَّ ٱلۡأَوَّلِینَ وَٱلۡـَٔاخِرِینَ\n",
+      "english": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+      "hindi": "(ऐ रसूल) तुम कह दो कि अगले और पिछले"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "لَمَجۡمُوعُونَ إِلَىٰ مِیقَـٰتِ یَوۡمࣲ مَّعۡلُومࣲ\n",
+      "english": "Are to be gathered together for the appointment of a known Day.\"",
+      "hindi": "सब के सब रोजे मुअय्यन की मियाद पर ज़रूर इकट्ठे किए जाएँगे"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "ثُمَّ إِنَّكُمۡ أَیُّهَا ٱلضَّاۤلُّونَ ٱلۡمُكَذِّبُونَ\n",
+      "english": "Then indeed you, O those astray [who are] deniers,",
+      "hindi": "फिर तुमको बेशक ऐ गुमराहों झुठलाने वालों"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "لَـَٔاكِلُونَ مِن شَجَرࣲ مِّن زَقُّومࣲ\n",
+      "english": "Will be eating from trees of zaqqum",
+      "hindi": "यक़ीनन (जहन्नुम में) थोहड़ के दरख्तों में से खाना होगा"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ\n",
+      "english": "And filling with it your bellies",
+      "hindi": "तो तुम लोगों को उसी से (अपना) पेट भरना होगा"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "فَشَـٰرِبُونَ عَلَیۡهِ مِنَ ٱلۡحَمِیمِ\n",
+      "english": "And drinking on top of it from scalding water",
+      "hindi": "फिर उसके ऊपर खौलता हुआ पानी पीना होगा"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "فَشَـٰرِبُونَ شُرۡبَ ٱلۡهِیمِ\n",
+      "english": "And will drink as the drinking of thirsty camels.",
+      "hindi": "और पियोगे भी तो प्यासे ऊँट का सा (डग डगा के) पीना"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "هَـٰذَا نُزُلُهُمۡ یَوۡمَ ٱلدِّینِ\n",
+      "english": "That is their accommodation on the Day of Recompense.",
+      "hindi": "क़यामत के दिन यही उनकी मेहमानी होगी"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "نَحۡنُ خَلَقۡنَـٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ\n",
+      "english": "We have created you, so why do you not believe?",
+      "hindi": "तुम लोगों को (पहली बार भी) हम ही ने पैदा किया है"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "أَفَرَءَیۡتُم مَّا تُمۡنُونَ\n",
+      "english": "Have you seen that which you emit?",
+      "hindi": "फिर तुम लोग (दोबार की) क्यों नहीं तस्दीक़ करते"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "ءَأَنتُمۡ تَخۡلُقُونَهُۥۤ أَمۡ نَحۡنُ ٱلۡخَـٰلِقُونَ\n",
+      "english": "Is it you who creates it, or are We the Creator?",
+      "hindi": "तो जिस नुत्फे क़ो तुम (औरतों के रहम में डालते हो) क्या तुमने देख भाल लिया है क्या तुम उससे आदमी बनाते हो या हम बनाते हैं"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "نَحۡنُ قَدَّرۡنَا بَیۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِینَ\n",
+      "english": "We have decreed death among you, and We are not to be outdone",
+      "hindi": "हमने तुम लोगों में मौत को मुक़र्रर कर दिया है और हम उससे आजिज़ नहीं हैं"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "عَلَىٰۤ أَن نُّبَدِّلَ أَمۡثَـٰلَكُمۡ وَنُنشِئَكُمۡ فِی مَا لَا تَعۡلَمُونَ\n",
+      "english": "In that We will change your likenesses and produce you in that [form] which you do not know.",
+      "hindi": "कि तुम्हारे ऐसे और लोग बदल डालें और तुम लोगों को इस (सूरत) में पैदा करें जिसे तुम मुत्तलक़ नहीं जानते"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ\n",
+      "english": "And you have already known the first creation, so will you not remember?",
+      "hindi": "और तुमने पैहली पैदाइश तो समझ ही ली है (कि हमने की) फिर तुम ग़ौर क्यों नहीं करते"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "أَفَرَءَیۡتُم مَّا تَحۡرُثُونَ\n",
+      "english": "And have you seen that [seed] which you sow?",
+      "hindi": "भला देखो तो कि जो कुछ तुम लोग बोते हो क्या"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "ءَأَنتُمۡ تَزۡرَعُونَهُۥۤ أَمۡ نَحۡنُ ٱلزَّ ٰ⁠رِعُونَ\n",
+      "english": "Is it you who makes it grow, or are We the grower?",
+      "hindi": "तुम लोग उसे उगाते हो या हम उगाते हैं अगर हम चाहते"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "لَوۡ نَشَاۤءُ لَجَعَلۡنَـٰهُ حُطَـٰمࣰا فَظَلۡتُمۡ تَفَكَّهُونَ\n",
+      "english": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
+      "hindi": "तो उसे चूर चूर कर देते तो तुम बातें ही बनाते रह जाते"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "إِنَّا لَمُغۡرَمُونَ\n",
+      "english": "[Saying], \"Indeed, we are [now] in debt;",
+      "hindi": "कि (हाए) हम तो (मुफ्त) तावान में फॅसे (नहीं)"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "بَلۡ نَحۡنُ مَحۡرُومُونَ\n",
+      "english": "Rather, we have been deprived.\"",
+      "hindi": "हम तो बदनसीब हैं"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "أَفَرَءَیۡتُمُ ٱلۡمَاۤءَ ٱلَّذِی تَشۡرَبُونَ\n",
+      "english": "And have you seen the water that you drink?",
+      "hindi": "तो क्या तुमने पानी पर भी नज़र डाली जो (दिन रात) पीते हो"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ\n",
+      "english": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+      "hindi": "क्या उसको बादल से तुमने बरसाया है या हम बरसाते हैं"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "لَوۡ نَشَاۤءُ جَعَلۡنَـٰهُ أُجَاجࣰا فَلَوۡلَا تَشۡكُرُونَ\n",
+      "english": "If We willed, We could make it bitter, so why are you not grateful?",
+      "hindi": "अगर हम चाहें तो उसे खारी बना दें तो तुम लोग यक्र क्यों नहीं करते"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "أَفَرَءَیۡتُمُ ٱلنَّارَ ٱلَّتِی تُورُونَ\n",
+      "english": "And have you seen the fire that you ignite?",
+      "hindi": "तो क्या तुमने आग पर भी ग़ौर किया जिसे तुम लोग लकड़ी से निकालते हो"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَاۤ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ\n",
+      "english": "Is it you who produced its tree, or are We the producer?",
+      "hindi": "क्या उसके दरख्त को तुमने पैदा किया या हम पैदा करते हैं"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "نَحۡنُ جَعَلۡنَـٰهَا تَذۡكِرَةࣰ وَمَتَـٰعࣰا لِّلۡمُقۡوِینَ\n",
+      "english": "We have made it a reminder and provision for the travelers,",
+      "hindi": "हमने आग को (जहन्नुम की) याद देहानी और मुसाफिरों के नफे के (वास्ते पैदा किया)"
+    },
+    {
+      "verse_number": 74,
+      "arabic": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ\n",
+      "english": "So exalt the name of your Lord, the Most Great.",
+      "hindi": "तो (ऐ रसूल) तुम अपने बुज़ुर्ग परवरदिगार की तस्बीह करो"
+    },
+    {
+      "verse_number": 75,
+      "arabic": "۞ فَلَاۤ أُقۡسِمُ بِمَوَ ٰ⁠قِعِ ٱلنُّجُومِ\n",
+      "english": "Then I swear by the setting of the stars,",
+      "hindi": "तो मैं तारों के मनाज़िल की क़सम खाता हूँ"
+    },
+    {
+      "verse_number": 76,
+      "arabic": "وَإِنَّهُۥ لَقَسَمࣱ لَّوۡ تَعۡلَمُونَ عَظِیمٌ\n",
+      "english": "And indeed, it is an oath - if you could know - [most] great.",
+      "hindi": "और अगर तुम समझो तो ये बड़ी क़सम है"
+    },
+    {
+      "verse_number": 77,
+      "arabic": "إِنَّهُۥ لَقُرۡءَانࣱ كَرِیمࣱ\n",
+      "english": "Indeed, it is a noble Qur'an",
+      "hindi": "कि बेशक ये बड़े रूतबे का क़ुरान है"
+    },
+    {
+      "verse_number": 78,
+      "arabic": "فِی كِتَـٰبࣲ مَّكۡنُونࣲ\n",
+      "english": "In a Register well-protected;",
+      "hindi": "जो किताब (लौहे महफूज़) में (लिखा हुआ) है"
+    },
+    {
+      "verse_number": 79,
+      "arabic": "لَّا یَمَسُّهُۥۤ إِلَّا ٱلۡمُطَهَّرُونَ\n",
+      "english": "None touch it except the purified.",
+      "hindi": "इसको बस वही लोग छूते हैं जो पाक हैं"
+    },
+    {
+      "verse_number": 80,
+      "arabic": "تَنزِیلࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ\n",
+      "english": "[It is] a revelation from the Lord of the worlds.",
+      "hindi": "सारे जहाँ के परवरदिगार की तरफ से (मोहम्मद पर) नाज़िल हुआ है"
+    },
+    {
+      "verse_number": 81,
+      "arabic": "أَفَبِهَـٰذَا ٱلۡحَدِیثِ أَنتُم مُّدۡهِنُونَ\n",
+      "english": "Then is it to this statement that you are indifferent",
+      "hindi": "तो क्या तुम लोग इस कलाम से इन्कार रखते हो"
+    },
+    {
+      "verse_number": 82,
+      "arabic": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ\n",
+      "english": "And make [the thanks for] your provision that you deny [the Provider]?",
+      "hindi": "और तुमने अपनी रोज़ी ये करार दे ली है कि (उसको) झुठलाते हो"
+    },
+    {
+      "verse_number": 83,
+      "arabic": "فَلَوۡلَاۤ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ\n",
+      "english": "Then why, when the soul at death reaches the throat",
+      "hindi": "तो क्या जब जान गले तक पहुँचती है"
+    },
+    {
+      "verse_number": 84,
+      "arabic": "وَأَنتُمۡ حِینَىِٕذࣲ تَنظُرُونَ\n",
+      "english": "And you are at that time looking on -",
+      "hindi": "और तुम उस वक्त (क़ी हालत) पड़े देखा करते हो"
+    },
+    {
+      "verse_number": 85,
+      "arabic": "وَنَحۡنُ أَقۡرَبُ إِلَیۡهِ مِنكُمۡ وَلَـٰكِن لَّا تُبۡصِرُونَ\n",
+      "english": "And Our angels are nearer to him than you, but you do not see -",
+      "hindi": "और हम इस (मरने वाले) से तुमसे भी ज्यादा नज़दीक होते हैं लेकिन तुमको दिखाई नहीं देता"
+    },
+    {
+      "verse_number": 86,
+      "arabic": "فَلَوۡلَاۤ إِن كُنتُمۡ غَیۡرَ مَدِینِینَ\n",
+      "english": "Then why do you not, if you are not to be recompensed,",
+      "hindi": "तो अगर तुम किसी के दबाव में नहीं हो"
+    },
+    {
+      "verse_number": 87,
+      "arabic": "تَرۡجِعُونَهَاۤ إِن كُنتُمۡ صَـٰدِقِینَ\n",
+      "english": "Bring it back, if you should be truthful?",
+      "hindi": "तो अगर (अपने दावे में) तुम सच्चे हो तो रूह को फेर क्यों नहीं देते"
+    },
+    {
+      "verse_number": 88,
+      "arabic": "فَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُقَرَّبِینَ\n",
+      "english": "And if the deceased was of those brought near to Allah,",
+      "hindi": "पस अगर वह (मरने वाला ख़ुदा के) मुक़र्रेबीन से है"
+    },
+    {
+      "verse_number": 89,
+      "arabic": "فَرَوۡحࣱ وَرَیۡحَانࣱ وَجَنَّتُ نَعِیمࣲ\n",
+      "english": "Then [for him is] rest and bounty and a garden of pleasure.",
+      "hindi": "तो (उस के लिए) आराम व आसाइश है और ख़ुशबूदार फूल और नेअमत के बाग़"
+    },
+    {
+      "verse_number": 90,
+      "arabic": "وَأَمَّاۤ إِن كَانَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ\n",
+      "english": "And if he was of the companions of the right,",
+      "hindi": "और अगर वह दाहिने हाथ वालों में से है"
+    },
+    {
+      "verse_number": 91,
+      "arabic": "فَسَلَـٰمࣱ لَّكَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ\n",
+      "english": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
+      "hindi": "तो (उससे कहा जाएगा कि) तुम पर दाहिने हाथ वालों की तरफ़ से सलाम हो"
+    },
+    {
+      "verse_number": 92,
+      "arabic": "وَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُكَذِّبِینَ ٱلضَّاۤلِّینَ\n",
+      "english": "But if he was of the deniers [who were] astray,",
+      "hindi": "और अगर झुठलाने वाले गुमराहों में से है"
+    },
+    {
+      "verse_number": 93,
+      "arabic": "فَنُزُلࣱ مِّنۡ حَمِیمࣲ\n",
+      "english": "Then [for him is] accommodation of scalding water",
+      "hindi": "तो (उसकी) मेहमानी खौलता हुआ पानी है"
+    },
+    {
+      "verse_number": 94,
+      "arabic": "وَتَصۡلِیَةُ جَحِیمٍ\n",
+      "english": "And burning in Hellfire",
+      "hindi": "और जहन्नुम में दाखिल कर देना"
+    },
+    {
+      "verse_number": 95,
+      "arabic": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلۡیَقِینِ\n",
+      "english": "Indeed, this is the true certainty,",
+      "hindi": "बेशक ये (ख़बर) यक़ीनन सही है"
+    },
+    {
+      "verse_number": 96,
+      "arabic": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ\n",
+      "english": "So exalt the name of your Lord, the Most Great.",
+      "hindi": "तो (ऐ रसूल) तुम अपने बुज़ुर्ग परवरदिगार की तस्बीह करो"
+    }
+  ]
+}

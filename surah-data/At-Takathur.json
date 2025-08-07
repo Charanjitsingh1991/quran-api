@@ -1,0 +1,55 @@
+{
+  "id": 102,
+  "name_simple": "At-Takathur",
+  "name_arabic": "التكاثر",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ\n",
+      "english": "Competition in [worldly] increase diverts you",
+      "hindi": "कुल व माल की बहुतायत ने तुम लोगों को ग़ाफ़िल रखा"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ\n",
+      "english": "Until you visit the graveyards.",
+      "hindi": "यहाँ तक कि तुम लोगों ने कब्रें देखी (मर गए)"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "كَلَّا سَوۡفَ تَعۡلَمُونَ\n",
+      "english": "No! You are going to know.",
+      "hindi": "देखो तुमको अनक़रीब ही मालुम हो जाएगा"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ\n",
+      "english": "Then no! You are going to know.",
+      "hindi": "फिर देखो तुम्हें अनक़रीब ही मालूम हो जाएगा"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡیَقِینِ\n",
+      "english": "No! If you only knew with knowledge of certainty...",
+      "hindi": "देखो अगर तुमको यक़ीनी तौर पर मालूम होता (तो हरगिज़ ग़ाफिल न होते)"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "لَتَرَوُنَّ ٱلۡجَحِیمَ\n",
+      "english": "You will surely see the Hellfire.",
+      "hindi": "तुम लोग ज़रूर दोज़ख़ को देखोगे"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَیۡنَ ٱلۡیَقِینِ\n",
+      "english": "Then you will surely see it with the eye of certainty.",
+      "hindi": "फिर तुम लोग यक़ीनी देखना देखोगे"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "ثُمَّ لَتُسۡـَٔلُنَّ یَوۡمَىِٕذٍ عَنِ ٱلنَّعِیمِ\n",
+      "english": "Then you will surely be asked that Day about pleasure.",
+      "hindi": "फिर तुमसे नेअमतों के बारें ज़रूर बाज़ पुर्स की जाएगी"
+    }
+  ]
+}

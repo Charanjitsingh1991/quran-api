@@ -1,0 +1,445 @@
+{
+  "id": 33,
+  "name_simple": "Al-Ahzab",
+  "name_arabic": "الأحزاب",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلنَّبِیُّ ٱتَّقِ ٱللَّهۚ وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَۗ إِنَّ ٱللَّهَ كَانَ عَلِیمًا حَكِیمࣰا\n",
+      "english": "O Prophet, fear Allah and do not obey the disbelievers and the hypocrites. Indeed, Allah is ever Knowing and Wise.",
+      "hindi": "ऐ नबी खुदा ही से डरते रहो और काफिरों और मुनाफिक़ों की बात न मानो इसमें शक नहीं कि खुदा बड़ा वाक़िफकार हकीम है।"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "وَٱتَّبِعۡ مَا یُوحَىٰۤ إِلَیۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا\n",
+      "english": "And follow that which is revealed to you from your Lord. Indeed Allah is ever, with what you do, Acquainted.",
+      "hindi": "और तुम्हारे परवरदिगार की तरफ से तुम्हारे पास जो ''वही'' की जाती है (बस) उसी की पैरवी करो तुम लोग जो कुछ कर रहे हो खुदा उससे यक़ीनी अच्छा तरह आगाह है।"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا\n",
+      "english": "And rely upon Allah; and sufficient is Allah as Disposer of affairs.",
+      "hindi": "और खुदा ही पर भरोसा रखो और खुदा ही कारसाजी के लिए काफी है"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "مَّا جَعَلَ ٱللَّهُ لِرَجُلࣲ مِّن قَلۡبَیۡنِ فِی جَوۡفِهِۦۚ وَمَا جَعَلَ أَزۡوَ ٰ⁠جَكُمُ ٱلَّـٰۤـِٔی تُظَـٰهِرُونَ مِنۡهُنَّ أُمَّهَـٰتِكُمۡۚ وَمَا جَعَلَ أَدۡعِیَاۤءَكُمۡ أَبۡنَاۤءَكُمۡۚ ذَ ٰ⁠لِكُمۡ قَوۡلُكُم بِأَفۡوَ ٰ⁠هِكُمۡۖ وَٱللَّهُ یَقُولُ ٱلۡحَقَّ وَهُوَ یَهۡدِی ٱلسَّبِیلَ\n",
+      "english": "Allah has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful your mothers. And he has not made your adopted sons your [true] sons. That is [merely] your saying by your mouths, but Allah says the truth, and He guides to the [right] way.",
+      "hindi": "ख़ुदा ने किसी आदमी के सीने में दो दिल नहीं पैदा किये कि (एक ही वक्त दो इरादे कर सके) और न उसने तुम्हारी बीवियों को जिन से तुम जेहार करते हो तुम्हारी माएँ बना दी और न उसने तुम्हारे लिये पालकों को तुम्हारे बेटे बना दिये। ये तो फ़क़त तुम्हारी मुँह बोली बात (और ज़ुबानी जमा खर्च) है और (चाहे किसी को बुरी लगे या अच्छी) खुदा तो सच्ची कहता है और सीधी राह दिखाता है।"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "ٱدۡعُوهُمۡ لِـَٔابَاۤىِٕهِمۡ هُوَ أَقۡسَطُ عِندَ ٱللَّهِۚ فَإِن لَّمۡ تَعۡلَمُوۤا۟ ءَابَاۤءَهُمۡ فَإِخۡوَ ٰ⁠نُكُمۡ فِی ٱلدِّینِ وَمَوَ ٰ⁠لِیكُمۡۚ وَلَیۡسَ عَلَیۡكُمۡ جُنَاحࣱ فِیمَاۤ أَخۡطَأۡتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتۡ قُلُوبُكُمۡۚ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمًا\n",
+      "english": "Call them by [the names of] their fathers; it is more just in the sight of Allah. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you. And there is no blame upon you for that in which you have erred but [only for] what your hearts intended. And ever is Allah Forgiving and Merciful.",
+      "hindi": "लिये पालकों का उनके (असली) बापों के नाम से पुकारा करो यही खुदा के नज़दीक बहुत ठीक है हाँ अगर तुम लोग उनके असली बापों को न जानते हो तो तुम्हारे दीनी भाई और दोस्त हैं (उन्हें भाई या दोस्त कहकर पुकारा करो) और हाँ इसमें भूल चूक जाओ तो अलबत्ता उसका तुम पर कोई इल्ज़ाम नहीं है मगर जब तुम दिल से जानबूझ कर करो (तो ज़रूर गुनाह है) और खुदा तो बड़ा बख्शने वाला मेहरबान है।"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "ٱلنَّبِیُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِینَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَ ٰ⁠جُهُۥۤ أُمَّهَـٰتُهُمۡۗ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ فِی كِتَـٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُهَـٰجِرِینَ إِلَّاۤ أَن تَفۡعَلُوۤا۟ إِلَىٰۤ أَوۡلِیَاۤىِٕكُم مَّعۡرُوفࣰاۚ كَانَ ذَ ٰ⁠لِكَ فِی ٱلۡكِتَـٰبِ مَسۡطُورࣰا\n",
+      "english": "The Prophet is more worthy of the believers than themselves, and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allah than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book inscribed.",
+      "hindi": "नबी तो मोमिनीन से खुद उनकी जानों से भी बढ़कर हक़ रखते हैं (क्योंकि वह गोया उम्मत के मेहरबान बाप हैं) और उनकी बीवियाँ (गोया) उनकी माएँ हैं और मोमिनीन व मुहाजिरीन में से (जो लोग बाहम) क़राबतदार हैं। किताबें खुदा की रूह से (ग़ैरों की निस्बत) एक दूसरे के (तर्के के) ज्यादा हक़दार हैं मगर (जब) तुम अपने दोस्तों के साथ सुलूक करना चाहो (तो दूसरी बात है) ये तो किताबे (खुदा) में लिखा हुआ (मौजूद) है"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "وَإِذۡ أَخَذۡنَا مِنَ ٱلنَّبِیِّـۧنَ مِیثَـٰقَهُمۡ وَمِنكَ وَمِن نُّوحࣲ وَإِبۡرَ ٰ⁠هِیمَ وَمُوسَىٰ وَعِیسَى ٱبۡنِ مَرۡیَمَۖ وَأَخَذۡنَا مِنۡهُم مِّیثَـٰقًا غَلِیظࣰا\n",
+      "english": "And [mention, O Muhammad], when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary; and We took from them a solemn covenant.",
+      "hindi": "और (ऐ रसूल वह वक्त याद करो) जब हमने और पैग़म्बरों से और ख़ास तुमसे और नूह और इबराहीम और मूसा और मरियम के बेटे ईसा से एहदो पैमाने लिया और उन लोगों से हमने सख्त एहद लिया था"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "لِّیَسۡـَٔلَ ٱلصَّـٰدِقِینَ عَن صِدۡقِهِمۡۚ وَأَعَدَّ لِلۡكَـٰفِرِینَ عَذَابًا أَلِیمࣰا\n",
+      "english": "That He may question the truthful about their truth. And He has prepared for the disbelievers a painful punishment.",
+      "hindi": "ताकि (क़यामत के दिन) सच्चों (पैग़म्बरों) से उनकी सच्चाई तबलीग़े रिसालत का हाल दरियाफ्त करें और काफिरों के वास्ते तो उसने दर्दनाक अज़ाब तैयार ही कर रखा है।"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱذۡكُرُوا۟ نِعۡمَةَ ٱللَّهِ عَلَیۡكُمۡ إِذۡ جَاۤءَتۡكُمۡ جُنُودࣱ فَأَرۡسَلۡنَا عَلَیۡهِمۡ رِیحࣰا وَجُنُودࣰا لَّمۡ تَرَوۡهَاۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرًا\n",
+      "english": "O you who have believed, remember the favor of Allah upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allah, of what you do, Seeing.",
+      "hindi": "(ऐ ईमानदारों खुदा की) उन नेअमतों को याद करो जो उसने तुम पर नाज़िल की हैं (जंगे खन्दक में) जब तुम पर (काफिरों का) लशकर (उमड़ के) आ पड़ा तो (हमने तुम्हारी मदद की) उन पर ऑंधी भेजी और (इसके अलावा फरिश्तों का ऐसा लश्कर भेजा) जिसको तुमने देखा तक नहीं और तुम जो कुछ कर रहे थे खुदा उसे खूब देख रहा था"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "إِذۡ جَاۤءُوكُم مِّن فَوۡقِكُمۡ وَمِنۡ أَسۡفَلَ مِنكُمۡ وَإِذۡ زَاغَتِ ٱلۡأَبۡصَـٰرُ وَبَلَغَتِ ٱلۡقُلُوبُ ٱلۡحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠\n",
+      "english": "[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats and you assumed about Allah [various] assumptions.",
+      "hindi": "जिस वक्त वह लोग तुम पर तुम्हारे ऊपर से आ पड़े और तुम्हारे नीचे की तरफ से भी पिल गए और जिस वक्त (उनकी कसरत से) तुम्हारी ऑंखें ख़ैरा हो गयीं थी और (ख़ौफ से) कलेजे मुँह को आ गए थे और ख़ुदा पर तरह-तरह के (बुरे) ख्याल करने लगे थे।"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "هُنَالِكَ ٱبۡتُلِیَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُوا۟ زِلۡزَالࣰا شَدِیدࣰا\n",
+      "english": "There the believers were tested and shaken with a severe shaking.",
+      "hindi": "यहाँ पर मोमिनों का इम्तिहान लिया गया था और ख़ूब अच्छी तरह झिंझोड़े गए थे।"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "وَإِذۡ یَقُولُ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥۤ إِلَّا غُرُورࣰا\n",
+      "english": "And [remember] when the hypocrites and those in whose hearts is disease said, \"Allah and His Messenger did not promise us except delusion,\"",
+      "hindi": "और जिस वक्त मुनाफेक़ीन और वह लोग जिनके दिलों में (कुफ्र का) मरज़ था कहने लगे थे कि खुदा ने और उसके रसूल ने जो हमसे वायदे किए थे वह बस बिल्कुल धोखे की टट्टी था।"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "وَإِذۡ قَالَت طَّاۤىِٕفَةࣱ مِّنۡهُمۡ یَـٰۤأَهۡلَ یَثۡرِبَ لَا مُقَامَ لَكُمۡ فَٱرۡجِعُوا۟ۚ وَیَسۡتَـٔۡذِنُ فَرِیقࣱ مِّنۡهُمُ ٱلنَّبِیَّ یَقُولُونَ إِنَّ بُیُوتَنَا عَوۡرَةࣱ وَمَا هِیَ بِعَوۡرَةٍۖ إِن یُرِیدُونَ إِلَّا فِرَارࣰا\n",
+      "english": "And when a faction of them said, \"O people of Yathrib, there is no stability for you [here], so return [home].\" And a party of them asked permission of the Prophet, saying, \"Indeed, our houses are unprotected,\" while they were not exposed. They did not intend except to flee.",
+      "hindi": "और अब उनमें का एक गिरोह कहने लगा था कि ऐ मदीने वालों अब (दुश्मन के मुक़ाबलें में ) तुम्हारे कहीं ठिकाना नहीं तो (बेहतर है कि अब भी) पलट चलो और उनमें से कुछ लोग रसूल से (घर लौट जाने की) इजाज़त माँगने लगे थे कि हमारे घर (मर्दों से) बिल्कुल ख़ाली (गैर महफूज़) पड़े हुए हैं - हालाँकि वह ख़ाली (ग़ैर महफूज़) न थे (बल्कि) वह लोग तो (इसी बहाने से) बस भागना चाहते हैं"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "وَلَوۡ دُخِلَتۡ عَلَیۡهِم مِّنۡ أَقۡطَارِهَا ثُمَّ سُىِٕلُوا۟ ٱلۡفِتۡنَةَ لَـَٔاتَوۡهَا وَمَا تَلَبَّثُوا۟ بِهَاۤ إِلَّا یَسِیرࣰا\n",
+      "english": "And if they had been entered upon from all its [surrounding] regions and fitnah had been demanded of them, they would have done it and not hesitated over it except briefly.",
+      "hindi": "और अगर ऐसा ही लश्कर उन लोगों पर मदीने के एतराफ से आ पड़े और उन से फसाद (ख़ाना जंगी) करने की दरख्वास्त की जाए तो ये लोग उसके लिए (फौरन) आ मौजूद हों"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "وَلَقَدۡ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبۡلُ لَا یُوَلُّونَ ٱلۡأَدۡبَـٰرَۚ وَكَانَ عَهۡدُ ٱللَّهِ مَسۡـُٔولࣰا\n",
+      "english": "And they had already promised Allah before not to turn their backs and flee. And ever is the promise to Allah [that about which one will be] questioned.",
+      "hindi": "और (उस वक्त) अपने घरों में भी बहुत कम तवक्क़ुफ़ करेंगे (मगर ये तो जिहाद है) हालाँकि उन लोगों ने पहले ही खुदा से एहद किया था कि हम दुश्मन के मुक़ाबले में (अपनी) पीठ न फेरेंगे और खुदा के एहद की पूछगछ तो (एक न एक दिन) होकर रहेगी"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "قُل لَّن یَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ وَإِذࣰا لَّا تُمَتَّعُونَ إِلَّا قَلِیلࣰا\n",
+      "english": "Say, [O Muhammad], \"Never will fleeing benefit you if you should flee from death or killing; and then [if you did], you would not be given enjoyment [of life] except for a little.\"",
+      "hindi": "(ऐ रसूल उनसे) कह दो कि अगर तुम मौत का क़त्ल (के ख़ौफ) से भागे भी तो (यह) भागना तुम्हें हरगिज़ कुछ भी मुफ़ीद न होगा और अगर तुम भागकर बच भी गए तो बस यही न की दुनिया में चन्द रोज़ा और चैनकर लो"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "قُلۡ مَن ذَا ٱلَّذِی یَعۡصِمُكُم مِّنَ ٱللَّهِ إِنۡ أَرَادَ بِكُمۡ سُوۤءًا أَوۡ أَرَادَ بِكُمۡ رَحۡمَةࣰۚ وَلَا یَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِیࣰّا وَلَا نَصِیرࣰا\n",
+      "english": "Say, \"Who is it that can protect you from Allah if He intends for you an ill or intends for you a mercy?\" And they will not find for themselves besides Allah any protector or any helper.",
+      "hindi": "(ऐ रसूल) तुम उनसे कह दो कि अगर खुदा तुम्हारे साथ बुराई का इरादा कर बैठे तो तुम्हें उसके (अज़ाब) से कौन ऐसा है जो बचाए या भलाई ही करना चाहे (तो कौन रोक सकता है) और ये लोग खुदा के सिवा न तो किसी को अपना सरपरस्त पाएँगे और न मद्दगार"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "۞ قَدۡ یَعۡلَمُ ٱللَّهُ ٱلۡمُعَوِّقِینَ مِنكُمۡ وَٱلۡقَاۤىِٕلِینَ لِإِخۡوَ ٰ⁠نِهِمۡ هَلُمَّ إِلَیۡنَاۖ وَلَا یَأۡتُونَ ٱلۡبَأۡسَ إِلَّا قَلِیلًا\n",
+      "english": "Already Allah knows the hinderers among you and those [hypocrites] who say to their brothers, \"Come to us,\" and do not go to battle, except for a few,",
+      "hindi": "तुममें से जो लोग (दूसरों को जिहाद से) रोकते हैं खुदा उनको खूब जानता है और (उनको भी खूब जानता है) जो अपने भाई बन्दों से कहते हैं कि हमारे पास चले भी आओ और खुद भी (फक़त पीछा छुड़ाने को लड़ाई के खेत) में बस एक ज़रा सा आकर तुमसे अपनी जान चुराई"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "أَشِحَّةً عَلَیۡكُمۡۖ فَإِذَا جَاۤءَ ٱلۡخَوۡفُ رَأَیۡتَهُمۡ یَنظُرُونَ إِلَیۡكَ تَدُورُ أَعۡیُنُهُمۡ كَٱلَّذِی یُغۡشَىٰ عَلَیۡهِ مِنَ ٱلۡمَوۡتِۖ فَإِذَا ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَیۡرِۚ أُو۟لَـٰۤىِٕكَ لَمۡ یُؤۡمِنُوا۟ فَأَحۡبَطَ ٱللَّهُ أَعۡمَـٰلَهُمۡۚ وَكَانَ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣰا\n",
+      "english": "Indisposed toward you. And when fear comes, you see them looking at you, their eyes revolving like one being overcome by death. But when fear departs, they lash you with sharp tongues, indisposed toward [any] good. Those have not believed, so Allah has rendered their deeds worthless, and ever is that, for Allah, easy.",
+      "hindi": "और चल दिए और जब (उन पर) कोई ख़ौफ (का मौक़ा) आ पड़ा तो देखते हो कि (आस से) तुम्हारी तरफ देखते हैं (और) उनकी ऑंखें इस तरह घूमती हैं जैसे किसी शख्स पर मौत की बेहोशी छा जाए फिर वह ख़ौफ (का मौक़ा) जाता रहा और ईमानदारों की फतेह हुई तो माले (ग़नीमत) पर गिरते पड़ते फौरन तुम पर अपनी तेज़ ज़बानों से ताना कसने लगे ये लोग (शुरू) से ईमान ही नहीं लाए (फक़त ज़बानी जमा ख़र्च थी) तो खुदा ने भी इनका किया कराया सब अकारत कर दिया और ये तो खुदा के वास्ते एक (निहायत) आसान बात थी"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "یَحۡسَبُونَ ٱلۡأَحۡزَابَ لَمۡ یَذۡهَبُوا۟ۖ وَإِن یَأۡتِ ٱلۡأَحۡزَابُ یَوَدُّوا۟ لَوۡ أَنَّهُم بَادُونَ فِی ٱلۡأَعۡرَابِ یَسۡـَٔلُونَ عَنۡ أَنۢبَاۤىِٕكُمۡۖ وَلَوۡ كَانُوا۟ فِیكُم مَّا قَـٰتَلُوۤا۟ إِلَّا قَلِیلࣰا\n",
+      "english": "They think the companies have not [yet] withdrawn. And if the companies should come [again], they would wish they were in the desert among the bedouins, inquiring [from afar] about your news. And if they should be among you, they would not fight except for a little.",
+      "hindi": "(मदीने का मुहासेरा करने वाले चल भी दिए मगर) ये लोग अभी यही समझ रहे हैं कि (काफ़िरों के) लश्कर अभी नहीं गए और अगर कहीं (कुफ्फार का) लश्कर फिर आ पहुँचे तो ये लोग चाहेंगे कि काश वह जंगलों में गँवारों में जा बसते और (वहीं से बैठे बैठे) तुम्हारे हालात दरयाफ्त करते रहते और अगर उनको तुम लोगों में रहना पड़ता तो फ़क़त (पीछा छुड़ाने को) ज़रा ज़हूर (कहीं) लड़ते"
+    },
+    {
+      "verse_number": 21,
+      "arabic": "لَّقَدۡ كَانَ لَكُمۡ فِی رَسُولِ ٱللَّهِ أُسۡوَةٌ حَسَنَةࣱ لِّمَن كَانَ یَرۡجُوا۟ ٱللَّهَ وَٱلۡیَوۡمَ ٱلۡـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِیرࣰا\n",
+      "english": "There has certainly been for you in the Messenger of Allah an excellent pattern for anyone whose hope is in Allah and the Last Day and [who] remembers Allah often.",
+      "hindi": "(मुसलमानों) तुम्हारे वास्ते तो खुद रसूल अल्लाह का (ख़न्दक़ में बैठना) एक अच्छा नमूना था (मगर हाँ यह) उस शख्स के वास्ते है जो खुदा और रोजे आखेरत की उम्मीद रखता हो और खुदा की याद बाकसरत करता हो"
+    },
+    {
+      "verse_number": 22,
+      "arabic": "وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُوا۟ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّاۤ إِیمَـٰنࣰا وَتَسۡلِیمࣰا\n",
+      "english": "And when the believers saw the companies, they said, \"This is what Allah and His Messenger had promised us, and Allah and His Messenger spoke the truth.\" And it increased them only in faith and acceptance.",
+      "hindi": "और जब सच्चे ईमानदारों ने (कुफ्फार के) जमघटों को देखा तो (बेतकल्लुफ़) कहने लगे कि ये वही चीज़ तो है जिसका हम से खुदा ने और उसके रसूल ने वायदा किया था (इसकी परवाह क्या है) और खुदा ने और उसके रसूल ने बिल्कुल ठीक कहा था और (इसके देखने से) उनका ईमानदार और उनकी इताअत और भी ज़िन्दा हो गयी"
+    },
+    {
+      "verse_number": 23,
+      "arabic": "مِّنَ ٱلۡمُؤۡمِنِینَ رِجَالࣱ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَیۡهِۖ فَمِنۡهُم مَّن قَضَىٰ نَحۡبَهُۥ وَمِنۡهُم مَّن یَنتَظِرُۖ وَمَا بَدَّلُوا۟ تَبۡدِیلࣰا\n",
+      "english": "Among the believers are men true to what they promised Allah. Among them is he who has fulfilled his vow [to the death], and among them is he who awaits [his chance]. And they did not alter [the terms of their commitment] by any alteration -",
+      "hindi": "ईमानदारों में से कुछ लोग ऐसे भी हैं कि खुदा से उन्होंने (जॉनिसारी का) जो एहद किया था उसे पूरा कर दिखाया ग़रज़ उनमें से बाज़ वह हैं जो (मर कर) अपना वक्त पूरा कर गए और उनमें से बाज़ (हुक्मे खुदा के) मुन्तज़िर बैठे हैं और उन लोगों ने (अपनी बात) ज़रा भी नहीं बदली"
+    },
+    {
+      "verse_number": 24,
+      "arabic": "لِّیَجۡزِیَ ٱللَّهُ ٱلصَّـٰدِقِینَ بِصِدۡقِهِمۡ وَیُعَذِّبَ ٱلۡمُنَـٰفِقِینَ إِن شَاۤءَ أَوۡ یَتُوبَ عَلَیۡهِمۡۚ إِنَّ ٱللَّهَ كَانَ غَفُورࣰا رَّحِیمࣰا\n",
+      "english": "That Allah may reward the truthful for their truth and punish the hypocrites if He wills or accept their repentance. Indeed, Allah is ever Forgiving and Merciful.",
+      "hindi": "ये इम्तेहान इसलिए था ताकि खुद सच्चे (ईमानदारों) को उनकी सच्चाई की जज़ाए ख़ैर दे और अगर चाहे तो मुनाफेक़ीन की सज़ा करे या (अगर वह लागे तौबा करें तो) खुदा उनकी तौबा कुबूल फरमाए इसमें शक नहीं कि खुदा बड़ा बख्शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 25,
+      "arabic": "وَرَدَّ ٱللَّهُ ٱلَّذِینَ كَفَرُوا۟ بِغَیۡظِهِمۡ لَمۡ یَنَالُوا۟ خَیۡرࣰاۚ وَكَفَى ٱللَّهُ ٱلۡمُؤۡمِنِینَ ٱلۡقِتَالَۚ وَكَانَ ٱللَّهُ قَوِیًّا عَزِیزࣰا\n",
+      "english": "And Allah repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allah for the believers in battle, and ever is Allah Powerful and Exalted in Might.",
+      "hindi": "और खुदा ने (अपनी कुदरत से) क़ाफिरों को मदीने से फेर दिया (और वह लोग) अपनी झुंझलाहट में (फिर गए) और इन्हें कुछ फायदे भी न हुआ और खुदा ने (अपनी मेहरबानी से) मोमिनीन को लड़ने की नौबत न आने दी और खुदा तो (बड़ा) ज़बरदस्त (और) ग़ालिब हैं"
+    },
+    {
+      "verse_number": 26,
+      "arabic": "وَأَنزَلَ ٱلَّذِینَ ظَـٰهَرُوهُم مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ مِن صَیَاصِیهِمۡ وَقَذَفَ فِی قُلُوبِهِمُ ٱلرُّعۡبَ فَرِیقࣰا تَقۡتُلُونَ وَتَأۡسِرُونَ فَرِیقࣰا\n",
+      "english": "And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party you killed, and you took captive a party.",
+      "hindi": "और अहले किताब में से जिन लोगों (बनी कुरैज़ा) ने उन (कुफ्फार) की मदद की थी खुदा उनको उनके क़िलों से (बेदख़ल करके) नीचे उतार लाया और उनके दिलों में (तुम्हारा) ऐसा रोब बैठा दिया कि तुम उनके कुछ लोगों को क़त्ल करने लगे"
+    },
+    {
+      "verse_number": 27,
+      "arabic": "وَأَوۡرَثَكُمۡ أَرۡضَهُمۡ وَدِیَـٰرَهُمۡ وَأَمۡوَ ٰ⁠لَهُمۡ وَأَرۡضࣰا لَّمۡ تَطَـُٔوهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣰا\n",
+      "english": "And He caused you to inherit their land and their homes and their properties and a land which you have not trodden. And ever is Allah, over all things, competent.",
+      "hindi": "और कुछ को क़ैदी (और गुलाम) बनाने और तुम ही लोगों को उनकी ज़मीन और उनके घर और उनके माल और उस ज़मीन (खैबर) का खुदा ने मालिक बना दिया जिसमें तुमने क़दम तक नहीं रखा था और खुदा तो हर चीज़ पर क़ादिर वतवाना है"
+    },
+    {
+      "verse_number": 28,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّأَزۡوَ ٰ⁠جِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا وَزِینَتَهَا فَتَعَالَیۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحࣰا جَمِیلࣰا\n",
+      "english": "O Prophet, say to your wives, \"If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release.",
+      "hindi": "ऐ रसूल अपनी बीवियों से कह दो कि अगर तुम (फक़त) दुनियावी ज़िन्दगी और उसकी आराइश व ज़ीनत की ख्वाहॉ हो तो उधर आओ मैं तुम लोगों को कुछ साज़ो सामान दे दूँ और उनवाने शाइस्ता से रूख़सत कर दूँ"
+    },
+    {
+      "verse_number": 29,
+      "arabic": "وَإِن كُنتُنَّ تُرِدۡنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلۡـَٔاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلۡمُحۡسِنَـٰتِ مِنكُنَّ أَجۡرًا عَظِیمࣰا\n",
+      "english": "But if you should desire Allah and His Messenger and the home of the Hereafter - then indeed, Allah has prepared for the doers of good among you a great reward.\"",
+      "hindi": "और अगर तुम लोग खुदा और उसके रसूल और आखेरत के घर की ख्वाहॉ हो तो (अच्छी तरह ख्याल रखो कि) तुम लोगों में से नेकोकार औरतों के लिए खुदा ने यक़ीनन् बड़ा (बड़ा) अज्र व (सवाब) मुहय्या कर रखा है"
+    },
+    {
+      "verse_number": 30,
+      "arabic": "یَـٰنِسَاۤءَ ٱلنَّبِیِّ مَن یَأۡتِ مِنكُنَّ بِفَـٰحِشَةࣲ مُّبَیِّنَةࣲ یُضَـٰعَفۡ لَهَا ٱلۡعَذَابُ ضِعۡفَیۡنِۚ وَكَانَ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣰا\n",
+      "english": "O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allah, easy.",
+      "hindi": "ऐ पैग़म्बर की बीबियों तुममें से जो कोई किसी सरीही ना शाइस्ता हरकत की का मुरतिब हुई तो (याद रहे कि) उसका अज़ाब भी दुगना बढ़ा दिया जाएगा और खुदा के वास्ते (निहायत) आसान है"
+    },
+    {
+      "verse_number": 31,
+      "arabic": "۞ وَمَن یَقۡنُتۡ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعۡمَلۡ صَـٰلِحࣰا نُّؤۡتِهَاۤ أَجۡرَهَا مَرَّتَیۡنِ وَأَعۡتَدۡنَا لَهَا رِزۡقࣰا كَرِیمࣰا\n",
+      "english": "And whoever of you devoutly obeys Allah and His Messenger and does righteousness - We will give her her reward twice; and We have prepared for her a noble provision.",
+      "hindi": "और तुममें से जो (बीवी) खुदा और उसके रसूल की ताबेदारी अच्छे (अच्छे) काम करेगी उसको हम उसका सवाब भी दोहरा अता करेगें और हमने उसके लिए (जन्नत में) इज्ज़त की रोज़ी तैयार कर रखी है"
+    },
+    {
+      "verse_number": 32,
+      "arabic": "یَـٰنِسَاۤءَ ٱلنَّبِیِّ لَسۡتُنَّ كَأَحَدࣲ مِّنَ ٱلنِّسَاۤءِ إِنِ ٱتَّقَیۡتُنَّۚ فَلَا تَخۡضَعۡنَ بِٱلۡقَوۡلِ فَیَطۡمَعَ ٱلَّذِی فِی قَلۡبِهِۦ مَرَضࣱ وَقُلۡنَ قَوۡلࣰا مَّعۡرُوفࣰا\n",
+      "english": "O wives of the Prophet, you are not like anyone among women. If you fear Allah, then do not be soft in speech [to men], lest he in whose heart is disease should covet, but speak with appropriate speech.",
+      "hindi": "ऐ नबी की बीवियों तुम और मामूली औरतों की सी तो हो वही (बस) अगर तुम को परहेज़गारी मंजूर रहे तो (अजनबी आदमी से) बात करने में नरम नरम (लगी लिपटी) बात न करो ताकि जिसके दिल में (शहवते ज़िना का) मर्ज़ है वह (कुछ और) इरादा (न) करे"
+    },
+    {
+      "verse_number": 33,
+      "arabic": "وَقَرۡنَ فِی بُیُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَـٰهِلِیَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِینَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥۤۚ إِنَّمَا یُرِیدُ ٱللَّهُ لِیُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَیۡتِ وَیُطَهِّرَكُمۡ تَطۡهِیرࣰا\n",
+      "english": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakah and obey Allah and His Messenger. Allah intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.",
+      "hindi": "और (साफ-साफ) उनवाने शाइस्ता से बात किया करो और अपने घरों में निचली बैठी रहो और अगले ज़माने जाहिलियत की तरह अपना बनाव सिंगार न दिखाती फिरो और पाबन्दी से नमाज़ पढ़ा करो और (बराबर) ज़कात दिया करो और खुदा और उसके रसूल की इताअत करो ऐ (पैग़म्बर के) अहले बैत खुदा तो बस ये चाहता है कि तुमको (हर तरह की) बुराई से दूर रखे और जो पाक व पाकीज़ा दिखने का हक़ है वैसा पाक व पाकीज़ा रखे"
+    },
+    {
+      "verse_number": 34,
+      "arabic": "وَٱذۡكُرۡنَ مَا یُتۡلَىٰ فِی بُیُوتِكُنَّ مِنۡ ءَایَـٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ إِنَّ ٱللَّهَ كَانَ لَطِیفًا خَبِیرًا\n",
+      "english": "And remember what is recited in your houses of the verses of Allah and wisdom. Indeed, Allah is ever Subtle and Acquainted [with all things].",
+      "hindi": "और (ऐ नबी की बीबियों) तुम्हारे घरों में जो खुदा की आयतें और (अक़ल व हिकमत की बातें) पढ़ी जाती हैं उनको याद रखो कि बेशक ख़ुदा बड़ा बारीक है वाक़िफकार है"
+    },
+    {
+      "verse_number": 35,
+      "arabic": "إِنَّ ٱلۡمُسۡلِمِینَ وَٱلۡمُسۡلِمَـٰتِ وَٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ وَٱلۡقَـٰنِتِینَ وَٱلۡقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِینَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِینَ وَٱلصَّـٰبِرَ ٰ⁠تِ وَٱلۡخَـٰشِعِینَ وَٱلۡخَـٰشِعَـٰتِ وَٱلۡمُتَصَدِّقِینَ وَٱلۡمُتَصَدِّقَـٰتِ وَٱلصَّـٰۤىِٕمِینَ وَٱلصَّـٰۤىِٕمَـٰتِ وَٱلۡحَـٰفِظِینَ فُرُوجَهُمۡ وَٱلۡحَـٰفِظَـٰتِ وَٱلذَّ ٰ⁠كِرِینَ ٱللَّهَ كَثِیرࣰا وَٱلذَّ ٰ⁠كِرَ ٰ⁠تِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِیمࣰا\n",
+      "english": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allah often and the women who do so - for them Allah has prepared forgiveness and a great reward.",
+      "hindi": "(दिल लगा के सुनो) मुसलमान मर्द और मुसलमान औरतें और ईमानदार मर्द और ईमानदार औरतें और फरमाबरदार मर्द और फरमाबरदार औरतें और रास्तबाज़ मर्द और रास्तबाज़ औरतें और सब्र करने वाले मर्द और सब्र करने वाली औरतें और फिरौतनी करने वाले मर्द और फिरौतनी करने वाली औरतें और Âैरात करने वाले मर्द और Âैरात करने वाली औरतें और रोज़ादार मर्द और रोज़ादार औरतें और अपनी शर्मगाहों की हिफाज़त करने वाले मर्द और हिफाज़त करने वाली औरतें और खुदा की बकसरत याद करने वाले मर्द और याद करने वाली औरतें बेशक इन सब लोगों के वास्ते खुदा ने मग़फिरत और (बड़ा) सवाब मुहैय्या कर रखा है"
+    },
+    {
+      "verse_number": 36,
+      "arabic": "وَمَا كَانَ لِمُؤۡمِنࣲ وَلَا مُؤۡمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥۤ أَمۡرًا أَن یَكُونَ لَهُمُ ٱلۡخِیَرَةُ مِنۡ أَمۡرِهِمۡۗ وَمَن یَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ ضَلَّ ضَلَـٰلࣰا مُّبِینࣰا\n",
+      "english": "It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error.",
+      "hindi": "और न किसी ईमानदार मर्द को ये मुनासिब है और न किसी ईमानदार औरत को जब खुदा और उसके रसूल किसी काम का हुक्म दें तो उनको अपने उस काम (के करने न करने) अख़तेयार हो और (याद रहे कि) जिस शख्स ने खुदा और उसके रसूल की नाफरमानी की वह यक़ीनन खुल्लम खुल्ला गुमराही में मुब्तिला हो चुका"
+    },
+    {
+      "verse_number": 37,
+      "arabic": "وَإِذۡ تَقُولُ لِلَّذِیۤ أَنۡعَمَ ٱللَّهُ عَلَیۡهِ وَأَنۡعَمۡتَ عَلَیۡهِ أَمۡسِكۡ عَلَیۡكَ زَوۡجَكَ وَٱتَّقِ ٱللَّهَ وَتُخۡفِی فِی نَفۡسِكَ مَا ٱللَّهُ مُبۡدِیهِ وَتَخۡشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخۡشَىٰهُۖ فَلَمَّا قَضَىٰ زَیۡدࣱ مِّنۡهَا وَطَرࣰا زَوَّجۡنَـٰكَهَا لِكَیۡ لَا یَكُونَ عَلَى ٱلۡمُؤۡمِنِینَ حَرَجࣱ فِیۤ أَزۡوَ ٰ⁠جِ أَدۡعِیَاۤىِٕهِمۡ إِذَا قَضَوۡا۟ مِنۡهُنَّ وَطَرࣰاۚ وَكَانَ أَمۡرُ ٱللَّهِ مَفۡعُولࣰا\n",
+      "english": "And [remember, O Muhammad], when you said to the one on whom Allah bestowed favor and you bestowed favor, \"Keep your wife and fear Allah,\" while you concealed within yourself that which Allah is to disclose. And you feared the people, while Allah has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort concerning the wives of their adopted sons when they no longer have need of them. And ever is the command of Allah accomplished.",
+      "hindi": "और (ऐ रसूल वह वक्त याद करो) जब तुम उस शख्स (ज़ैद) से कह रहे थे जिस पर खुदा ने एहसान (अलग) किया था और तुमने उस पर (अलग) एहसान किया था कि अपनी बीबी (ज़ैनब) को अपनी ज़ौज़ियत में रहने दे और खुदा से डेर खुद तुम इस बात को अपने दिल में छिपाते थे जिसको (आख़िरकार) खुदा ज़ाहिर करने वाला था और तुम लोगों से डरते थे हालॉकि खुदा इसका ज्यादा हक़दार है कि तुम उस से डरो ग़रज़ जब ज़ैद अपनी हाजत पूरी कर चुका (तलाक़ दे दी) तो हमने (हुक्म देकर) उस औरत (ज़ैनब) का निकाह तुमसे कर दिया ताकि आम मोमिनीन को अपने ले पालक लड़कों की बीवियों (से निकाह करने) में जब वह अपना मतलब उन औरतों से पूरा कर चुकें (तलाक़ दे दें) किसी तरह की तंगी न रहे और खुदा का हुक्म तो किया कराया हुआ (क़तई) होता है"
+    },
+    {
+      "verse_number": 38,
+      "arabic": "مَّا كَانَ عَلَى ٱلنَّبِیِّ مِنۡ حَرَجࣲ فِیمَا فَرَضَ ٱللَّهُ لَهُۥۖ سُنَّةَ ٱللَّهِ فِی ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلُۚ وَكَانَ أَمۡرُ ٱللَّهِ قَدَرࣰا مَّقۡدُورًا\n",
+      "english": "There is not to be upon the Prophet any discomfort concerning that which Allah has imposed upon him. [This is] the established way of Allah with those [prophets] who have passed on before. And ever is the command of Allah a destiny decreed.",
+      "hindi": "जो हुक्म खुदा ने पैग़म्बर पर फर्ज क़र दिया (उसके करने) में उस पर कोई मुज़ाएका नहीं जो लोग (उनसे) पहले गुज़र चुके हैं उनके बारे में भी खुदा का (यही) दस्तूर (जारी) रहा है (कि निकाह में तंगी न की) और खुदा का हुक्म तो (ठीक अन्दाज़े से) मुक़र्रर हुआ होता है"
+    },
+    {
+      "verse_number": 39,
+      "arabic": "ٱلَّذِینَ یُبَلِّغُونَ رِسَـٰلَـٰتِ ٱللَّهِ وَیَخۡشَوۡنَهُۥ وَلَا یَخۡشَوۡنَ أَحَدًا إِلَّا ٱللَّهَۗ وَكَفَىٰ بِٱللَّهِ حَسِیبࣰا\n",
+      "english": "[Allah praises] those who convey the messages of Allah and fear Him and do not fear anyone but Allah. And sufficient is Allah as Accountant.",
+      "hindi": "वह लोग जो खुदा के पैग़ामों को (लोगों तक जूँ का तूँ) पहुँचाते थे और उससे डरते थे और खुदा के सिवा किसी से नहीं डरते थे (फिर तुम क्यों डरते हो) और हिसाब लेने के वास्ते तो खुद काफ़ी है"
+    },
+    {
+      "verse_number": 40,
+      "arabic": "مَّا كَانَ مُحَمَّدٌ أَبَاۤ أَحَدࣲ مِّن رِّجَالِكُمۡ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِیِّـۧنَۗ وَكَانَ ٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣰا\n",
+      "english": "Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets. And ever is Allah, of all things, Knowing.",
+      "hindi": "(लोगों) मोहम्मद तुम्हारे मर्दों में से (हक़ीक़तन) किसी के बाप नहीं हैं (फिर जैद की बीवी क्यों हराम होने लगी) बल्कि अल्लाह के रसूल और नबियों की मोहर (यानी ख़त्म करने वाले) हैं और खुदा तो हर चीज़ से खूब वाक़िफ है"
+    },
+    {
+      "verse_number": 41,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱذۡكُرُوا۟ ٱللَّهَ ذِكۡرࣰا كَثِیرࣰا\n",
+      "english": "O you who have believed, remember Allah with much remembrance",
+      "hindi": "ऐ ईमानवालों बाकसरत खुदा की याद किया करो और"
+    },
+    {
+      "verse_number": 42,
+      "arabic": "وَسَبِّحُوهُ بُكۡرَةࣰ وَأَصِیلًا\n",
+      "english": "And exalt Him morning and afternoon.",
+      "hindi": "सुबह व शाम उसकी तसबीह करते रहो"
+    },
+    {
+      "verse_number": 43,
+      "arabic": "هُوَ ٱلَّذِی یُصَلِّی عَلَیۡكُمۡ وَمَلَـٰۤىِٕكَتُهُۥ لِیُخۡرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِینَ رَحِیمࣰا\n",
+      "english": "It is He who confers blessing upon you, and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful.",
+      "hindi": "वह वही तो है जो खुद तुमपर दूरूद (दर्दों रहमत) भेजता है और उसके फ़रिश्ते ताकि तुमको (कुफ़्र की) तारीक़ियों से निकालकर (ईमान की) रौशनी में ले जाए और खुदा ईमानवालों पर बड़ा मेहरबान है"
+    },
+    {
+      "verse_number": 44,
+      "arabic": "تَحِیَّتُهُمۡ یَوۡمَ یَلۡقَوۡنَهُۥ سَلَـٰمࣱۚ وَأَعَدَّ لَهُمۡ أَجۡرࣰا كَرِیمࣰا\n",
+      "english": "Their greeting the Day they meet Him will be, \"Peace.\" And He has prepared for them a noble reward.",
+      "hindi": "जिस दिन उसकी बारगाह में हाज़िर होंगे (उस दिन) उनकी मुरादात (उसकी तरफ से हर क़िस्म की) सलामती होगी और खुदा ने तो उनके वास्ते बहुत अच्छा बदला (बेहश्त) तैयार रखा है"
+    },
+    {
+      "verse_number": 45,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا\n",
+      "english": "O Prophet, indeed We have sent you as a witness and a bringer of good tidings and a warner.",
+      "hindi": "ऐ नबी हमने तुमको (लोगों का) गवाह और (नेकों को बेहश्त की) खुशख़बरी देने वाला और बदों को अज़ाब से डराने वाला"
+    },
+    {
+      "verse_number": 46,
+      "arabic": "وَدَاعِیًا إِلَى ٱللَّهِ بِإِذۡنِهِۦ وَسِرَاجࣰا مُّنِیرࣰا\n",
+      "english": "And one who invites to Allah, by His permission, and an illuminating lamp.",
+      "hindi": "और खुदा की तरफ उसी के हुक्म से बुलाने वाला और (ईमान व हिदायत का) रौशन चिराग़ बनाकर भेजा"
+    },
+    {
+      "verse_number": 47,
+      "arabic": "وَبَشِّرِ ٱلۡمُؤۡمِنِینَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضۡلࣰا كَبِیرࣰا\n",
+      "english": "And give good tidings to the believers that they will have from Allah great bounty.",
+      "hindi": "और तुम मोमिनीन को खुशख़बरी दे दो कि उनके लिए खुदा की तरफ से बहुत बड़ी (मेहरबानी और) बख्शिश है"
+    },
+    {
+      "verse_number": 48,
+      "arabic": "وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَ وَدَعۡ أَذَىٰهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا\n",
+      "english": "And do not obey the disbelievers and the hypocrites but do not harm them, and rely upon Allah. And sufficient is Allah as Disposer of affairs.",
+      "hindi": "और (ऐ रसूल) तुम (कहीं) काफिरों और मुनाफिक़ों की इताअत न करना और उनकी ईज़ारसानी का ख्याल छोड़ दो और खुदा पर भरोसा रखो और कारसाज़ी में खुदा काफ़ी है"
+    },
+    {
+      "verse_number": 49,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَـٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَیۡهِنَّ مِنۡ عِدَّةࣲ تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحࣰا جَمِیلࣰا\n",
+      "english": "O You who have believed, when you marry believing women and then divorce them before you have touched them, then there is not for you any waiting period to count concerning them. So provide for them and give them a gracious release.",
+      "hindi": "ऐ ईमानवालों जब तुम मोमिना औरतों से (बग़ैर मेहर मुक़र्रर किये) निकाह करो उसके बाद उन्हें अपने हाथ लगाने से पहले ही तलाक़ दे दो तो फिर तुमको उनपर कोई हक़ नहीं कि (उनसे) इद्दा पूरा कराओ उनको तो कुछ (कपड़े रूपये वग़ैरह) देकर उनवाने शाइस्ता से रूख़सत कर दो"
+    },
+    {
+      "verse_number": 50,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِنَّاۤ أَحۡلَلۡنَا لَكَ أَزۡوَ ٰ⁠جَكَ ٱلَّـٰتِیۤ ءَاتَیۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ یَمِینُكَ مِمَّاۤ أَفَاۤءَ ٱللَّهُ عَلَیۡكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِی هَاجَرۡنَ مَعَكَ وَٱمۡرَأَةࣰ مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِیِّ إِنۡ أَرَادَ ٱلنَّبِیُّ أَن یَسۡتَنكِحَهَا خَالِصَةࣰ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِینَۗ قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَیۡهِمۡ فِیۤ أَزۡوَ ٰ⁠جِهِمۡ وَمَا مَلَكَتۡ أَیۡمَـٰنُهُمۡ لِكَیۡلَا یَكُونَ عَلَیۡكَ حَرَجࣱۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا\n",
+      "english": "O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful.",
+      "hindi": "ऐ नबी हमने तुम्हारे वास्ते तुम्हारी उन बीवियों को हलाल कर दिया है जिनको तुम मेहर दे चुके हो और तुम्हारी उन लौंडियों को (भी) जो खुदा ने तुमको (बग़ैर लड़े-भिड़े) माले ग़नीमत में अता की है और तुम्हारे चचा की बेटियाँ और तुम्हारी फूफियों की बेटियाँ और तुम्हारे मामू की बेटियाँ और तुम्हारी ख़ालाओं की बेटियाँ जो तुम्हारे साथ हिजरत करके आयी हैं (हलाल कर दी और हर ईमानवाली औरत (भी हलाल कर दी) अगर वह अपने को (बग़ैर मेहर) नबी को दे दें और नबी भी उससे निकाह करना चाहते हों मगर (ऐ रसूल) ये हुक्म सिर्फ तुम्हारे वास्ते ख़ास है और मोमिनीन के लिए नहीं और हमने जो कुछ (मेहर या क़ीमत) आम मोमिनीन पर उनकी बीवियों और उनकी लौंडियों के बारे में मुक़र्रर कर दिया है हम खूब जानते हैं और (तुम्हारी रिआयत इसलिए है) ताकि तुमको (बीवियों की तरफ से) कोई दिक्क़त न हो और खुदा तो बड़ा बख़शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 51,
+      "arabic": "۞ تُرۡجِی مَن تَشَاۤءُ مِنۡهُنَّ وَتُـٔۡوِیۤ إِلَیۡكَ مَن تَشَاۤءُۖ وَمَنِ ٱبۡتَغَیۡتَ مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَیۡكَۚ ذَ ٰ⁠لِكَ أَدۡنَىٰۤ أَن تَقَرَّ أَعۡیُنُهُنَّ وَلَا یَحۡزَنَّ وَیَرۡضَیۡنَ بِمَاۤ ءَاتَیۡتَهُنَّ كُلُّهُنَّۚ وَٱللَّهُ یَعۡلَمُ مَا فِی قُلُوبِكُمۡۚ وَكَانَ ٱللَّهُ عَلِیمًا حَلِیمࣰا\n",
+      "english": "You, [O Muhammad], may put aside whom you will of them or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allah knows what is in your hearts. And ever is Allah Knowing and Forbearing.",
+      "hindi": "इनमें से जिसको (जब) चाहो अलग कर दो और जिसको (जब तक) चाहो अपने पास रखो और जिन औरतों को तुमने अलग कर दिया था अगर फिर तुम उनके ख्वाहॉ हो तो भी तुम पर कोई मज़ाएक़ा नहीं है ये (अख़तेयार जो तुमको दिया गया है) ज़रूर इस क़ाबिल है कि तुम्हारी बीवियों की ऑंखें ठन्डी रहे और आर्जूदा ख़ातिर न हो और वो कुछ तुम उन्हें दे दो सबकी सब उस पर राज़ी रहें और जो कुछ तुम्हारे दिलों में है खुदा उसको ख़ुब जानता है और खुदा तो बड़ा वाक़िफकार बुर्दबार है"
+    },
+    {
+      "verse_number": 52,
+      "arabic": "لَّا یَحِلُّ لَكَ ٱلنِّسَاۤءُ مِنۢ بَعۡدُ وَلَاۤ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَ ٰ⁠جࣲ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ یَمِینُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ رَّقِیبࣰا\n",
+      "english": "Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allah, over all things, an Observer.",
+      "hindi": "(ऐ रसूल) अब उन (नौ) के बाद (और) औरतें तुम्हारे वास्ते हलाल नहीं और न ये जायज़ है कि उनके बदले उनमें से किसी को छोड़कर और बीबियाँ कर लो अगर चे तुमको उनका हुस्न कैसा ही भला (क्यों न) मालूम हो मगर तुम्हारी लौंडियाँ (इस के बाद भी जायज़ हैं) और खुदा तो हर चीज़ का निगरॉ है"
+    },
+    {
+      "verse_number": 53,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَدۡخُلُوا۟ بُیُوتَ ٱلنَّبِیِّ إِلَّاۤ أَن یُؤۡذَنَ لَكُمۡ إِلَىٰ طَعَامٍ غَیۡرَ نَـٰظِرِینَ إِنَىٰهُ وَلَـٰكِنۡ إِذَا دُعِیتُمۡ فَٱدۡخُلُوا۟ فَإِذَا طَعِمۡتُمۡ فَٱنتَشِرُوا۟ وَلَا مُسۡتَـٔۡنِسِینَ لِحَدِیثٍۚ إِنَّ ذَ ٰ⁠لِكُمۡ كَانَ یُؤۡذِی ٱلنَّبِیَّ فَیَسۡتَحۡیِۦ مِنكُمۡۖ وَٱللَّهُ لَا یَسۡتَحۡیِۦ مِنَ ٱلۡحَقِّۚ وَإِذَا سَأَلۡتُمُوهُنَّ مَتَـٰعࣰا فَسۡـَٔلُوهُنَّ مِن وَرَاۤءِ حِجَابࣲۚ ذَ ٰ⁠لِكُمۡ أَطۡهَرُ لِقُلُوبِكُمۡ وَقُلُوبِهِنَّۚ وَمَا كَانَ لَكُمۡ أَن تُؤۡذُوا۟ رَسُولَ ٱللَّهِ وَلَاۤ أَن تَنكِحُوۤا۟ أَزۡوَ ٰ⁠جَهُۥ مِنۢ بَعۡدِهِۦۤ أَبَدًاۚ إِنَّ ذَ ٰ⁠لِكُمۡ كَانَ عِندَ ٱللَّهِ عَظِیمًا\n",
+      "english": "O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allah is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allah or to marry his wives after him, ever. Indeed, that would be in the sight of Allah an enormity.",
+      "hindi": "ऐ ईमानदारों तुम लोग पैग़म्बर के घरों में न जाया करो मगर जब तुमको खाने के वास्ते (अन्दर आने की) इजाज़त दी जाए (लेकिन) उसके पकने का इन्तेज़ार (नबी के घर बैठकर) न करो मगर जब तुमको बुलाया जाए तो (ठीक वक्त पर) जाओ और फिर जब खा चुको तो (फौरन अपनी अपनी जगह) चले जाया करो और बातों में न लग जाया करो क्योंकि इससे पैग़म्बर को अज़ीयत होती है तो वह तुम्हारा लैहाज़ करते हैं और खुदा तो ठीक (ठीक कहने) से झेंपता नहीं और जब पैग़म्बर की बीवियों से कुछ माँगना हो तो पर्दे के बाहर से माँगा करो यही तुम्हारे दिलों और उनके दिलों के वास्ते बहुत सफाई की बात है और तुम्हारे वास्ते ये जायज़ नहीं कि रसूले खुदा को (किसी तरह) अज़ीयत दो और न ये जायज़ है कि तुम उसके बाद कभी उनकी बीवियों से निकाह करो बेशक ये ख़ुदा के नज़दीक बड़ा (गुनाह) है"
+    },
+    {
+      "verse_number": 54,
+      "arabic": "إِن تُبۡدُوا۟ شَیۡـًٔا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَیۡءٍ عَلِیمࣰا\n",
+      "english": "Whether you reveal a thing or conceal it, indeed Allah is ever, of all things, Knowing.",
+      "hindi": "चाहे किसी चीज़ को तुम ज़ाहिर करो या उसे छिपाओ खुदा तो (बहरहाल) हर चीज़ से यक़ीनी खूब आगाह है"
+    },
+    {
+      "verse_number": 55,
+      "arabic": "لَّا جُنَاحَ عَلَیۡهِنَّ فِیۤ ءَابَاۤىِٕهِنَّ وَلَاۤ أَبۡنَاۤىِٕهِنَّ وَلَاۤ إِخۡوَ ٰ⁠نِهِنَّ وَلَاۤ أَبۡنَاۤءِ إِخۡوَ ٰ⁠نِهِنَّ وَلَاۤ أَبۡنَاۤءِ أَخَوَ ٰ⁠تِهِنَّ وَلَا نِسَاۤىِٕهِنَّ وَلَا مَا مَلَكَتۡ أَیۡمَـٰنُهُنَّۗ وَٱتَّقِینَ ٱللَّهَۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدًا\n",
+      "english": "There is no blame upon women concerning their fathers or their sons or their brothers or their brothers' sons or their sisters' sons or their women or those their right hands possess. And fear Allah. Indeed Allah is ever, over all things, Witness.",
+      "hindi": "औरतों पर न अपने बाप दादाओं (के सामने होने) में कुछ गुनाह है और न अपने बेटों के और न अपने भाईयों के और न अपने भतीजों के और अपने भांजों के और न अपनी (क़िस्म कि) औरतों के और न अपनी लौंडियों के सामने होने में कुछ गुनाह है (ऐ पैग़म्बर की बीबियों) तुम लोग खुदा से डरती रहो इसमें कोई शक ही नहीं की खुदा (तुम्हारे आमाल में) हर चीज़ से वाक़िफ़ है"
+    },
+    {
+      "verse_number": 56,
+      "arabic": "إِنَّ ٱللَّهَ وَمَلَـٰۤىِٕكَتَهُۥ یُصَلُّونَ عَلَى ٱلنَّبِیِّۚ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ صَلُّوا۟ عَلَیۡهِ وَسَلِّمُوا۟ تَسۡلِیمًا\n",
+      "english": "Indeed, Allah confers blessing upon the Prophet, and His angels [ask Him to do so]. O you who have believed, ask [Allah to confer] blessing upon him and ask [Allah to grant him] peace.",
+      "hindi": "इसमें भी शक नहीं कि खुदा और उसके फरिश्ते पैग़म्बर (और उनकी आल) पर दुरूद भेजते हैं तो ऐ ईमानदारों तुम भी दुरूद भेजते रहो और बराबर सलाम करते रहो"
+    },
+    {
+      "verse_number": 57,
+      "arabic": "إِنَّ ٱلَّذِینَ یُؤۡذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِ وَأَعَدَّ لَهُمۡ عَذَابࣰا مُّهِینࣰا\n",
+      "english": "Indeed, those who abuse Allah and His Messenger - Allah has cursed them in this world and the Hereafter and prepared for them a humiliating punishment.",
+      "hindi": "बेशक जो लोग खुदा को और उसके रसूल को अज़ीयत देते हैं उन पर खुदा ने दुनिया और आखेरत (दोनों) में लानत की है और उनके लिए रूसवाई का अज़ाब तैयार कर रखा है"
+    },
+    {
+      "verse_number": 58,
+      "arabic": "وَٱلَّذِینَ یُؤۡذُونَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ بِغَیۡرِ مَا ٱكۡتَسَبُوا۟ فَقَدِ ٱحۡتَمَلُوا۟ بُهۡتَـٰنࣰا وَإِثۡمࣰا مُّبِینࣰا\n",
+      "english": "And those who harm believing men and believing women for [something] other than what they have earned have certainly born upon themselves a slander and manifest sin.",
+      "hindi": "और जो लोग ईमानदार मर्द और ईमानदार औरतों को बगैर कुछ किए द्दरे (तोहमत देकर) अज़ीयत देते हैं तो वह एक बोहतान और सरीह गुनाह का बोझ (अपनी गर्दन पर) उठाते हैं"
+    },
+    {
+      "verse_number": 59,
+      "arabic": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّأَزۡوَ ٰ⁠جِكَ وَبَنَاتِكَ وَنِسَاۤءِ ٱلۡمُؤۡمِنِینَ یُدۡنِینَ عَلَیۡهِنَّ مِن جَلَـٰبِیبِهِنَّۚ ذَ ٰ⁠لِكَ أَدۡنَىٰۤ أَن یُعۡرَفۡنَ فَلَا یُؤۡذَیۡنَۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا\n",
+      "english": "O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments. That is more suitable that they will be known and not be abused. And ever is Allah Forgiving and Merciful.",
+      "hindi": "ऐ नबी अपनी बीवियों और अपनी लड़कियों और मोमिनीन की औरतों से कह दो कि (बाहर निकलते वक्त) अपने (चेहरों और गर्दनों) पर अपनी चादरों का घूंघट लटका लिया करें ये उनकी (शराफ़त की) पहचान के वास्ते बहुत मुनासिब है तो उन्हें कोई छेड़ेगा नहीं और खुदा तो बड़ा बख्शने वाला मेहरबान है"
+    },
+    {
+      "verse_number": 60,
+      "arabic": "۞ لَّىِٕن لَّمۡ یَنتَهِ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡمُرۡجِفُونَ فِی ٱلۡمَدِینَةِ لَنُغۡرِیَنَّكَ بِهِمۡ ثُمَّ لَا یُجَاوِرُونَكَ فِیهَاۤ إِلَّا قَلِیلࣰا\n",
+      "english": "If the hypocrites and those in whose hearts is disease and those who spread rumors in al-Madinah do not cease, We will surely incite you against them; then they will not remain your neighbors therein except for a little.",
+      "hindi": "ऐ रसूल मुनाफेक़ीन और वह लोग जिनके दिलों में (कुफ़्र का) मर्ज़ है और जो लोग मदीने में बुरी ख़बरें उड़ाया करते हैं- अगर ये लोग (अपनी शरारतों से) बाज़ न आएंगें तो हम तुम ही को (एक न एक दिन) उन पर मुसल्लत कर देगें फिर वह तुम्हारे पड़ोस में चन्द रोज़ों के सिवा ठहरने (ही) न पाएँगे"
+    },
+    {
+      "verse_number": 61,
+      "arabic": "مَّلۡعُونِینَۖ أَیۡنَمَا ثُقِفُوۤا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقۡتِیلࣰا\n",
+      "english": "Accursed wherever they are found, [being] seized and massacred completely.",
+      "hindi": "लानत के मारे जहाँ कहीं हत्थे चढ़े पकड़े गए और फिर बुरी तरह मार डाले गए"
+    },
+    {
+      "verse_number": 62,
+      "arabic": "سُنَّةَ ٱللَّهِ فِی ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبۡدِیلࣰا\n",
+      "english": "[This is] the established way of Allah with those who passed on before; and you will not find in the way of Allah any change.",
+      "hindi": "जो लोग पहले गुज़र गए उनके बारे में (भी) खुदा की (यही) आदत (जारी) रही और तुम खुदा की आदत में हरगिज़ तग़य्युर तबद्दुल न पाओगे"
+    },
+    {
+      "verse_number": 63,
+      "arabic": "یَسۡـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِۖ قُلۡ إِنَّمَا عِلۡمُهَا عِندَ ٱللَّهِۚ وَمَا یُدۡرِیكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِیبًا\n",
+      "english": "People ask you concerning the Hour. Say,\" Knowledge of it is only with Allah. And what may make you perceive? Perhaps the Hour is near.\"",
+      "hindi": "(ऐ रसूल) लोग तुमसे क़यामत के बारे में पूछा करते हैं (तुम उनसे) कह दो कि उसका इल्म तो बस खुदा को है और तुम क्या जानो शायद क़यामत क़रीब ही हो"
+    },
+    {
+      "verse_number": 64,
+      "arabic": "إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَـٰفِرِینَ وَأَعَدَّ لَهُمۡ سَعِیرًا\n",
+      "english": "Indeed, Allah has cursed the disbelievers and prepared for them a Blaze.",
+      "hindi": "ख़ुदा ने क़ाफिरों पर यक़ीनन लानत की है और उनके लिए जहन्नुम को तैयार कर रखा है"
+    },
+    {
+      "verse_number": 65,
+      "arabic": "خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۖ لَّا یَجِدُونَ وَلِیࣰّا وَلَا نَصِیرࣰا\n",
+      "english": "Abiding therein forever, they will not find a protector or a helper.",
+      "hindi": "जिसमें वह हमेशा अबदल आबाद रहेंगे न किसी को अपना सरपरस्त पाएँगे न मद्दगार"
+    },
+    {
+      "verse_number": 66,
+      "arabic": "یَوۡمَ تُقَلَّبُ وُجُوهُهُمۡ فِی ٱلنَّارِ یَقُولُونَ یَـٰلَیۡتَنَاۤ أَطَعۡنَا ٱللَّهَ وَأَطَعۡنَا ٱلرَّسُولَا۠\n",
+      "english": "The Day their faces will be turned about in the Fire, they will say, \"How we wish we had obeyed Allah and obeyed the Messenger.\"",
+      "hindi": "जिस दिन उनके मुँह जहन्नुम की तरफ फेर दिए जाएँगें तो उस दिन अफ़सोसनाक लहजे में कहेंगे ऐ काश हमने खुदा की इताअत की होती और रसूल का कहना माना होता"
+    },
+    {
+      "verse_number": 67,
+      "arabic": "وَقَالُوا۟ رَبَّنَاۤ إِنَّاۤ أَطَعۡنَا سَادَتَنَا وَكُبَرَاۤءَنَا فَأَضَلُّونَا ٱلسَّبِیلَا۠\n",
+      "english": "And they will say, \"Our Lord, indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way.",
+      "hindi": "और कहेंगे कि परवरदिगारहमने अपने सरदारों अपने बड़ों का कहना माना तो उन्हों ही ने हमें गुमराह कर दिया"
+    },
+    {
+      "verse_number": 68,
+      "arabic": "رَبَّنَاۤ ءَاتِهِمۡ ضِعۡفَیۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنࣰا كَبِیرࣰا\n",
+      "english": "Our Lord, give them double the punishment and curse them with a great curse.\"",
+      "hindi": "परवरदिगारा (हम पर तो अज़ाब सही है मगर) उन लोगों पर दोहरा अज़ाब नाज़िल कर और उन पर बड़ी से बड़ी लानत कर"
+    },
+    {
+      "verse_number": 69,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِینَ ءَاذَوۡا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ۚ وَكَانَ عِندَ ٱللَّهِ وَجِیهࣰا\n",
+      "english": "O you who have believed, be not like those who abused Moses; then Allah cleared him of what they said. And he, in the sight of Allah, was distinguished.",
+      "hindi": "ऐ ईमानवालों (ख़बरदार कहीं) तुम लोग भी उनके से न हो जाना जिन्होंने मूसा को तकलीफ दी तो खुदा ने उनकी तोहमतों से मूसा को बरी कर दिया और मूसा खुदा के नज़दीक एक रवादार (इज्ज़त करने वाले) (पैग़म्बर) थे"
+    },
+    {
+      "verse_number": 70,
+      "arabic": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوۡلࣰا سَدِیدࣰا\n",
+      "english": "O you who have believed, fear Allah and speak words of appropriate justice.",
+      "hindi": "ऐ ईमानवालों खुदा से डरते रहो और (जब कहो तो) दुरूस्त बात कहा करो"
+    },
+    {
+      "verse_number": 71,
+      "arabic": "یُصۡلِحۡ لَكُمۡ أَعۡمَـٰلَكُمۡ وَیَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۗ وَمَن یُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ فَازَ فَوۡزًا عَظِیمًا\n",
+      "english": "He will [then] amend for you your deeds and forgive you your sins. And whoever obeys Allah and His Messenger has certainly attained a great attainment.",
+      "hindi": "तो खुदा तुम्हारी कारगुज़ारियों को दुरूस्त कर देगा और तुम्हारे गुनाह बख्श देगा और जिस शख्स ने खुदा और उसके रसूल की इताअत की वह तो अपनी मुराद को खूब अच्छी तरह पहुँच गया"
+    },
+    {
+      "verse_number": 72,
+      "arabic": "إِنَّا عَرَضۡنَا ٱلۡأَمَانَةَ عَلَى ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَٱلۡجِبَالِ فَأَبَیۡنَ أَن یَحۡمِلۡنَهَا وَأَشۡفَقۡنَ مِنۡهَا وَحَمَلَهَا ٱلۡإِنسَـٰنُۖ إِنَّهُۥ كَانَ ظَلُومࣰا جَهُولࣰا\n",
+      "english": "Indeed, we offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it. Indeed, he was unjust and ignorant.",
+      "hindi": "बेशक हमने (रोज़े अज़ल) अपनी अमानत (इताअत इबादत) को सारे आसमान और ज़मीन पहाड़ों के सामने पेश किया तो उन्होंने उसके (बार) उठाने से इन्कार किया और उससे डर गए और आदमी ने उसे (बे ताम्मुल) उठा लिया बेशक इन्सान (अपने हक़ में) बड़ा ज़ालिम (और) नादान है"
+    },
+    {
+      "verse_number": 73,
+      "arabic": "لِّیُعَذِّبَ ٱللَّهُ ٱلۡمُنَـٰفِقِینَ وَٱلۡمُنَـٰفِقَـٰتِ وَٱلۡمُشۡرِكِینَ وَٱلۡمُشۡرِكَـٰتِ وَیَتُوبَ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمَۢا\n",
+      "english": "[It was] so that Allah may punish the hypocrite men and hypocrite women and the men and women who associate others with Him and that Allah may accept repentance from the believing men and believing women. And ever is Allah Forgiving and Merciful.",
+      "hindi": "इसका नतीजा यह हुआ कि खुदा मुनाफिक़ मर्दों और मुनाफिक़ औरतों और मुशरिक मर्दों और मुशरिक औरतों को (उनके किए की) सज़ा देगा और ईमानदार मर्दों और ईमानदार औरतों की (तक़सीर अमानत की) तौबा क़ुबूल फरमाएगा और खुदा तो बड़ा बख़शने वाला मेहरबान है"
+    }
+  ]
+}

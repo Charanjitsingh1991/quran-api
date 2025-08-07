@@ -1,0 +1,43 @@
+{
+  "id": 109,
+  "name_simple": "Al-Kafirun",
+  "name_arabic": "الكافرون",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ\n",
+      "english": "Say, \"O disbelievers,",
+      "hindi": "(ऐ रसूल) तुम कह दो कि ऐ काफिरों"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ\n",
+      "english": "I do not worship what you worship.",
+      "hindi": "तुम जिन चीज़ों को पूजते हो, मैं उनको नहीं पूजता"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n",
+      "english": "Nor are you worshippers of what I worship.",
+      "hindi": "और जिस (ख़ुदा) की मैं इबादत करता हूँ उसकी तुम इबादत नहीं करते"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ\n",
+      "english": "Nor will I be a worshipper of what you worship.",
+      "hindi": "और जिन्हें तुम पूजते हो मैं उनका पूजने वाला नहीं"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ\n",
+      "english": "Nor will you be worshippers of what I worship.",
+      "hindi": "और जिसकी मैं इबादत करता हूँ उसकी तुम इबादत करने वाले नहीं"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ\n",
+      "english": "For you is your religion, and for me is my religion.\"",
+      "hindi": "तुम्हारे लिए तुम्हारा दीन मेरे लिए मेरा दीन"
+    }
+  ]
+}

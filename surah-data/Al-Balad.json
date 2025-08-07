@@ -1,0 +1,127 @@
+{
+  "id": 90,
+  "name_simple": "Al-Balad",
+  "name_arabic": "البلد",
+  "verses": [
+    {
+      "verse_number": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ لَاۤ أُقۡسِمُ بِهَـٰذَا ٱلۡبَلَدِ\n",
+      "english": "I swear by this city, Makkah -",
+      "hindi": "मुझे इस शहर (मक्का) की कसम"
+    },
+    {
+      "verse_number": 2,
+      "arabic": "وَأَنتَ حِلُّۢ بِهَـٰذَا ٱلۡبَلَدِ\n",
+      "english": "And you, [O Muhammad], are free of restriction in this city -",
+      "hindi": "और तुम इसी शहर में तो रहते हो"
+    },
+    {
+      "verse_number": 3,
+      "arabic": "وَوَالِدࣲ وَمَا وَلَدَ\n",
+      "english": "And [by] the father and that which was born [of him],",
+      "hindi": "और (तुम्हारे) बाप (आदम) और उसकी औलाद की क़सम"
+    },
+    {
+      "verse_number": 4,
+      "arabic": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ فِی كَبَدٍ\n",
+      "english": "We have certainly created man into hardship.",
+      "hindi": "हमने इन्सान को मशक्क़त में (रहने वाला) पैदा किया है"
+    },
+    {
+      "verse_number": 5,
+      "arabic": "أَیَحۡسَبُ أَن لَّن یَقۡدِرَ عَلَیۡهِ أَحَدࣱ\n",
+      "english": "Does he think that never will anyone overcome him?",
+      "hindi": "क्या वह ये समझता है कि उस पर कोई काबू न पा सकेगा"
+    },
+    {
+      "verse_number": 6,
+      "arabic": "یَقُولُ أَهۡلَكۡتُ مَالࣰا لُّبَدًا\n",
+      "english": "He says, \"I have spent wealth in abundance.\"",
+      "hindi": "वह कहता है कि मैने अलग़ारों माल उड़ा दिया"
+    },
+    {
+      "verse_number": 7,
+      "arabic": "أَیَحۡسَبُ أَن لَّمۡ یَرَهُۥۤ أَحَدٌ\n",
+      "english": "Does he think that no one has seen him?",
+      "hindi": "क्या वह ये ख्याल रखता है कि उसको किसी ने देखा ही नहीं"
+    },
+    {
+      "verse_number": 8,
+      "arabic": "أَلَمۡ نَجۡعَل لَّهُۥ عَیۡنَیۡنِ\n",
+      "english": "Have We not made for him two eyes?",
+      "hindi": "क्या हमने उसे दोनों ऑंखें और ज़बान"
+    },
+    {
+      "verse_number": 9,
+      "arabic": "وَلِسَانࣰا وَشَفَتَیۡنِ\n",
+      "english": "And a tongue and two lips?",
+      "hindi": "और दोनों लब नहीं दिए (ज़रूर दिए)"
+    },
+    {
+      "verse_number": 10,
+      "arabic": "وَهَدَیۡنَـٰهُ ٱلنَّجۡدَیۡنِ\n",
+      "english": "And have shown him the two ways?",
+      "hindi": "और उसको (अच्छी बुरी) दोनों राहें भी दिखा दीं"
+    },
+    {
+      "verse_number": 11,
+      "arabic": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ\n",
+      "english": "But he has not broken through the difficult pass.",
+      "hindi": "फिर वह घाटी पर से होकर (क्यों) नहीं गुज़रा"
+    },
+    {
+      "verse_number": 12,
+      "arabic": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ\n",
+      "english": "And what can make you know what is [breaking through] the difficult pass?",
+      "hindi": "और तुमको क्या मालूम कि घाटी क्या है"
+    },
+    {
+      "verse_number": 13,
+      "arabic": "فَكُّ رَقَبَةٍ\n",
+      "english": "It is the freeing of a slave",
+      "hindi": "किसी (की) गर्दन का (गुलामी या कर्ज से) छुड़ाना"
+    },
+    {
+      "verse_number": 14,
+      "arabic": "أَوۡ إِطۡعَـٰمࣱ فِی یَوۡمࣲ ذِی مَسۡغَبَةࣲ\n",
+      "english": "Or feeding on a day of severe hunger",
+      "hindi": "या भूख के दिन रिश्तेदार यतीम या ख़ाकसार"
+    },
+    {
+      "verse_number": 15,
+      "arabic": "یَتِیمࣰا ذَا مَقۡرَبَةٍ\n",
+      "english": "An orphan of near relationship",
+      "hindi": "मोहताज को"
+    },
+    {
+      "verse_number": 16,
+      "arabic": "أَوۡ مِسۡكِینࣰا ذَا مَتۡرَبَةࣲ\n",
+      "english": "Or a needy person in misery",
+      "hindi": "खाना खिलाना"
+    },
+    {
+      "verse_number": 17,
+      "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِینَ ءَامَنُوا۟ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ وَتَوَاصَوۡا۟ بِٱلۡمَرۡحَمَةِ\n",
+      "english": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+      "hindi": "फिर तो उन लोगों में (शामिल) हो जाता जो ईमान लाए और सब्र की नसीहत और तरस खाने की वसीयत करते रहे"
+    },
+    {
+      "verse_number": 18,
+      "arabic": "أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ\n",
+      "english": "Those are the companions of the right.",
+      "hindi": "यही लोग ख़ुश नसीब हैं"
+    },
+    {
+      "verse_number": 19,
+      "arabic": "وَٱلَّذِینَ كَفَرُوا۟ بِـَٔایَـٰتِنَا هُمۡ أَصۡحَـٰبُ ٱلۡمَشۡـَٔمَةِ\n",
+      "english": "But they who disbelieved in Our signs - those are the companions of the left.",
+      "hindi": "और जिन लोगों ने हमारी आयतों से इन्कार किया है यही लोग बदबख्त हैं"
+    },
+    {
+      "verse_number": 20,
+      "arabic": "عَلَیۡهِمۡ نَارࣱ مُّؤۡصَدَةُۢ\n",
+      "english": "Over them will be fire closed in.",
+      "hindi": "कि उनको आग में डाल कर हर तरफ से बन्द कर दिया जाएगा"
+    }
+  ]
+}
